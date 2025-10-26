@@ -2,15 +2,51 @@
 <rss version="2.0">
     <channel>
       <title>Quartz 4</title>
-      <link>https://quartz.jzhao.xyz</link>
+      <link>https://https://yaogara.github.io/yaogara-ark</link>
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ 🌿 The Yaogará Ark Welcome to the open ethnobotany portal. ]]></description>
-    <pubDate>Sat, 25 Oct 2025 22:51:35 GMT</pubDate>
+    <title>The Yaogará Ark</title>
+    <link>https://https://yaogara.github.io/yaogara-ark/</link>
+    <guid>https://https://yaogara.github.io/yaogara-ark/</guid>
+    <description><![CDATA[ 🌿 The Yaogará Ark Welcome to the open ethnobotany portal — a community-driven effort to document the sacred plants, cultural lineages, and Indigenous knowledge of the Amazon. ]]></description>
+    <pubDate>Sun, 26 Oct 2025 05:00:00 GMT</pubDate>
+  </item><item>
+    <title>Preparation-and-Ceremony</title>
+    <link>https://https://yaogara.github.io/yaogara-ark/traditions/Preparation-and-Ceremony</link>
+    <guid>https://https://yaogara.github.io/yaogara-ark/traditions/Preparation-and-Ceremony</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 26 Oct 2025 03:00:25 GMT</pubDate>
+  </item><item>
+    <title>Ethnobotanical-Traditions</title>
+    <link>https://https://yaogara.github.io/yaogara-ark/traditions/Ethnobotanical-Traditions</link>
+    <guid>https://https://yaogara.github.io/yaogara-ark/traditions/Ethnobotanical-Traditions</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 26 Oct 2025 03:00:25 GMT</pubDate>
+  </item><item>
+    <title>Brugmansia-spp</title>
+    <link>https://https://yaogara.github.io/yaogara-ark/plants/Brugmansia-spp</link>
+    <guid>https://https://yaogara.github.io/yaogara-ark/plants/Brugmansia-spp</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 26 Oct 2025 03:00:23 GMT</pubDate>
+  </item><item>
+    <title>Psychotria-viridis</title>
+    <link>https://https://yaogara.github.io/yaogara-ark/plants/Psychotria-viridis</link>
+    <guid>https://https://yaogara.github.io/yaogara-ark/plants/Psychotria-viridis</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 26 Oct 2025 03:00:23 GMT</pubDate>
+  </item><item>
+    <title>Banisteriopsis-caapi</title>
+    <link>https://https://yaogara.github.io/yaogara-ark/plants/Banisteriopsis-caapi</link>
+    <guid>https://https://yaogara.github.io/yaogara-ark/plants/Banisteriopsis-caapi</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 26 Oct 2025 03:00:22 GMT</pubDate>
+  </item><item>
+    <title>about</title>
+    <link>https://https://yaogara.github.io/yaogara-ark/about</link>
+    <guid>https://https://yaogara.github.io/yaogara-ark/about</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 26 Oct 2025 03:00:13 GMT</pubDate>
   </item>
     </channel>
   </rss>

@@ -1,4 +1,17 @@
-# *Psychotria viridis* Ruíz & Pavón: An Ethnobotanical Review
+---
+title: "Psychotria viridis (Chacruna Leaf)"
+aliases: ["Chacruna", "Chacrona", "Sameruca"]
+summary: "Primary DMT-containing component of ayahuasca, essential to Amazonian shamanic practice and modern psychedelic research."
+tags: ["ayahuasca", "chacruna", "teacher-plants", "ethnobotany", "Amazon", "Psychotria-viridis"]
+date: 2025-10-26
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+---
+
+# Psychotria viridis (Chacruna Leaf)
+
+*This article is part of the **Yaogará Ark**, a living archive of Amazonian teacher plants and the ancestral knowledge surrounding their traditional and contemporary use.*
+
+---
 
 ## Abstract
 

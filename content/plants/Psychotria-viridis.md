@@ -7,8 +7,6 @@ date: 2025-10-26
 license: "CC BY-SA 4.0 – Yaogará Research Archive"
 ---
 
-# Psychotria viridis (Chacruna Leaf)
-
 *This article is part of the **Yaogará Ark**, a living archive of Amazonian teacher plants and the ancestral knowledge surrounding their traditional and contemporary use.*
 
 ---

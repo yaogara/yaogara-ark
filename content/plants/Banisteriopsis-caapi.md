@@ -7,9 +7,7 @@ date: 2025-10-26
 license: "CC BY-SA 4.0 – Yaogará Research Archive"
 ---
 
-# Banisteriopsis caapi (Ayahuasca Vine)
-
-*This article is part of the **Yaogará Research Archive**, a living documentation of sacred Amazonian plants and the ancestral knowledge surrounding their traditional and contemporary use.*
+*This article is part of the **Yaogará Ark**, a living archive of Amazonian teacher plants and the ancestral knowledge surrounding their traditional and contemporary use.*
 
 ---
 

@@ -28,7 +28,7 @@ export default ((opts?: Options) => {
         <p style="font-size:0.9em; opacity:0.8;">
           Maintained by{" "}
           <a href="https://yaogara.com" target="_blank" rel="noopener">
-            Yaogara Research Initiative
+            Yaogará Natural Reserve
           </a>
         </p>
       </footer>

@@ -3,9 +3,6 @@ title: "The Yaogará Ark"
 description: "An open ethnobotanical archive documenting sacred plants, cultural lineages, and Indigenous ecological knowledge of the Amazon."
 tags: ["ethnobotany", "Amazon", "Yaogara"]
 ---
-
-# The Yaogará Ark
-
 Welcome to the open ethnobotany portal — a community-driven effort to document the sacred plants, cultural lineages, and Indigenous knowledge of the Amazon.
 
 > *"When a plant speaks, it remembers who listens."*

@@ -24,6 +24,13 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <hr style="opacity:0.3; margin:1em 0;" />
+        <p style="font-size:0.9em; opacity:0.8;">
+          Maintained by{" "}
+          <a href="https://yaogara.com" target="_blank" rel="noopener">
+            Yaogara Research Initiative
+          </a>
+        </p>
       </footer>
     )
   }

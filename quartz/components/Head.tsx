@@ -97,6 +97,20 @@ export default (() => {
             return resource
           }
         })}
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            name: "The Yaogará Ark",
+            url: `https://${cfg.baseUrl}`,
+            publisher: {
+              "@type": "Organization",
+              name: "Yaogara Research Initiative",
+              url: "https://yaogara.com",
+            },
+            description: "An open ethnobotanical archive documenting sacred plants and Indigenous ecological knowledge of the Amazon.",
+          })}
+        </script>
       </head>
     )
   }

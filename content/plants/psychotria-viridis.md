@@ -1,10 +1,22 @@
 ---
-title: "Psychotria viridis (Chacruna Leaf)"
-aliases: ["Chacruna", "Chacruna Leaf", "Chacrona", "Chaqruy", "Psychotria viridis"]
-summary: "Amazonian Rubiaceae shrub whose DMT-rich leaves are a primary source of the visionary component in ayahuasca; central to Indigenous healing systems and contemporary ethnobotany."
-tags: ["ayahuasca", "Psychotria viridis", "teacher plants", "Rubiaceae", "DMT", "ethnobotany", "Amazonia"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+title: Psychotria viridis (Chacruna Leaf)
+aliases:
+  - Chacruna
+  - Chacruna Leaf
+  - Chacrona
+  - Chaqruy
+  - Psychotria viridis
+summary: Amazonian Rubiaceae shrub whose DMT-rich leaves are a primary source of the visionary component in ayahuasca; central to Indigenous healing systems and contemporary ethnobotany.
+tags:
+  - ayahuasca
+  - Psychotria viridis
+  - teacher plants
+  - Rubiaceae
+  - DMT
+  - ethnobotany
+  - Amazonia
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -12,7 +24,7 @@ license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research arc
 ---
 
 ## Abstract
-Psychotria viridis (Chacruna) is a tropical Amazonian shrub of foundational importance in Indigenous pharmacology, primarily for its role as the key source of N,N-dimethyltryptamine (DMT) in the psychoactive brew [[Ayahuasca]]. Among Amazonian groups, it is valued as a "teacher plant," integral to ceremonial healing, divination, and cultural identity. Its pharmacology is unique for providing an orally active entheogenic experience when combined with [[Banisteriopsis caapi]], which supplies monoamine oxidase inhibitors (MAOIs). Contemporary research addresses not only its complex cultural uses but also issues of conservation, cultivation, and biocultural rights.
+Psychotria viridis (Chacruna) is a tropical Amazonian shrub of foundational importance in Indigenous pharmacology, primarily for its role as the key source of N,N-dimethyltryptamine (DMT) in the psychoactive brew [[preparations/ayahuasca]]. Among Amazonian groups, it is valued as a "teacher plant," integral to ceremonial healing, divination, and cultural identity. Its pharmacology is unique for providing an orally active entheogenic experience when combined with [[plants/banisteriopsis-caapi]], which supplies monoamine oxidase inhibitors (MAOIs). Contemporary research addresses not only its complex cultural uses but also issues of conservation, cultivation, and biocultural rights.
 
 ---
 
@@ -42,14 +54,14 @@ In areas with long-standing human occupation, P. viridis frequently occurs in cu
 ---
 
 ## Ethnobotanical Context
-Psychotria viridis is central to the pharmacological and cosmological traditions of numerous Indigenous groups of western Amazonia, including Shipibo-Conibo, Asháninka, and many mestizo communities engaged in vegetalismo [5][7][3]. Its leaves are combined with the liana [[Banisteriopsis caapi]] to brew [[Ayahuasca]], used in ritual healing, initiation, conflict resolution, diagnosis, and divination [3][4]. Within these ceremonial frameworks, P. viridis is closely associated with “light” or visual clarity, while B. caapi is associated with “force” or grounding and somatic guidance, a phenomenological dyad frequently invoked by practitioners [4].
+Psychotria viridis is central to the pharmacological and cosmological traditions of numerous Indigenous groups of western Amazonia, including Shipibo-Conibo, Asháninka, and many mestizo communities engaged in vegetalismo [5][7][3]. Its leaves are combined with the liana [[plants/banisteriopsis-caapi]] to brew [[preparations/ayahuasca]], used in ritual healing, initiation, conflict resolution, diagnosis, and divination [3][4]. Within these ceremonial frameworks, P. viridis is closely associated with “light” or visual clarity, while B. caapi is associated with “force” or grounding and somatic guidance, a phenomenological dyad frequently invoked by practitioners [4].
 
 Key ethnobotanical features include:
 - Instructional role: As a “teacher plant,” P. viridis is understood to impart knowledge, moral orientation, and ecological insight under the guidance of a healer (curandero/shaman). Ayahuasca ceremonies are embedded in ethical codes, dietary regimens, and social relations, which shape the experience and its integration into daily life [3][5][7].  
 - Emic classification: Distinct local names and sub-varieties are recognized, often based on geography, leaf morphology, color, or subtle potency differences. This diversity reflects cumulative knowledge and selective propagation within lineages of practice [4][7].  
 - Diaspora and syncretism: From the mid-20th century onward, the use of P. viridis within ayahuasca has moved beyond Indigenous settings into urban mestizo contexts and syncretic religious movements in Brazil, and has expanded globally through therapeutic and spiritual practices [5][7].
 
-While P. viridis is the most widely cited DMT source in many regions, some traditions use or alternate with other admixture plants such as [[Diplopterys cabrerana]] (chaliponga), which can present distinct subjective effects and dosing considerations. Selection of P. viridis versus other admixtures is often informed by lineage, territory, and ceremonial intent [4][5][7].
+While P. viridis is the most widely cited DMT source in many regions, some traditions use or alternate with other admixture plants such as [[plants/diplopterys-cabrerana]] (chaliponga), which can present distinct subjective effects and dosing considerations. Selection of P. viridis versus other admixtures is often informed by lineage, territory, and ceremonial intent [4][5][7].
 
 ---
 
@@ -58,7 +70,7 @@ Principal active compound:
 - N,N-dimethyltryptamine (DMT), reported at 0.1–0.61% in dried leaf mass [4][5]. DMT is a potent serotonergic hallucinogen acting as an agonist at 5-HT2A receptors [4].
 
 Pharmacological interaction:
-- Orally ingested DMT is normally inactivated by monoamine oxidase (MAO) in the gut and liver. In ayahuasca, β-carboline alkaloids (harmine, harmaline, tetrahydroharmine) from [[Banisteriopsis caapi]] inhibit MAO-A, making DMT orally active and extending its duration. This synergy is a paradigmatic case of sophisticated Indigenous pharmacology discovered and refined through empirical tradition [4][5].
+- Orally ingested DMT is normally inactivated by monoamine oxidase (MAO) in the gut and liver. In ayahuasca, β-carboline alkaloids (harmine, harmaline, tetrahydroharmine) from [[plants/banisteriopsis-caapi]] inhibit MAO-A, making DMT orally active and extending its duration. This synergy is a paradigmatic case of sophisticated Indigenous pharmacology discovered and refined through empirical tradition [4][5].
 
 Other constituents:
 - Leaves contain additional minor alkaloids and phytochemicals, but their pharmacological relevance remains under-characterized relative to DMT’s principal role [6]. Trace compounds could contribute to entourage effects, taste/visceral qualities, or subtle modulations in onset and duration reported by practitioners [4][6].

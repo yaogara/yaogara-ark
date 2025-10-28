@@ -1,16 +1,26 @@
 ---
-title: "Banisteriopsis muricata (Ayahuasca Variant)"
-aliases: ["Red Ayahuasca Vine", "Red Caapi", "Yagé", "Banisteriopsis muricata"]
-summary: "A red-hued ayahuasca vine closely related to Banisteriopsis caapi, used in Western Amazonian pharmacologies; notable for β‑carboline content, ceremonial significance, and emerging conservation concerns."
-tags: ["ayahuasca", "Banisteriopsis muricata", "teacher plants", "Malpighiaceae", "ethnobotany", "Amazonia"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Banisteriopsis muricata (Ayahuasca Variant)
+aliases:
+  - Red Ayahuasca Vine
+  - Red Caapi
+  - Yagé
+  - Banisteriopsis muricata
+summary: 'A red-hued ayahuasca vine closely related to Banisteriopsis caapi, used in Western Amazonian pharmacologies; notable for β‑carboline content, ceremonial significance, and emerging conservation concerns.'
+tags:
+  - ayahuasca
+  - Banisteriopsis muricata
+  - teacher plants
+  - Malpighiaceae
+  - ethnobotany
+  - Amazonia
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
 
 ## Abstract
-Banisteriopsis muricata, commonly called Red Ayahuasca Vine or Yagé, is a woody liana native to the Western Amazon and closely related to [[Banisteriopsis caapi]]. It is traditionally incorporated into ayahuasca preparations by Indigenous and mestizo groups in Ecuador, Peru, Colombia, and Brazil [1][3]. The vine is often recognized by its characteristic reddish stem and powder, a trait reflected in local nomenclatures that differentiate “red,” “yellow,” and “white” vines. In Amazonian pharmacologies, B. muricata is regarded as a potent “teacher plant” with a strong ceremonial profile, used for divinatory insight, therapeutic intervention, and communal healing [1][3]. Ethnobotanical accounts and vendor-sourced descriptions suggest a β‑carboline profile broadly similar to B. caapi, with harmine, harmaline, and tetrahydroharmine as principal alkaloids and monoamine oxidase A (MAO‑A) inhibition enabling the oral activity of DMT-containing admixtures such as [[Psychotria viridis]] or [[Diplopterys cabrerana]] [1][3][6]. Contemporary interest in red vine variants has prompted questions regarding sustainability, taxonomy, and cultural guardianship, underscoring the need for collaborative conservation and respect for Indigenous knowledge systems [1][3][7].
+Banisteriopsis muricata, commonly called Red Ayahuasca Vine or Yagé, is a woody liana native to the Western Amazon and closely related to [[plants/banisteriopsis-caapi]]. It is traditionally incorporated into ayahuasca preparations by Indigenous and mestizo groups in Ecuador, Peru, Colombia, and Brazil [1][3]. The vine is often recognized by its characteristic reddish stem and powder, a trait reflected in local nomenclatures that differentiate “red,” “yellow,” and “white” vines. In Amazonian pharmacologies, B. muricata is regarded as a potent “teacher plant” with a strong ceremonial profile, used for divinatory insight, therapeutic intervention, and communal healing [1][3]. Ethnobotanical accounts and vendor-sourced descriptions suggest a β‑carboline profile broadly similar to B. caapi, with harmine, harmaline, and tetrahydroharmine as principal alkaloids and monoamine oxidase A (MAO‑A) inhibition enabling the oral activity of DMT-containing admixtures such as [[plants/psychotria-viridis]] or [[plants/diplopterys-cabrerana]] [1][3][6]. Contemporary interest in red vine variants has prompted questions regarding sustainability, taxonomy, and cultural guardianship, underscoring the need for collaborative conservation and respect for Indigenous knowledge systems [1][3][7].
 
 ## Botanical Classification
 - Family: Malpighiaceae  
@@ -36,7 +46,7 @@ Contemporary practice includes small-group ceremonies guided by experienced heal
 Ethnomedicinally, B. muricata preparations are cited for addressing inflammatory conditions, parasitic burdens, and symptoms consonant with depressive states, alongside their broader role in facilitating psychological insight and social repair [1][3]. These reported uses largely overlap with those of B. caapi, though red vine reputations specifically emphasize potency and visionary clarity in some accounts [1][3]. Such claims intersect with emerging pharmacological hypotheses about β‑carboline effects on mood and neuroplasticity, yet remain rooted in local diagnostic systems and ritual therapeutics [6].
 
 ## Phytochemistry and Pharmacology
-Available descriptions and related analyses of ayahuasca vine chemistry identify harmine, harmaline, and tetrahydroharmine (THH) as principal β‑carboline alkaloids in Banisteriopsis preparations [1][3][6]. These compounds act as reversible inhibitors of monoamine oxidase A (MAO‑A), thereby protecting orally ingested tryptamines—most commonly N,N‑dimethyltryptamine (DMT) from admixtures such as [[Psychotria viridis]] or [[Diplopterys cabrerana]]—from first-pass metabolic degradation [6]. The result is the well-known synergism of ayahuasca: β‑carboline-mediated MAO‑A inhibition combined with DMT’s serotonergic agonism yields a characteristic profile of altered perception, affective modulation, and visionary experience [6].
+Available descriptions and related analyses of ayahuasca vine chemistry identify harmine, harmaline, and tetrahydroharmine (THH) as principal β‑carboline alkaloids in Banisteriopsis preparations [1][3][6]. These compounds act as reversible inhibitors of monoamine oxidase A (MAO‑A), thereby protecting orally ingested tryptamines—most commonly N,N‑dimethyltryptamine (DMT) from admixtures such as [[plants/psychotria-viridis]] or [[plants/diplopterys-cabrerana]]—from first-pass metabolic degradation [6]. The result is the well-known synergism of ayahuasca: β‑carboline-mediated MAO‑A inhibition combined with DMT’s serotonergic agonism yields a characteristic profile of altered perception, affective modulation, and visionary experience [6].
 
 While direct, peer-reviewed quantification for B. muricata remains limited, ethnobotanical and vendor reports cite β‑carboline concentrations on the order of ~0.11–0.83%, with harmaline and THH commonly emphasized [3][6]. Broader studies of B. caapi and composite ayahuasca brews have documented substantial variation in β‑carboline ratios across samples, suggesting chemotypic diversity, environmental influences, and preparation-dependent outcomes [6]. Such variability provides a plausible substrate for emic distinctions among “red,” “yellow,” and “white” vines, although color categories may capture sensory and ceremonial qualities not reducible to chemistry alone [1][3][6].
 
@@ -46,7 +56,7 @@ Mechanistically:
 - β‑carbolines have been investigated for neuroplastic and antidepressant-like properties, consistent with ceremonial reports of mood and insight benefits [6].
 
 Interactions and variability:
-- The pharmacological profile of an ayahuasca brew depends on the source vine, admixture species (e.g., [[Psychotria viridis]] leaves vs. [[Diplopterys cabrerana]] leaves), plant age, harvest and processing methods, and decoction parameters [1][3][6].  
+- The pharmacological profile of an ayahuasca brew depends on the source vine, admixture species (e.g., [[plants/psychotria-viridis]] leaves vs. [[plants/diplopterys-cabrerana]] leaves), plant age, harvest and processing methods, and decoction parameters [1][3][6].  
 - Differences in β‑carboline ratios can influence the onset, duration, and qualitative dimensions of ceremonies, aligning with practitioner observations of varying “strength” among vine types [1][6].  
 - Ethnographic accounts emphasize that the healer’s dieta, songs, and ritual stewardship co-determine outcomes alongside chemistry, underscoring the inseparability of phytochemistry and practice in Indigenous frameworks [1][3].
 
@@ -56,7 +66,7 @@ Collection and processing:
 - Stems are cleaned, pounded, and shredded to increase extraction efficiency; pieces may be sun-dried or used fresh depending on logistical and ceremonial considerations [3].
 
 Brewing:
-- Shredded vine is layered with DMT-containing leaves, commonly from [[Psychotria viridis]] or [[Diplopterys cabrerana]], and decocted over low heat for several hours or through repeated reductions [1][3].  
+- Shredded vine is layered with DMT-containing leaves, commonly from [[plants/psychotria-viridis]] or [[plants/diplopterys-cabrerana]], and decocted over low heat for several hours or through repeated reductions [1][3].  
 - The red vine is said to impart a distinctive hue to the brew, and many healers attribute a particularly incisive visionary capacity to preparations dominated by B. muricata [3].  
 - Final potency reflects plant selection, ratios, reduction time, and the healer’s intentions; in some traditions, multiple small servings are spaced over a night ceremony to modulate depth and duration [1][3].
 

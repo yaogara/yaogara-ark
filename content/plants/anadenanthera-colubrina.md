@@ -1,10 +1,21 @@
 ---
-title: "Anadenanthera colubrina (Cebil Tree)"
-aliases: ["Cebil", "Vilca", "Cebil Tree", "Anadenanthera colubrina var. cebil"]
-summary: "A South American leguminous tree central to Andean and lowland ceremonial snuffs and rural folk medicine, notable for DMT/5-HO-DMT–rich seeds and ongoing conservation concerns amid habitat fragmentation."
-tags: ["Anadenanthera colubrina", "cebil", "vilca", "teacher plants", "ethnobotany", "tryptamines", "South America"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Anadenanthera colubrina (Cebil Tree)
+aliases:
+  - Cebil
+  - Vilca
+  - Cebil Tree
+  - Anadenanthera colubrina var. cebil
+summary: 'A South American leguminous tree central to Andean and lowland ceremonial snuffs and rural folk medicine, notable for DMT/5-HO-DMT–rich seeds and ongoing conservation concerns amid habitat fragmentation.'
+tags:
+  - Anadenanthera colubrina
+  - cebil
+  - vilca
+  - teacher plants
+  - ethnobotany
+  - tryptamines
+  - South America
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

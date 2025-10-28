@@ -1,10 +1,21 @@
 ---
-title: "Desmodium gangeticum (Bora Bora)"
-aliases: ["Bora Bora", "Shalaparni", "Salaparni", "Desmodium gangeticum"]
-summary: "A perennial Fabaceae shrub valued in Ayurveda and, through intercultural transmission, incorporated into Amazonian dieta protocols for hepatic support, antioxidant activity, and general restoration."
-tags: ["ethnobotany", "Desmodium gangeticum", "hepatoprotective", "Amazonia", "Ayurveda", "teacher plants", "dieta"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+title: Desmodium gangeticum (Bora Bora)
+aliases:
+  - Bora Bora
+  - Shalaparni
+  - Salaparni
+  - Desmodium gangeticum
+summary: 'A perennial Fabaceae shrub valued in Ayurveda and, through intercultural transmission, incorporated into Amazonian dieta protocols for hepatic support, antioxidant activity, and general restoration.'
+tags:
+  - ethnobotany
+  - Desmodium gangeticum
+  - hepatoprotective
+  - Amazonia
+  - Ayurveda
+  - teacher plants
+  - dieta
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the **Yaogará Ark**, a living archive of Amazonian teacher plants.*
@@ -12,7 +23,7 @@ license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research arc
 ---
 
 ## Abstract
-Desmodium gangeticum (Bora Bora) is a perennial herb or subshrub of Fabaceae with a primary range in South and Southeast Asia and a secondary history of cultivation and use in parts of the Western Amazon. Across traditions, it is recognized for detoxifying and restorative properties, with particular emphasis on hepatic (liver) support in plant-based dietary regimens, or “dietas.” In Amazonian ethnomedical contexts, Bora Bora is administered to bolster the liver’s capacity to process dietary and phytochemical loads associated with other teacher plants, including the strong emetic properties encountered in [[Ayahuasca]] rituals. This review synthesizes classification, morphology, distribution, ethnobotanical practice, phytochemistry, pharmacological mechanisms, and sustainability concerns. Emphasis is placed on compounds associated with hepatoprotection, antioxidant defense, and inflammation modulation, traditional preparation methods, and considerations for ethical research and biocultural rights.
+Desmodium gangeticum (Bora Bora) is a perennial herb or subshrub of Fabaceae with a primary range in South and Southeast Asia and a secondary history of cultivation and use in parts of the Western Amazon. Across traditions, it is recognized for detoxifying and restorative properties, with particular emphasis on hepatic (liver) support in plant-based dietary regimens, or “dietas.” In Amazonian ethnomedical contexts, Bora Bora is administered to bolster the liver’s capacity to process dietary and phytochemical loads associated with other teacher plants, including the strong emetic properties encountered in [[preparations/ayahuasca]] rituals. This review synthesizes classification, morphology, distribution, ethnobotanical practice, phytochemistry, pharmacological mechanisms, and sustainability concerns. Emphasis is placed on compounds associated with hepatoprotection, antioxidant defense, and inflammation modulation, traditional preparation methods, and considerations for ethical research and biocultural rights.
 
 ---
 
@@ -44,7 +55,7 @@ Beyond its native range, D. gangeticum is introduced locally in the Amazonian lo
 ## Ethnobotanical Context
 In Western Amazonia, notably within Peru and Brazil, Bora Bora has been selectively incorporated into dieta protocols—structured regimens of dietary restriction and focused plant use for purification, healing, and learning. Dietas commonly accompany ceremonial or therapeutic work with teacher plants and entail careful supervision by experienced practitioners.
 
-- Among Shipibo-Conibo and Yanesha lineages, Bora Bora is administered to support the liver’s capacity to process dietary toxins, metabolites from other plantas maestras, and to counteract side effects associated with strong emetic preparations such as [[Ayahuasca]]. Accounts emphasize improved tolerance of ceremonial work and recovery during the post-ceremony integration period.
+- Among Shipibo-Conibo and Yanesha lineages, Bora Bora is administered to support the liver’s capacity to process dietary toxins, metabolites from other plantas maestras, and to counteract side effects associated with strong emetic preparations such as [[preparations/ayahuasca]]. Accounts emphasize improved tolerance of ceremonial work and recovery during the post-ceremony integration period.
 - Use extends beyond hepatic support. In Amazonian practice, D. gangeticum functions as a general restorative, with reports of benefits for convalescence from febrile illnesses, infections, and chronic gastrointestinal stress, congruent with its broader global ethnomedical profile [(Efferth & Greten, 2019); (García & Quave, 2019)].
 
 These Amazonian adoptions align with long-standing applications in South Asia. In Ayurveda, D. gangeticum (variously “Shalaparni/Salaparni”) is classed among rasayana (rejuvenative) herbs and is included in classical formulations for strengthening vitality, modulating inflammation, and supporting digestion and liver function [(Sankaranarayanan et al., 2010)]. The resonance between Ayurvedic rasayana usage and Amazonian dieta support illustrates convergent ethnomedical strategies around detoxification, constitutional balance, and staged convalescence.
@@ -87,7 +98,7 @@ Preparation and dosage vary by lineage and practitioner, but recurrent features 
 
 - Dietary regimen and context: Administration is embedded within dietary constraints—typically low salt, low sugar, and low fat—which may reduce digestive load and hepatic burden, potentially enhancing efficacy of the decoction. Consumption is supervised by experienced practitioners (curanderos/herbalists), who monitor for idiosyncratic reactions and coordinate timing with ceremonies involving teacher plants.
 
-- Ceremonial roles: While not considered a visionary plant, Bora Bora is often incorporated ahead of or between ceremonies to moderate nausea, support hepatic processing, and sustain overall resilience. In several lineages, pre-ceremony intake is timed to maximize hepatic and gastrointestinal comfort, complementing the emetic and purgative dimensions of [[Ayahuasca]] work [(Efferth & Greten, 2019)].
+- Ceremonial roles: While not considered a visionary plant, Bora Bora is often incorporated ahead of or between ceremonies to moderate nausea, support hepatic processing, and sustain overall resilience. In several lineages, pre-ceremony intake is timed to maximize hepatic and gastrointestinal comfort, complementing the emetic and purgative dimensions of [[preparations/ayahuasca]] work [(Efferth & Greten, 2019)].
 
 - Safety considerations: Although traditional use reports minimal acute toxicity, prudence is advised for individuals on hepatically metabolized medications, anticoagulants, or agents with narrow therapeutic windows. Coordination with knowledgeable healthcare providers is recommended in intercultural clinical settings [(Pal et al., 2015)].
 

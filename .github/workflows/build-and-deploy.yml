@@ -1,0 +1,28 @@
+name: Build and Deploy Ark
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: npm run build
+      - name: Commit citation map
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add static/citations.json
+          git commit -m "Auto-update citation map" || echo "No changes"
+          git push
+      - name: Deploy Quartz
+        run: npx quartz deploy

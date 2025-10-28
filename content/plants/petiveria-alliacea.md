@@ -1,10 +1,21 @@
 ---
-title: "Petiveria alliacea (Anamu)"
-aliases: ["Anamu", "Anamú", "Guinea hen weed", "Guiné"]
-summary: "A sulfur-rich aromatic herb of the tropical Americas, central to Amazonian 'limpieza' purification rites and valued for antimicrobial and anti-inflammatory uses; subject of growing phytochemical and pharmacological study."
-tags: ["Petiveria alliacea", "Anamu", "Amazonia", "ethnobotany", "phytochemistry", "medicinal plants", "limpieza"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Petiveria alliacea (Anamu)
+aliases:
+  - Anamu
+  - Anamú
+  - Guinea hen weed
+  - Guiné
+summary: 'A sulfur-rich aromatic herb of the tropical Americas, central to Amazonian ''limpieza'' purification rites and valued for antimicrobial and anti-inflammatory uses; subject of growing phytochemical and pharmacological study.'
+tags:
+  - Petiveria alliacea
+  - Anamu
+  - Amazonia
+  - ethnobotany
+  - phytochemistry
+  - medicinal plants
+  - limpieza
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied ethnofloras.*

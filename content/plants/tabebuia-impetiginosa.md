@@ -1,10 +1,21 @@
 ---
-title: "Tabebuia impetiginosa (Pau D’Arco)"
-aliases: ["Pau D’Arco", "Taheebo", "Lapacho", "Ipê-roxo", "T. impetiginosa"]
-summary: "Medicinal South American tree whose inner bark is widely used in Amazonian and mestizo herbalism for immune support and infections; rich in naphthoquinones with documented antimicrobial and immunomodulatory activities."
-tags: ["Tabebuia impetiginosa", "Pau D’Arco", "Bignoniaceae", "ethnobotany", "Amazonian medicinal plants", "naphthoquinones"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Tabebuia impetiginosa (Pau D’Arco)
+aliases:
+  - Pau D’Arco
+  - Taheebo
+  - Lapacho
+  - Ipê-roxo
+  - T. impetiginosa
+summary: Medicinal South American tree whose inner bark is widely used in Amazonian and mestizo herbalism for immune support and infections; rich in naphthoquinones with documented antimicrobial and immunomodulatory activities.
+tags:
+  - Tabebuia impetiginosa
+  - Pau D’Arco
+  - Bignoniaceae
+  - ethnobotany
+  - Amazonian medicinal plants
+  - naphthoquinones
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

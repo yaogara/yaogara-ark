@@ -1,10 +1,20 @@
 ---
-title: "Theobroma cacao (Cacao Tree)"
-aliases: ["Cacao", "Cocoa", "Chocolate Tree"]
-summary: "Amazonian tree revered as a heart-centered ceremonial food and keystone agroforestry species; synthesizes ethnobotanical history, phytochemistry, and conservation priorities."
-tags: ["Theobroma cacao", "cacao", "teacher plants", "Amazonia", "ethnobotany", "Malvaceae", "ceremonial cacao"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Theobroma cacao (Cacao Tree)
+aliases:
+  - Cacao
+  - Cocoa
+  - Chocolate Tree
+summary: 'Amazonian tree revered as a heart-centered ceremonial food and keystone agroforestry species; synthesizes ethnobotanical history, phytochemistry, and conservation priorities.'
+tags:
+  - Theobroma cacao
+  - cacao
+  - teacher plants
+  - Amazonia
+  - ethnobotany
+  - Malvaceae
+  - ceremonial cacao
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -52,7 +62,7 @@ Theobroma cacao, the cacao tree, is a keystone species in Amazonian ecosystems a
   - Among Amazonian Indigenous groups, cacao functions as a ritual beverage in community gatherings, rites of passage, and healing ceremonies, believed to foster compassion, emotional openness, and social cohesion [3][6]. Seeds are roasted, ground, and mixed with water, spices, and sweeteners to create beverages consumed during festivals and shamanic contexts. The genus name Theobroma—“food of the gods”—encapsulates this sacrality, echoed in oral traditions and historical records [3][4].
 
 - Ceremonial and social roles
-  - The beverage is often partaken communally, with prayers, songs, and invocations focused on harmonizing the heart, kinship, and place. In some traditions, cacao is paired with sacred songs or with complementary plants; for example, tobacco offerings using [[Nicotiana rustica]] may accompany cacao prayers, each substance understood to play distinct roles in communal and healing settings [3][4][6]. While subtle compared to visionary teacher plants like the [[Banisteriopsis caapi]]/[[Psychotria viridis]] ayahuasca brew, cacao’s psychosocial effects are associated with warmth, conviviality, and affective processing [3][6][10].
+  - The beverage is often partaken communally, with prayers, songs, and invocations focused on harmonizing the heart, kinship, and place. In some traditions, cacao is paired with sacred songs or with complementary plants; for example, tobacco offerings using [[plants/nicotiana-rustica]] may accompany cacao prayers, each substance understood to play distinct roles in communal and healing settings [3][4][6]. While subtle compared to visionary teacher plants like the [[plants/banisteriopsis-caapi]]/[[plants/psychotria-viridis]] ayahuasca brew, cacao’s psychosocial effects are associated with warmth, conviviality, and affective processing [3][6][10].
 
 - Beyond Amazonia
   - Archaeobotanical and linguistic evidence attests to a deep-time history of cacao use in Mesoamerica, where elite and ritual preparations—often spiced and frothed—were central to feasting, tribute, and cosmology [4][5][7]. Contemporary Amazonia coexists with global cacao cultures, and knowledge exchange continues among Indigenous, mestizo, and urban communities. Cacao has been adopted in wellness-oriented “ceremonial cacao” circles as a non-psychoactive teacher plant facilitating inward attention, emotion work, and group cohesion [3][6].
@@ -73,7 +83,7 @@ Theobroma cacao, the cacao tree, is a keystone species in Amazonian ecosystems a
 - Mechanisms and interactions
   - Synergism between theobromine and flavanols underlies vasorelaxant and antioxidative effects, with evidence for improved cerebral and peripheral blood flow and endothelial function [7][8][9]. These physiological changes may correlate with the experiential qualities prized in ceremony—warmth, openness, and heightened interoception [3][8][9].
   - Putative interactions with serotonergic and endocannabinoid systems have been proposed, but clinical evidence at ceremonial beverage doses remains limited; most robust findings concern cardiovascular endpoints and microvascular function rather than discrete psychoactive phenomena [7][8][9][10].
-  - In contrast to visionary plants such as [[Banisteriopsis caapi]] (β-carboline MAO-A inhibitors) combined with [[Psychotria viridis]] (DMT), or strong tobacco such as [[Nicotiana rustica]], cacao’s psychoactivity is subtle and primarily affective rather than sensory or visionary [3][7][9][10].
+  - In contrast to visionary plants such as [[plants/banisteriopsis-caapi]] (β-carboline MAO-A inhibitors) combined with [[plants/psychotria-viridis]] (DMT), or strong tobacco such as [[plants/nicotiana-rustica]], cacao’s psychoactivity is subtle and primarily affective rather than sensory or visionary [3][7][9][10].
 
 - Safety considerations
   - For healthy adults, ceremonial cacao is generally well tolerated; sensitivities include methylxanthine-related effects (e.g., palpitations in those sensitive to stimulants). Interactions with MAO inhibitors are theoretically possible via trace amines but not well documented at typical ceremonial doses. Theobromine toxicity is of particular concern to companion animals and is noted here for completeness [7][9].

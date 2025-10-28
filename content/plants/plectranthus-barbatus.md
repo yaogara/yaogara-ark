@@ -1,10 +1,24 @@
 ---
-title: "Plectranthus barbatus (Brazilian Mint)"
-aliases: ["Brazilian Mint", "Boldo brasileiro", "Boldo-da-terra", "Coleus barbatus", "Coleus forskohlii"]
-summary: "Perennial Lamiaceae herb central to Brazilian and Amazonian household and ceremonial medicine for digestive complaints and cleansing; notable natural source of forskolin."
-tags: ["Plectranthus barbatus", "Lamiaceae", "teacher plants", "ethnobotany", "Brazil", "Amazonia", "gastrointestinal", "forskolin", "traditional medicine"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Plectranthus barbatus (Brazilian Mint)
+aliases:
+  - Brazilian Mint
+  - Boldo brasileiro
+  - Boldo-da-terra
+  - Coleus barbatus
+  - Coleus forskohlii
+summary: Perennial Lamiaceae herb central to Brazilian and Amazonian household and ceremonial medicine for digestive complaints and cleansing; notable natural source of forskolin.
+tags:
+  - Plectranthus barbatus
+  - Lamiaceae
+  - teacher plants
+  - ethnobotany
+  - Brazil
+  - Amazonia
+  - gastrointestinal
+  - forskolin
+  - traditional medicine
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied pharmacopoeias.*

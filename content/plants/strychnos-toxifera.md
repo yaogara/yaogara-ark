@@ -1,10 +1,19 @@
 ---
-title: "Strychnos toxifera (Curare Vine)"
-aliases: ["Curare Vine", "Woorari", "Strychnos toxifera Schomb."]
-summary: "Primary Strychnos source for Amazonian ‘pot curare’; a culturally significant liana whose quaternary alkaloids underlie neuromuscular blockade and informed the development of modern muscle relaxants."
-tags: ["curare", "Strychnos toxifera", "arrow poisons", "ethnobotany", "Amazonia", "phytochemistry"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Strychnos toxifera (Curare Vine)
+aliases:
+  - Curare Vine
+  - Woorari
+  - Strychnos toxifera Schomb.
+summary: Primary Strychnos source for Amazonian ‘pot curare’; a culturally significant liana whose quaternary alkaloids underlie neuromuscular blockade and informed the development of modern muscle relaxants.
+tags:
+  - curare
+  - Strychnos toxifera
+  - arrow poisons
+  - ethnobotany
+  - Amazonia
+  - phytochemistry
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian ethnobotanical knowledge.*
@@ -33,7 +42,7 @@ As with many canopy lianas, S. toxifera leverages vertical structure and light g
 Curare is a collective term for arrow, dart, and harpoon poisons prepared by diverse Amazonian peoples. Within this plural tradition, Strychnos toxifera is a principal species used in “pot curare” preparations in several regions, complementing other botanical lineages of curare such as those based on Menispermaceae (e.g., tube curare) (Planchon 1888; Henriette’s Herbal)[2]. Key points of cultural context include:
 
 - Principal ingredient: In many locales, S. toxifera is cited as the defining ingredient of strong curare, with other Strychnos spp. contributing to regional variants of lower or differing potency (Henriette’s Herbal; Bisset 1990)[1][2]. Neighbouring communities sometimes exchange vines or pastes, reflecting intergroup trade and ecological knowledge networks.
-- Social significance: Beyond subsistence hunting, curare may figure in initiation rites, demonstrations of skill, or narrative traditions, although ceremonial roles vary widely by ethnolinguistic group and historical period (Amazon Frontlines 2021)[7]. As a non-visionary “power” preparation, curare stands in contrast to teacher plants such as [[Banisteriopsis caapi]], occupying a distinct ethical and practical domain centered on provisioning, technique, and restraint.
+- Social significance: Beyond subsistence hunting, curare may figure in initiation rites, demonstrations of skill, or narrative traditions, although ceremonial roles vary widely by ethnolinguistic group and historical period (Amazon Frontlines 2021)[7]. As a non-visionary “power” preparation, curare stands in contrast to teacher plants such as [[plants/banisteriopsis-caapi]], occupying a distinct ethical and practical domain centered on provisioning, technique, and restraint.
 - Interface with biomedicine: Knowledge of curare-inspired neuromuscular blockade helped catalyze the development of modern muscle relaxants and anesthesia. While d-tubocurarine became emblematic in surgical settings, the clinical concept and use pathway emerged from long-standing Indigenous practice with curare (Britannica 2023; Wikipedia 2023)[5][9].
 
 Historical and contemporary ethnographies emphasize that curare is a craft knowledge—comprising plant identification, seasonal timing, preparation sequences, and social protocols—held by specialists and often embedded in gendered divisions of labor and community safeguards.

@@ -1,10 +1,20 @@
 ---
-title: "Erythroxylum coca (Coca Leaf)"
-aliases: ["Coca leaf", "Mama coca", "Amazonian coca (ipadu)", "Erythroxylon coca"]
-summary: "Sacred Andean and Amazonian shrub whose leaves sustain endurance, ritual exchange, and healing; distinct in traditional use and chemistry from illicit derivatives."
-tags: ["Erythroxylum coca", "coca", "teacher plants", "Andes", "stimulants", "ethnobotany"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Erythroxylum coca (Coca Leaf)
+aliases:
+  - Coca leaf
+  - Mama coca
+  - Amazonian coca (ipadu)
+  - Erythroxylon coca
+summary: 'Sacred Andean and Amazonian shrub whose leaves sustain endurance, ritual exchange, and healing; distinct in traditional use and chemistry from illicit derivatives.'
+tags:
+  - Erythroxylum coca
+  - coca
+  - teacher plants
+  - Andes
+  - stimulants
+  - ethnobotany
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -108,7 +118,7 @@ Erythroxylum coca (coca leaf) is a cornerstone of ancient Andean ethnobotany, re
   - Coca tea (mate de coca) is a widely used digestive and mild stimulant infusion, particularly in Peru and Bolivia. Preparations are light and non-intoxicating, commonly employed for altitude-associated discomfort, stomach upset, and early-morning fatigue ([6]). Decoctions or macerations may be used topically in some locales.
 
 - Ceremonial offerings and divination:
-  - Leaves are bundled, blown upon, and arranged as offerings in [[pago a la tierra]] and related rites; seers interpret leaf orientation, color, and minor imperfections as diagnostic signs. In Colombia’s Sierra Nevada, the poporo mediates continuous, life-long engagement with coca and lime, refining bodily technique and ethical sensibility ([5]). These practices situate coca within broader networks of teacher plants, occasionally paired or sequenced with others such as [[Nicotiana rustica]] in certain regions, always under local norms of balance and respect ([1]; [5]).
+  - Leaves are bundled, blown upon, and arranged as offerings in [[pago a la tierra]] and related rites; seers interpret leaf orientation, color, and minor imperfections as diagnostic signs. In Colombia’s Sierra Nevada, the poporo mediates continuous, life-long engagement with coca and lime, refining bodily technique and ethical sensibility ([5]). These practices situate coca within broader networks of teacher plants, occasionally paired or sequenced with others such as [[plants/nicotiana-rustica]] in certain regions, always under local norms of balance and respect ([1]; [5]).
 
 ([1]; [5]; [6])
 

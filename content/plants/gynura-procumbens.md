@@ -1,10 +1,24 @@
 ---
-title: "Gynura procumbens (Longevity Spinach)"
-aliases: ["Longevity Spinach", "Sambung Nyawa", "Bai Bing Cao", "Gynura sarmentosa", "Cacalia sarmentosa"]
-summary: "A Southeast Asian perennial herb of the Asteraceae used as a functional food and medicinal plant for cardiovascular, inflammatory, and metabolic conditions; increasingly observed in transregional ethnobotany and community health gardens."
-tags: ["Gynura procumbens", "longevity spinach", "Asteraceae", "ethnobotany", "functional food", "cardiovascular", "anti-inflammatory", "Southeast Asia", "Amazonia"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Gynura procumbens (Longevity Spinach)
+aliases:
+  - Longevity Spinach
+  - Sambung Nyawa
+  - Bai Bing Cao
+  - Gynura sarmentosa
+  - Cacalia sarmentosa
+summary: 'A Southeast Asian perennial herb of the Asteraceae used as a functional food and medicinal plant for cardiovascular, inflammatory, and metabolic conditions; increasingly observed in transregional ethnobotany and community health gardens.'
+tags:
+  - Gynura procumbens
+  - longevity spinach
+  - Asteraceae
+  - ethnobotany
+  - functional food
+  - cardiovascular
+  - anti-inflammatory
+  - Southeast Asia
+  - Amazonia
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian and transregional teacher plants and allied species.*

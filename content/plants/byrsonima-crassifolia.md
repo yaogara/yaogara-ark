@@ -1,10 +1,21 @@
 ---
-title: "Byrsonima crassifolia (Nanche)"
-aliases: ["Nanche", "Nance", "Byrsonima crassifolia"]
-summary: "Neotropical shrub valued across Mesoamerica and Amazonia for edible fruits and medicinal bark; documented antioxidant, hypoglycemic, antimicrobial, and anti-inflammatory properties align with longstanding ethnomedical uses."
-tags: ["Byrsonima crassifolia", "Nanche", "Malpighiaceae", "ethnobotany", "medicinal plants", "food plants", "Mesoamerica", "Amazonia"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Byrsonima crassifolia (Nanche)
+aliases:
+  - Nanche
+  - Nance
+  - Byrsonima crassifolia
+summary: 'Neotropical shrub valued across Mesoamerica and Amazonia for edible fruits and medicinal bark; documented antioxidant, hypoglycemic, antimicrobial, and anti-inflammatory properties align with longstanding ethnomedical uses.'
+tags:
+  - Byrsonima crassifolia
+  - Nanche
+  - Malpighiaceae
+  - ethnobotany
+  - medicinal plants
+  - food plants
+  - Mesoamerica
+  - Amazonia
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -59,7 +70,7 @@ This broad environmental tolerance underpins its sustained availability in local
   In mestizo and urban Amazonian communities, B. crassifolia continues to be traded locally—bark for decoctions, fruit for food and remedies, and both forms for use in ceremonial offerings or “ofrendas” at altars during key life events and at the onset of the rainy season (Alves & Rosa 2007). Regional markets may feature fresh fruit, dried bark bundles, and homemade preparations, reflecting both subsistence and small-scale commercial economies.
 
 - Cultural significance:
-  The species is regarded in many Mesoamerican traditions as both medicinal and spiritually potent; fruits and bark are offered in rites of gratitude and healing, symbolizing fertility and abundance (Alves & Rosa 2007). In some settings, Nanche is combined with emblematic cultigens such as cacao and maize in altar arrangements and seasonal rituals, articulating themes of health, reciprocity, and agricultural prosperity. Such practices can be situated alongside offerings involving other culturally significant plants such as [[Theobroma cacao]] and [[Zea mays]]. While not a visionary “teacher plant” in the sense of [[Banisteriopsis caapi]] or other entheogens, B. crassifolia frequently accompanies ritual complexes that integrate food, medicine, and community protection.
+  The species is regarded in many Mesoamerican traditions as both medicinal and spiritually potent; fruits and bark are offered in rites of gratitude and healing, symbolizing fertility and abundance (Alves & Rosa 2007). In some settings, Nanche is combined with emblematic cultigens such as cacao and maize in altar arrangements and seasonal rituals, articulating themes of health, reciprocity, and agricultural prosperity. Such practices can be situated alongside offerings involving other culturally significant plants such as [[plants/theobroma-cacao]] and [[Zea mays]]. While not a visionary “teacher plant” in the sense of [[plants/banisteriopsis-caapi]] or other entheogens, B. crassifolia frequently accompanies ritual complexes that integrate food, medicine, and community protection.
 
 ---
 
@@ -103,7 +114,7 @@ This broad environmental tolerance underpins its sustained availability in local
     - Strong bark decoctions are cooled and applied as washes for minor skin infections, ulcers, and wound cleaning (Cáceres et al. 1990). Gauze or cloth compresses are common where running water is scarce.
 
 - Ceremonial use:
-  - Bark shavings and ripe fruit feature as altar offerings—sometimes with cacao, maize, or other “teacher plants”—during rites invoking health, agricultural prosperity, and protection of the community. Such offerings are central to both indigenous and mestizo cosmologies; technique and symbolism vary by region (Alves & Rosa 2007). Assemblages may include [[Theobroma cacao]] and [[Zea mays]]; Nanche’s bright color and fragrance contribute to the sensorial dimensions of ofrendas during seasonal transitions.
+  - Bark shavings and ripe fruit feature as altar offerings—sometimes with cacao, maize, or other “teacher plants”—during rites invoking health, agricultural prosperity, and protection of the community. Such offerings are central to both indigenous and mestizo cosmologies; technique and symbolism vary by region (Alves & Rosa 2007). Assemblages may include [[plants/theobroma-cacao]] and [[Zea mays]]; Nanche’s bright color and fragrance contribute to the sensorial dimensions of ofrendas during seasonal transitions.
 
 - Administration:
   Oral teas and decoctions are typical for gastrointestinal and respiratory indications, with topical applications common for skin issues. Dosage and frequency depend on local tradition, age, and presentation of symptoms. Preparations for postpartum care and lactation support are generally mild infusions, reflecting caution in vulnerable periods (Martínez-Vázquez et al. 1999)[9].

@@ -1,10 +1,20 @@
 ---
-title: "Cyperus prolixus (Toé Root; Ajos Sacha alt.)"
-aliases: ["Toé Root", "Ajos Sacha alt.", "Cyperus prolixus Kunth"]
-summary: "Amazonian sedge of medicinal and ritual importance used in floral baths, vaporations, and digestive care; documented among Indigenous and mestizo practitioners in the western Amazon."
-tags: ["Cyperus prolixus", "Cyperaceae", "ethnobotany", "Amazonia", "medicinal plants", "floral baths", "protective rituals"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Cyperus prolixus (Toé Root; Ajos Sacha alt.)
+aliases:
+  - Toé Root
+  - Ajos Sacha alt.
+  - Cyperus prolixus Kunth
+summary: 'Amazonian sedge of medicinal and ritual importance used in floral baths, vaporations, and digestive care; documented among Indigenous and mestizo practitioners in the western Amazon.'
+tags:
+  - Cyperus prolixus
+  - Cyperaceae
+  - ethnobotany
+  - Amazonia
+  - medicinal plants
+  - floral baths
+  - protective rituals
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied species.*
@@ -73,7 +83,7 @@ Preparation Methods:
 - Oral/Topical Use: For digestive complaints, roots may be chewed directly, crushed, or brewed as a tea for short-term use, often combined with bland dietary measures. For protective applications, small bundles of leaves and roots can be carried as amulets or hung near doorways. Oral administration is conservative in dose and duration and typically reserved for acute, self-limiting symptoms (Odonne et al. 2013; Rocha 2014).
 
 Ceremonial Roles and Synergy:  
-C. prolixus is seldom the sole focus of ritual. Rather, it functions as a supporting plant within protective and clarifying sets that may include aromatics such as [[Mansoa alliacea]] and invigorating leaves such as [[Ilex guayusa]], calibrated by the healer to the person and circumstance. The perceived synergy resides in complementary scent profiles, temperature qualities, and ritual intentions, with dosing guided by lineage knowledge and the practitioner’s assessment at the time of treatment (Freitas 2014). The plant’s modest intrinsic potency and topical emphasis make it suitable for household-level care, while still participating in formal curanderismo contexts shaped by prayer, song, and smoke (Rocha 2014; RS&D Journal 2022).
+C. prolixus is seldom the sole focus of ritual. Rather, it functions as a supporting plant within protective and clarifying sets that may include aromatics such as [[Mansoa alliacea]] and invigorating leaves such as [[plants/ilex-guayusa]], calibrated by the healer to the person and circumstance. The perceived synergy resides in complementary scent profiles, temperature qualities, and ritual intentions, with dosing guided by lineage knowledge and the practitioner’s assessment at the time of treatment (Freitas 2014). The plant’s modest intrinsic potency and topical emphasis make it suitable for household-level care, while still participating in formal curanderismo contexts shaped by prayer, song, and smoke (Rocha 2014; RS&D Journal 2022).
 
 Quality Control and Identification:  
 Because common names overlap across taxa, selection is often guided by morphology, scent, and community consensus. Healers may use sensory criteria—aroma intensity, freshness, and “clean” mouthfeel of expressed sap—to judge suitability. Field identification can be supported by noting the characteristic sedge culm, basal leaves, and spikelet-bearing inflorescences (Kukkonen 2020). When in doubt, deference to experienced collectors or reliance on garden-sourced material of known provenance reduces misidentification risks.

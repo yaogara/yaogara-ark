@@ -1,10 +1,21 @@
 ---
-title: "Brunfelsia grandiflora (Chiri Sanango)"
-aliases: ["Chiri Sanango", "Chiric Sanango", "Manacá", "Bigflower raintree", "Brunfelsia grandiflora D. Don"]
-summary: "Amazonian Solanaceae shrub revered as a ‘cold’ sanango for somatic and spiritual cleansing; notable for indole alkaloids and complex traditional applications in medicine and ritual."
-tags: ["Brunfelsia grandiflora", "Solanaceae", "Amazonia", "teacher plants", "ethnobotany", "plant diets"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Brunfelsia grandiflora (Chiri Sanango)
+aliases:
+  - Chiri Sanango
+  - Chiric Sanango
+  - Manacá
+  - Bigflower raintree
+  - Brunfelsia grandiflora D. Don
+summary: Amazonian Solanaceae shrub revered as a ‘cold’ sanango for somatic and spiritual cleansing; notable for indole alkaloids and complex traditional applications in medicine and ritual.
+tags:
+  - Brunfelsia grandiflora
+  - Solanaceae
+  - Amazonia
+  - teacher plants
+  - ethnobotany
+  - plant diets
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -43,7 +54,7 @@ Shamans (curanderos) administer root or bark extracts for:
 - Augmenting resilience to environmental stressors (e.g., cold, fatigue)
 - Spiritual cleansing, believed to dispel malevolent forces and negative energies
 
-These indications situate Chiri Sanango at the interface of somatic, infectious, and spiritual disorders, reflecting the intertwined nature of health and social relations in Amazonian medical systems (Rain-Tree, 2003)[4][1][2]. In ritual settings, B. grandiflora may be integrated as an adjunct for spiritual “clearing,” supporting visions and introspective states during [[Ayahuasca]] ceremonies led by experienced practitioners (Singing to the Plants, 2007)[2][7]. The “chills and tingling” produced by ingestion are interpreted as signs of its energetic action, reinforcing its designation as a cold sanango; the phenomenology of cooling and vibrating sensations is understood diagnostically and therapeutically within local epistemologies (Singing to the Plants, 2007)[2].
+These indications situate Chiri Sanango at the interface of somatic, infectious, and spiritual disorders, reflecting the intertwined nature of health and social relations in Amazonian medical systems (Rain-Tree, 2003)[4][1][2]. In ritual settings, B. grandiflora may be integrated as an adjunct for spiritual “clearing,” supporting visions and introspective states during [[preparations/ayahuasca]] ceremonies led by experienced practitioners (Singing to the Plants, 2007)[2][7]. The “chills and tingling” produced by ingestion are interpreted as signs of its energetic action, reinforcing its designation as a cold sanango; the phenomenology of cooling and vibrating sensations is understood diagnostically and therapeutically within local epistemologies (Singing to the Plants, 2007)[2].
 
 Use persists in contemporary rural medicine—both within Indigenous and mestizo ethnomedical systems and among Western seekers engaged in Amazonian plant diets—where practitioners emphasize careful guidance, graduated exposure, and strict adherence to ritual and dietary boundaries to temper risks and maximize benefit (Madre Selva Resort, 2022)[9].
 
@@ -60,7 +71,7 @@ Brunfelsamidine, a principal alkaloid, is known for neuroactive and muscle-contr
 
 Neuroactive alkaloids in Brunfelsia are implicated in CNS excitation at higher exposures, aligning with reports of tremor, heightened sensory sensitivity, and thermoregulatory shifts in unmonitored or excessive use. Ethnomedical protocols typically aim to evoke controlled, diagnostically meaningful sensory changes (e.g., chills, tingling), while avoiding overt toxidromes. This balance underscores the importance of contextual dosing, preparatory fasting, and supervision by experienced healers (Rain-Tree, 2003)[4]. Toxicological considerations extend to potential interactions with other alkaloid-rich botanicals and pharmaceuticals; careful separation in time and dose is part of many traditional regimens, even as detailed pharmacodynamic and pharmacokinetic studies remain limited (Brunfelsia grandiflora - Wikipedia, 2023)[1].
 
-In ceremonial practice, B. grandiflora is sometimes combined sequentially with other teacher plants to accomplish specific therapeutic aims. Reported interactions include potentiation of other alkaloid-rich ethnobotanicals (e.g., [[Banisteriopsis caapi]]), but rigorous mechanistic studies are sparse and controlled data are lacking (Brunfelsia grandiflora - Wikipedia, 2023)[1]. Given the known neuroexcitatory potential of brunfelsamidine and related alkaloids, avoidance of unsupervised polyherbal use is prudent. Where applicable, contemporary research ethics call for co-designed studies with source communities to ensure safety and cultural appropriateness.
+In ceremonial practice, B. grandiflora is sometimes combined sequentially with other teacher plants to accomplish specific therapeutic aims. Reported interactions include potentiation of other alkaloid-rich ethnobotanicals (e.g., [[plants/banisteriopsis-caapi]]), but rigorous mechanistic studies are sparse and controlled data are lacking (Brunfelsia grandiflora - Wikipedia, 2023)[1]. Given the known neuroexcitatory potential of brunfelsamidine and related alkaloids, avoidance of unsupervised polyherbal use is prudent. Where applicable, contemporary research ethics call for co-designed studies with source communities to ensure safety and cultural appropriateness.
 
 Contemporary summaries of chemistry and bioactivity synthesize scattered pharmacognostic reports and case studies, emphasizing both the therapeutic promise and the hazards inherent in indole-alkaloid-bearing Solanaceae. The overall picture supports a plant with pronounced physiological effects whose benefits in traditional contexts are mediated by expertise, ritual structure, and social containment—factors that are difficult to reproduce in biomedical settings without careful translational frameworks (Journal of Ethnopharmacology, 2005)[3][10].
 

@@ -1,10 +1,22 @@
 ---
-title: "Piper aduncum (Matico)"
-aliases: ["Matico", "Spiked pepper"]
-summary: "A widely distributed Amazonian Piperaceae shrub valued for topical antiseptic and wound-healing uses; rich in essential oils (notably dillapiole) with documented antimicrobial, anti-inflammatory, and insecticidal activities."
-tags: ["Piper aduncum", "Matico", "Piperaceae", "ethnobotany", "Amazonia", "medicinal plants", "essential oils", "antimicrobial", "wound care", "traditional medicine"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Piper aduncum (Matico)
+aliases:
+  - Matico
+  - Spiked pepper
+summary: 'A widely distributed Amazonian Piperaceae shrub valued for topical antiseptic and wound-healing uses; rich in essential oils (notably dillapiole) with documented antimicrobial, anti-inflammatory, and insecticidal activities.'
+tags:
+  - Piper aduncum
+  - Matico
+  - Piperaceae
+  - ethnobotany
+  - Amazonia
+  - medicinal plants
+  - essential oils
+  - antimicrobial
+  - wound care
+  - traditional medicine
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied materia medica.*
@@ -39,7 +51,7 @@ Nineteenth-century European materia medica adopted Matico as a recognized stypti
 
 Ethnomedical persistence is pronounced where pharmaceutical access is limited. Field studies underscore Matico’s role in community-based public health, particularly as a locally accessible antiseptic covering gaps in formal healthcare delivery [(Guerrini et al. 2009)](https://iris.unife.it/bitstream/11392/529941/1/2009%20Piper.pdf). In Northern Peru, documentation of traditional medicinal plant use situates Matico within a broader pharmacopeia that integrates botanical first aid with ritual and symptomatic care, reflecting layered medical syncretism [(Bussmann & Sharon 2006)](https://doi.org/10.1186/1746-4269-2-47).
 
-While not a psychoactive “teacher plant,” Matico is integrated into local healing repertoires and may be invoked symbolically in community rituals or used as an adjunct in plant dietas focused on bodily resilience, including contexts adjacent to [[Banisteriopsis caapi]]-centered ceremonies where protective and cleansing plants are often incorporated as topical or aromatic allies [(Wikidoc Matico)](https://www.wikidoc.org/index.php/Matico) [(Guerrini et al. 2009)](https://iris.unife.it/bitstream/11392/529941/1/2009%20Piper.pdf).
+While not a psychoactive “teacher plant,” Matico is integrated into local healing repertoires and may be invoked symbolically in community rituals or used as an adjunct in plant dietas focused on bodily resilience, including contexts adjacent to [[plants/banisteriopsis-caapi]]-centered ceremonies where protective and cleansing plants are often incorporated as topical or aromatic allies [(Wikidoc Matico)](https://www.wikidoc.org/index.php/Matico) [(Guerrini et al. 2009)](https://iris.unife.it/bitstream/11392/529941/1/2009%20Piper.pdf).
 
 ## Phytochemistry and Pharmacology
 The medicinal value of Matico centers on essential oils and phenylpropanoid-rich profiles, with notable chemotypic variation across geography and ecology. Core constituents repeatedly reported include:
@@ -79,7 +91,7 @@ Indications and scope:
 - Secondary: adjunctive care in ulcer management and as an astringent where access to allopathic antiseptics is limited. In markets across the Andes, Matico is frequently listed and sold for topical applications consistent with these indications [(Macía, Garcia, & Vidaurre 2005)](https://doi.org/10.1016/j.jep.2004.11.016).
 
 Ceremonial and integrative roles:
-- Matico is not classed among visionary “teacher plants” yet is often included in the broader healing repertoire, invoked for protection and physical resilience. In some vegetalismo settings, leaf washes or baths may be used alongside dieta practices or in proximity to [[Banisteriopsis caapi]] sessions, where cleansing and protective plants provide non-psychoactive support [(Wikidoc Matico)](https://www.wikidoc.org/index.php/Matico) [(Guerrini et al. 2009)](https://iris.unife.it/bitstream/11392/529941/1/2009%20Piper.pdf).
+- Matico is not classed among visionary “teacher plants” yet is often included in the broader healing repertoire, invoked for protection and physical resilience. In some vegetalismo settings, leaf washes or baths may be used alongside dieta practices or in proximity to [[plants/banisteriopsis-caapi]] sessions, where cleansing and protective plants provide non-psychoactive support [(Wikidoc Matico)](https://www.wikidoc.org/index.php/Matico) [(Guerrini et al. 2009)](https://iris.unife.it/bitstream/11392/529941/1/2009%20Piper.pdf).
 
 Practical considerations:
 - Given the variability in essential oil content, traditional practitioners often prefer fresh, aromatic leaves from mature plants and avoid senescent or water-logged tissues.

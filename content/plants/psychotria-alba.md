@@ -1,10 +1,20 @@
 ---
-title: "Psychotria alba (White Chacruna)"
-aliases: ["White Chacruna", "Chacruna Blanco", "Psychotria alba Ruiz & Pav."]
-summary: "Amazonian Rubiaceae shrub used as an alternative chacruna leaf source in ayahuasca; distinguished by pale green-white foliage and variable DMT content; cultivated and utilized among Shipibo and other Western Amazonian lineages."
-tags: ["ayahuasca", "Psychotria alba", "chacruna", "Rubiaceae", "teacher plants", "ethnobotany", "Amazonia"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Psychotria alba (White Chacruna)
+aliases:
+  - White Chacruna
+  - Chacruna Blanco
+  - Psychotria alba Ruiz & Pav.
+summary: Amazonian Rubiaceae shrub used as an alternative chacruna leaf source in ayahuasca; distinguished by pale green-white foliage and variable DMT content; cultivated and utilized among Shipibo and other Western Amazonian lineages.
+tags:
+  - ayahuasca
+  - Psychotria alba
+  - chacruna
+  - Rubiaceae
+  - teacher plants
+  - ethnobotany
+  - Amazonia
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -12,7 +22,7 @@ license: "CC BY-SA 4.0 – Yaogará Research Archive"
 ---
 
 ## Abstract
-Psychotria alba (White Chacruna) is an Amazonian shrub of the Rubiaceae family, closely related to the widely recognized [[Psychotria viridis]] but distinguished by its pale leaf coloration and unique phytochemical profile. It is used as an alternative chacruna species in the preparation of [[ayahuasca]] among the Shipibo and other Indigenous lineages across Western Amazonia. This entry documents the ethnobotanical context, pharmacological characteristics, traditional ceremonial uses, and conservation concerns of P. alba within Indigenous pharmacologies, highlighting its significance as both a botanical resource and a cultural asset [(Naturalether 2023)](https://www.naturalether.com/article/chacruna-leaves/) [(World Seed Supply, n.d.)](https://worldseedsupply.com/world-seed-supplys-guide-to-psychotria-viridis-alba-identification/).
+Psychotria alba (White Chacruna) is an Amazonian shrub of the Rubiaceae family, closely related to the widely recognized [[plants/psychotria-viridis]] but distinguished by its pale leaf coloration and unique phytochemical profile. It is used as an alternative chacruna species in the preparation of [[preparations/ayahuasca]] among the Shipibo and other Indigenous lineages across Western Amazonia. This entry documents the ethnobotanical context, pharmacological characteristics, traditional ceremonial uses, and conservation concerns of P. alba within Indigenous pharmacologies, highlighting its significance as both a botanical resource and a cultural asset [(Naturalether 2023)](https://www.naturalether.com/article/chacruna-leaves/) [(World Seed Supply, n.d.)](https://worldseedsupply.com/world-seed-supplys-guide-to-psychotria-viridis-alba-identification/).
 
 ---
 
@@ -22,7 +32,7 @@ Psychotria alba (White Chacruna) is an Amazonian shrub of the Rubiaceae family, 
 - Species: Psychotria alba Ruiz & Pav.  
 - Common names: White Chacruna, Chacruna Blanco
 
-Morphologically, Psychotria alba closely resembles [[Psychotria viridis]] but exhibits diagnostic features:
+Morphologically, Psychotria alba closely resembles [[plants/psychotria-viridis]] but exhibits diagnostic features:
 
 - Leaves: Elliptical or lanceolate, typically 10–20 cm long, with a characteristic light green to whitish coloration. The lamina is smooth and glossy with a tendency toward wavy (undulate) margins rather than the straighter margins more common in P. viridis. Venation is distinctly visible against the lighter background [(Naturalether 2023)](https://www.naturalether.com/article/chacruna-leaves/) [(World Seed Supply, n.d.)](https://worldseedsupply.com/world-seed-supplys-guide-to-psychotria-viridis-alba-identification/).
 
@@ -48,7 +58,7 @@ Psychotria alba is associated with the Amazonian lowland rainforest, with report
 ---
 
 ## Ethnobotanical Context
-Among Shipibo communities and other Indigenous Amazonian groups, Psychotria alba is recognized as an alternative to classical chacruna (P. viridis) in the preparation of [[ayahuasca]] (yagé), the psychoactive brew central to shamanic healing, initiation, and divination practices [(Naturalether 2023)](https://www.naturalether.com/article/chacruna-leaves/).
+Among Shipibo communities and other Indigenous Amazonian groups, Psychotria alba is recognized as an alternative to classical chacruna (P. viridis) in the preparation of [[preparations/ayahuasca]] (yagé), the psychoactive brew central to shamanic healing, initiation, and divination practices [(Naturalether 2023)](https://www.naturalether.com/article/chacruna-leaves/).
 
 - Shipibo practice: P. alba is used particularly in regions or seasons where P. viridis is less available, or where specific visionary qualities are sought. Practitioners describe subtle differences in the quality and strength of visions relative to brews prepared with green chacruna, though such observations remain largely experiential and lineage-specific [(Naturalether 2023)](https://www.naturalether.com/article/chacruna-leaves/).
 
@@ -56,7 +66,7 @@ Among Shipibo communities and other Indigenous Amazonian groups, Psychotria alba
 
 - Contemporary practice and circulation: In post-colonial and international ayahuasca settings, P. alba has gained attention for its perceived consistency, horticultural vigor, and distinctive psychoactive signature. It is increasingly valued as a genetic resource for conservation and cultivation, including ex situ plantings and ethnobotanical gardens [(Herbalistics, n.d.)](https://herbalistics.com.au/the-ultimate-psychotria-growing-guide/).
 
-Ethnographically, P. alba participates in a broader matrix of plant-human relations in Western Amazonia, where teacher plants are selected for cosmological alignment, specific healing aims, and pragmatic considerations of seasonality and access. Its use alongside [[Banisteriopsis caapi]] situates it firmly within the pharmaco-ritual ecology of ayahuasca, where leaf choice, vine cultivar, and ceremonial context co-produce the perceived effects of the brew.
+Ethnographically, P. alba participates in a broader matrix of plant-human relations in Western Amazonia, where teacher plants are selected for cosmological alignment, specific healing aims, and pragmatic considerations of seasonality and access. Its use alongside [[plants/banisteriopsis-caapi]] situates it firmly within the pharmaco-ritual ecology of ayahuasca, where leaf choice, vine cultivar, and ceremonial context co-produce the perceived effects of the brew.
 
 ---
 
@@ -65,7 +75,7 @@ Ethnographically, P. alba participates in a broader matrix of plant-human relati
 
 - Other alkaloids: The presence of various beta-carbolines and secondary tryptamines is reported in trace or minor amounts; the precise phytochemical profile likely varies with ecological and genetic factors, including plant age, microclimate, soil conditions, and horticultural practices.
 
-- Pharmacodynamics: Orally, DMT is rapidly inactivated by monoamine oxidase (MAO) in the gut. When combined with an MAO inhibitor—specifically the beta-carbolines present in [[Banisteriopsis caapi]]—DMT becomes orally bioavailable, producing the characteristic visionary and affective effects associated with ayahuasca via potent agonism of the 5‑HT2A serotonin receptor [(Naturalether 2023)](https://www.naturalether.com/article/chacruna-leaves/).
+- Pharmacodynamics: Orally, DMT is rapidly inactivated by monoamine oxidase (MAO) in the gut. When combined with an MAO inhibitor—specifically the beta-carbolines present in [[plants/banisteriopsis-caapi]]—DMT becomes orally bioavailable, producing the characteristic visionary and affective effects associated with ayahuasca via potent agonism of the 5‑HT2A serotonin receptor [(Naturalether 2023)](https://www.naturalether.com/article/chacruna-leaves/).
 
 Comparative quantitative data on DMT concentrations between P. alba and P. viridis remain sparse. Anecdotal and ethnobotanical reports suggest that P. alba may exhibit slightly lower average concentrations than P. viridis, yet it is regarded as strongly entheogenic when prepared appropriately. As with many plant-based psychoactive preparations, variability is the norm; geographic provenance, cultivation regime, and harvesting practices can influence alkaloid content and subjective effect profiles. Contemporary horticultural knowledge emphasizes clonal selection, leaf maturity at harvest, and careful post-harvest handling to maintain desired properties [(Herbalistics, n.d.)](https://herbalistics.com.au/the-ultimate-psychotria-growing-guide/).
 
@@ -74,7 +84,7 @@ Comparative quantitative data on DMT concentrations between P. alba and P. virid
 ## Traditional Preparation and Use
 - Collection: Mature leaves are harvested with attention to leaf health and coloration, typically avoiding damaged or diseased foliage. In ceremonial and household contexts, harvesting may be accompanied by dieta observances and prayers by practitioners to align with the plant’s spirit guardians and to ensure a safe, effective brew.
 
-- Preparation: Leaves are washed, coarsely shredded or pounded, then layered in a cooking vessel with sections of [[Banisteriopsis caapi]] vine. The mixture is gently boiled or simmered for several hours with periodic addition of water. The final decoction is filtered and concentrated to taste and effect [(Naturalether 2023)](https://www.naturalether.com/article/chacruna-leaves/).
+- Preparation: Leaves are washed, coarsely shredded or pounded, then layered in a cooking vessel with sections of [[plants/banisteriopsis-caapi]] vine. The mixture is gently boiled or simmered for several hours with periodic addition of water. The final decoction is filtered and concentrated to taste and effect [(Naturalether 2023)](https://www.naturalether.com/article/chacruna-leaves/).
 
 - Ceremonial roles: Brews incorporating P. alba are consumed in nighttime ceremonies led by curanderos, onaya, or vegetalistas. Some lineages report a lighter visual spectrum, smoother onset, or distinct affective tones in comparison to brews prepared with P. viridis; these characterizations are lineage-specific and experiential, and controlled pharmacological comparisons are limited.
 

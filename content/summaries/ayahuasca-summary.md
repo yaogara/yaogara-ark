@@ -1,10 +1,22 @@
 ---
-title: "Ayahuasca Overview"
-aliases: ["Ayahuasca Overview", "Yagé", "Caapi Brew", "Hoasca", "Daime"]
-summary: "Ayahuasca is a psychoactive plant preparation central to Amazonian ethnomedicine and contemporary psychedelic research, combining Banisteriopsis caapi and Psychotria viridis to produce synergistic psychoactive effects."
-tags: ["ayahuasca", "Banisteriopsis caapi", "Psychotria viridis", "teacher plants", "ethnobotany", "psychedelics", "Amazon"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Ayahuasca Overview
+aliases:
+  - Ayahuasca Overview
+  - Yagé
+  - Caapi Brew
+  - Hoasca
+  - Daime
+summary: 'Ayahuasca is a psychoactive plant preparation central to Amazonian ethnomedicine and contemporary psychedelic research, combining Banisteriopsis caapi and Psychotria viridis to produce synergistic psychoactive effects.'
+tags:
+  - ayahuasca
+  - Banisteriopsis caapi
+  - Psychotria viridis
+  - teacher plants
+  - ethnobotany
+  - psychedelics
+  - Amazon
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the [Yaogará Ark](https://ark.yaogara.org) — an open ethnobotanical research archive documenting Amazonian teacher plants and their traditional and scientific contexts.*

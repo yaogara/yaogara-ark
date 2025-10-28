@@ -1,10 +1,25 @@
 ---
-title: "Nicotiana rustica (Mapacho Tobacco)"
-aliases: ["Mapacho", "Mapacho Tobacco", "Aztec tobacco", "Wild tobacco", "Makhorka", "Rustica"]
-summary: "High-alkaloid Amazonian tobacco central to Indigenous ritual practice, noted for potent nicotine content, diverse preparations, and ongoing biocultural significance."
-tags: ["Nicotiana rustica", "Mapacho", "tobacco", "teacher plants", "ethnobotany", "Amazonia", "Andes", "phytochemistry", "shamanism"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Nicotiana rustica (Mapacho Tobacco)
+aliases:
+  - Mapacho
+  - Mapacho Tobacco
+  - Aztec tobacco
+  - Wild tobacco
+  - Makhorka
+  - Rustica
+summary: 'High-alkaloid Amazonian tobacco central to Indigenous ritual practice, noted for potent nicotine content, diverse preparations, and ongoing biocultural significance.'
+tags:
+  - Nicotiana rustica
+  - Mapacho
+  - tobacco
+  - teacher plants
+  - ethnobotany
+  - Amazonia
+  - Andes
+  - phytochemistry
+  - shamanism
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the **Yaogará Ark**, a living archive of Amazonian teacher plants.*
@@ -12,7 +27,7 @@ license: "CC BY-SA 4.0 – Yaogará Research Archive"
 ---
 
 ## Abstract
-Nicotiana rustica L., commonly known as Mapacho or Amazonian sacred tobacco, is a culturally significant plant widely used among Indigenous and mestizo groups throughout the Amazon basin and Andes. Distinguished by its markedly high nicotine content and rich phytochemical profile, N. rustica occupies a central role in ritual, medicinal, and shamanic contexts. This ethnobotanical review synthesizes current knowledge on its taxonomy, distribution, phytochemistry, ceremonial preparation, and its evolving place in biocultural conservation debates. It further situates Mapacho’s ceremonial functions in relation to other teacher plants, notably in settings where it accompanies preparations of [[Banisteriopsis caapi]] and, in some traditions, leaves of [[Psychotria viridis]] for ayahuasca practices. The article consolidates available sources on morphology, use, risks, and ethical sourcing, highlighting the plant’s resilience and the necessity of cultural protocols when engaging with its potent pharmacology [1–7].
+Nicotiana rustica L., commonly known as Mapacho or Amazonian sacred tobacco, is a culturally significant plant widely used among Indigenous and mestizo groups throughout the Amazon basin and Andes. Distinguished by its markedly high nicotine content and rich phytochemical profile, N. rustica occupies a central role in ritual, medicinal, and shamanic contexts. This ethnobotanical review synthesizes current knowledge on its taxonomy, distribution, phytochemistry, ceremonial preparation, and its evolving place in biocultural conservation debates. It further situates Mapacho’s ceremonial functions in relation to other teacher plants, notably in settings where it accompanies preparations of [[plants/banisteriopsis-caapi]] and, in some traditions, leaves of [[plants/psychotria-viridis]] for ayahuasca practices. The article consolidates available sources on morphology, use, risks, and ethical sourcing, highlighting the plant’s resilience and the necessity of cultural protocols when engaging with its potent pharmacology [1–7].
 
 ---
 
@@ -43,7 +58,7 @@ Its adaptability and prolific seed set make N. rustica both a cultivated and, in
 Among Amazonian groups such as the Shipibo-Conibo and Yawanawa, as well as mestizo healers (tabaqueros), Mapacho is regarded as a quintessential “teacher plant,” used for instruction, protection, and the cultivation of practical and spiritual power. Its primary uses include [1–4]:
 
 - Spiritual protection and cleansing: Smoke is blown over individuals, ritual objects, housing perimeters, and ceremonial spaces to purify, bless, and delineate boundaries against malevolent influences. This “smoke medicine” is also applied to plant brews, instruments, and water vessels during preparations [1,3].
-- Grounding and focus: Practitioners use Mapacho to enhance concentration, stabilize attention, and modulate affective states before or during ceremonies. In many Amazonian settings, Mapacho accompanies the administration of other teacher plants—for instance, during work with [[Banisteriopsis caapi]]—to steady vision, clarify intention, or “seal” the ceremonial field [2,3].
+- Grounding and focus: Practitioners use Mapacho to enhance concentration, stabilize attention, and modulate affective states before or during ceremonies. In many Amazonian settings, Mapacho accompanies the administration of other teacher plants—for instance, during work with [[plants/banisteriopsis-caapi]]—to steady vision, clarify intention, or “seal” the ceremonial field [2,3].
 - Medicinal and purgative applications: Beyond smoke, Mapacho is prepared as aqueous infusions for oral ingestion or nasal insufflation (singado). In controlled ritual contexts, these preparations are used to induce purging, treat intestinal parasites, expel “spiritual intrusions,” and alleviate somatic complaints conceptualized within local etiologies [4–6].
 
 Contemporary practice spans rural and urban spaces. Urban mestizo practitioners and organized retreat settings continue to incorporate Mapacho, sometimes as part of structured apprenticeship regimes (dietas) in which tobacco is ingested or applied under strict guidance to cultivate discipline, energetic protection, and rapport with plant teachers [2,3,5]. While modalities vary, a consistent emphasis is placed on respect for Mapacho’s potency, the role of experienced guidance, and adherence to cultural protocols surrounding intention, song, and abstentions [2,3,6].
@@ -75,7 +90,7 @@ Mapacho’s preparations range from cured, smokeable rolls to potent aqueous med
 - Brews and infusions: Leaves soaked in water yield a strong liquid medicine administered orally or via nasal insufflation (singado). Orally, the brew is emetic at modest doses; purging is framed as an intentional cleansing of bodily and spiritual impurities. Nasal administration can be sharply stimulating, clearing sinuses, provoking lacrimation, and inducing transient disequilibrium—effects assessed by healers for diagnostic and protective purposes [4–6].  
 - Smoke applications:  
   - Cleansing and protection: Practitioners exhale smoke over the crown, chest, and hands; around altars, instruments, and entrances; and across vessels containing other plant preparations. This practice, widely interpreted as imparting protection and order, often accompanies the singing of icaros and the recitation of prayers [1–3].  
-  - Modulation of other plants: In ceremonies with [[Banisteriopsis caapi]] and, in some traditions, [[Psychotria viridis]], controlled Mapacho smoke is used to fortify concentration, steady affect, and “seal” intentions or visions. Some lineages abstain from or strictly ration smoke to avoid overstimulation; protocols are lineage-specific [2,3].
+  - Modulation of other plants: In ceremonies with [[plants/banisteriopsis-caapi]] and, in some traditions, [[plants/psychotria-viridis]], controlled Mapacho smoke is used to fortify concentration, steady affect, and “seal” intentions or visions. Some lineages abstain from or strictly ration smoke to avoid overstimulation; protocols are lineage-specific [2,3].
 - Dietas and apprenticeships: Within training regimens, Mapacho may be ingested or applied topically in carefully calibrated quantities, alongside dietary restrictions and solitude. Such dietas are described as cultivating fortitude, discernment, and protection, and their protocols are guarded by teachers who assess readiness and response over time [2,3,5].
 
 Across these modalities, dosage is individualized, and adverse effects prompt rapid adjustment or cessation. Traditional safety hinges on the practitioner’s skill in reading physiological and energetic signs, a capacity developed through long mentorship and observation [3,6].

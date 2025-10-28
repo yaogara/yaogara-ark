@@ -1,10 +1,24 @@
 ---
-title: "Justicia pectoralis (Masha-Hari)"
-aliases: ["Masha-Hari", "Tilo", "Freshcut", "Justicia pectoralis Jacq.", "Dianthera pectoralis"]
-summary: "Aromatic Amazonian herb used as a calming adjunct in snuffs and teas; rich in coumarin with reported mild MAOI activity; significant in Indigenous and mestizo ritual pharmacopoeias."
-tags: ["Justicia pectoralis", "masha-hari", "Acanthaceae", "teacher plants", "ethnobotany", "Amazonia", "snuffs", "coumarin", "MAOI"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+title: Justicia pectoralis (Masha-Hari)
+aliases:
+  - Masha-Hari
+  - Tilo
+  - Freshcut
+  - Justicia pectoralis Jacq.
+  - Dianthera pectoralis
+summary: Aromatic Amazonian herb used as a calming adjunct in snuffs and teas; rich in coumarin with reported mild MAOI activity; significant in Indigenous and mestizo ritual pharmacopoeias.
+tags:
+  - Justicia pectoralis
+  - masha-hari
+  - Acanthaceae
+  - teacher plants
+  - ethnobotany
+  - Amazonia
+  - snuffs
+  - coumarin
+  - MAOI
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied species.*
@@ -40,20 +54,20 @@ The species tolerates partial shade to dappled light and responds well to regula
 Among Amazonian Indigenous groups such as the Tikuna and Shipibo-Conibo, as well as mestizo curanderos in Peru and Brazil, Justicia pectoralis is valued for both medicinal efficacy and subtle psychoactive qualities. Vernacular names include “masha-hari” (Shipibo) and “tilo,” referencing its tranquilizing reputation and resemblance—organoleptically and by function—to European linden infusions in the popular pharmacopoeia. As an aromatic adjunct, it is incorporated into psychoactive snuffs and ceremonial teas to soften intensity, allay anxiety, and support concentration[1][5].
 
 Roles documented in practice include:
-- Addition to visionary snuffs prepared from resin or seeds of [[Virola spp.]] or [[Anadenanthera peregrina]], where the herb mellows the onset, reduces bodily tension, and may prolong a calm, introspective phase without adding strong visual phenomena[1][5].  
+- Addition to visionary snuffs prepared from resin or seeds of [[Virola spp.]] or [[plants/anadenanthera-peregrina]], where the herb mellows the onset, reduces bodily tension, and may prolong a calm, introspective phase without adding strong visual phenomena[1][5].  
 - Preparation of lightly aromatic teas for ritual relaxation, dream induction, and the harmonization of group healing sessions—especially in settings that emphasize song, breath, and gentle guidance over overt entheogenic effects[1][5].  
 - Use as a pectoral remedy for coughs, whooping cough, and other respiratory ailments; as a febrifuge; for headache relief; and as topical washes for wounds or to reduce fever in children and adults[5].  
 - In some mestizo traditions, decoctions support gastrointestinal comfort, function as mild antiemetics, and are used as a hair tonic valued for fragrance and perceived scalp health benefits[5].
 
-Culturally, masha-hari occupies a middle ground between everyday household herb and ceremonial ally. Healers describe it as “opening the heart” and “quieting the thoughts,” facilitating interpersonal attunement and receptivity to guidance. In some lineages it is taken prior to or alongside complex ritual work, including sessions centered on [[Banisteriopsis caapi]] or other teacher plants, to stabilize affect, reduce fear, and ease pre-ceremonial nerves. Notably, it is not considered a visionary plant per se; rather, its subtle modulation of mood and bodily ease is considered to improve the quality and safety of deeper work without intensifying visions[1][5].
+Culturally, masha-hari occupies a middle ground between everyday household herb and ceremonial ally. Healers describe it as “opening the heart” and “quieting the thoughts,” facilitating interpersonal attunement and receptivity to guidance. In some lineages it is taken prior to or alongside complex ritual work, including sessions centered on [[plants/banisteriopsis-caapi]] or other teacher plants, to stabilize affect, reduce fear, and ease pre-ceremonial nerves. Notably, it is not considered a visionary plant per se; rather, its subtle modulation of mood and bodily ease is considered to improve the quality and safety of deeper work without intensifying visions[1][5].
 
 ## Phytochemistry and Pharmacology
 Phytochemical studies identify coumarin and umbelliferone (7-hydroxycoumarin) as principal constituents in Justicia pectoralis[5]. Coumarin imparts the characteristic sweet-hay aroma; it is associated with calming, smooth-muscle relaxant, and mild sedative properties in traditional use. Umbelliferone, a phenolic coumarin, exhibits antioxidant activity and may contribute anti-inflammatory effects that align with pectoral and topical applications.
 
 - Central nervous system effects: The plant’s tranquilizing reputation is often attributed to coumarin’s neuromodulatory properties. Traditional reports describe reduced somatic tension and anxiety, enhanced ease of breathing, and facilitation of rest—effects consistent with gentle GABAergic modulation described for some coumarin derivatives and allied phenolics[5].  
 - Anti-inflammatory and antioxidant actions: Umbelliferone and related phenolics may mitigate inflammatory cascades in mucosal tissues, providing a possible rationale for pectoral uses in coughs and respiratory irritation. The pleasant aroma and palatability further support compliance in convalescent teas[5].  
-- MAOI activity: Justicia pectoralis exhibits mild, reversible inhibition of monoamine oxidase in reports from traditional practice and secondary sources, with a potency markedly weaker than canonical Amazonian MAO-A inhibitors such as [[Banisteriopsis caapi]]. This modest activity is hypothesized to slightly potentiate companion alkaloids in snuffs or in certain herbal combinations, though the degree and clinical relevance remain limited relative to strong inhibitors[1][5].  
-- Synergy in mixtures: As an adjunct in snuffs derived from [[Virola spp.]] or [[Anadenanthera peregrina]], masha-hari is said to extend a calm, reflective plateau and balance sympathomimetic effects, possibly via a combination of anxiolytic aroma, smooth-muscle relaxation, and weak MAO modulation[1][5].
+- MAOI activity: Justicia pectoralis exhibits mild, reversible inhibition of monoamine oxidase in reports from traditional practice and secondary sources, with a potency markedly weaker than canonical Amazonian MAO-A inhibitors such as [[plants/banisteriopsis-caapi]]. This modest activity is hypothesized to slightly potentiate companion alkaloids in snuffs or in certain herbal combinations, though the degree and clinical relevance remain limited relative to strong inhibitors[1][5].  
+- Synergy in mixtures: As an adjunct in snuffs derived from [[Virola spp.]] or [[plants/anadenanthera-peregrina]], masha-hari is said to extend a calm, reflective plateau and balance sympathomimetic effects, possibly via a combination of anxiolytic aroma, smooth-muscle relaxation, and weak MAO modulation[1][5].
 
 Safety profile:
 - Traditional dosing is widely regarded as benign, with low incidence of adverse events when used as light infusions or modest admixtures. Nonetheless, concentrated or prolonged use of coumarin-rich preparations warrants prudence, as coumarin can be hepatotoxic at high doses in susceptible individuals.  
@@ -66,11 +80,11 @@ Collection and processing:
 - Drying is performed on raised racks or woven mats; fully dried leaves are stored in breathable sacks away from direct sunlight. A light crumble texture is desired for teas and snuff admixture, avoiding powdering until immediately prior to use to preserve aroma[1][5].
 
 Snuff admixtures:
-- Dried, finely sifted leaf is blended in small proportions with snuff bases prepared from resins, seeds, or barks. In mixtures with [[Virola spp.]] or [[Anadenanthera peregrina]], proportions are adjusted to mellow harshness, reduce nasal irritation, and temper the initial rush. The adjunct may also be incorporated as a concluding pinch to “set the tone,” encouraging contemplative breathing and minimizing agitation during ritual inhalation[1][5].
+- Dried, finely sifted leaf is blended in small proportions with snuff bases prepared from resins, seeds, or barks. In mixtures with [[Virola spp.]] or [[plants/anadenanthera-peregrina]], proportions are adjusted to mellow harshness, reduce nasal irritation, and temper the initial rush. The adjunct may also be incorporated as a concluding pinch to “set the tone,” encouraging contemplative breathing and minimizing agitation during ritual inhalation[1][5].
 
 Teas and decoctions:
 - A standard infusion uses a small handful of fresh or 1–2 teaspoons of dried leaf per cup, steeped for 5–15 minutes below boiling to retain volatile aroma. For pectoral applications, a slightly longer steep can be used, sometimes in combination with soothing demulcents from the local pharmacopoeia (lineage-dependent).  
-- In ceremony, tea is offered before or after principal work to “open the heart,” soften fear, and facilitate group cohesion; some lineages serve it alongside singing or breath practices to deepen relaxation and support gentle dreamwork. Where [[Banisteriopsis caapi]] or other teacher plants are central, masha-hari is framed as a supporting ally rather than a visionary driver[1][5].
+- In ceremony, tea is offered before or after principal work to “open the heart,” soften fear, and facilitate group cohesion; some lineages serve it alongside singing or breath practices to deepen relaxation and support gentle dreamwork. Where [[plants/banisteriopsis-caapi]] or other teacher plants are central, masha-hari is framed as a supporting ally rather than a visionary driver[1][5].
 
 Topicals and washes:
 - Light decoctions or cooled infusions are applied as compresses for headaches, as washes for minor wounds, or as fever-sponging waters in children and adults. Fragrant infusions may be worked into hair as a tonic or rinse, combining practical hygiene with a soothing scent in domestic contexts[5].

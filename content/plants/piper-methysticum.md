@@ -1,10 +1,23 @@
 ---
-title: "Piper methysticum (Kava Kava)"
-aliases: ["Kava", "Kava Kava", "‘Awa", "‘Ava", "Yaqona", "Sakau"]
-summary: "Perennial Pacific shrub whose rhizome yields a psychoactive beverage central to Oceanic ceremonial life, with kavalactone chemotypes underpinning anxiolytic, sedative, and muscle-relaxant effects."
-tags: ["Piper methysticum", "kava", "teacher plants", "ethnobotany", "Pacific", "anxiolytic", "phytochemistry"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Piper methysticum (Kava Kava)
+aliases:
+  - Kava
+  - Kava Kava
+  - ‘Awa
+  - ‘Ava
+  - Yaqona
+  - Sakau
+summary: 'Perennial Pacific shrub whose rhizome yields a psychoactive beverage central to Oceanic ceremonial life, with kavalactone chemotypes underpinning anxiolytic, sedative, and muscle-relaxant effects.'
+tags:
+  - Piper methysticum
+  - kava
+  - teacher plants
+  - ethnobotany
+  - Pacific
+  - anxiolytic
+  - phytochemistry
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of teacher plants and their traditions.*
@@ -57,7 +70,7 @@ Piper methysticum (Kava Kava) is a perennial shrub indigenous to the Pacific Isl
   - In modern contexts, kava is consumed recreationally in kava bars and used as a natural anxiolytic and dietary supplement. It remains integral to communal gatherings and cultural identity, even as commercial preparation methods diversify and standardized extracts circulate in global markets ([3]; [2]). Diaspora communities have also reconstituted kava circles, underscoring its role in maintaining kinship and identity across distance.
 
 - Comparative perspectives
-  - Kava’s ritual use as a calming ceremonial beverage parallels other plant-based relaxants used in communal spiritual practice, such as Amazonian ayahuasca or Andean coca, though kava is unique for its predominantly sedative rather than stimulant profile ([2]; [7]). Unlike brews centered on monoamine oxidase inhibitors and tryptamine hallucinogens (e.g., [[Banisteriopsis caapi]] admixtures), kava’s kavalactones support reflective, grounded states that prioritize social harmony over visionary intensity.
+  - Kava’s ritual use as a calming ceremonial beverage parallels other plant-based relaxants used in communal spiritual practice, such as Amazonian ayahuasca or Andean coca, though kava is unique for its predominantly sedative rather than stimulant profile ([2]; [7]). Unlike brews centered on monoamine oxidase inhibitors and tryptamine hallucinogens (e.g., [[plants/banisteriopsis-caapi]] admixtures), kava’s kavalactones support reflective, grounded states that prioritize social harmony over visionary intensity.
 
 ---
 

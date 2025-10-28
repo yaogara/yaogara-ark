@@ -1,10 +1,20 @@
 ---
-title: "Calea zacatechichi (Dream Herb)"
-aliases: ["Dream Herb", "Calea ternifolia", "Zacatechichi"]
-summary: "Oneirogenic shrub of the Asteraceae, traditionally employed by the Chontal of Oaxaca to induce clarifying dreams for divination and diagnosis; contemporary research highlights sesquiterpene lactones and germacranolides as candidate bioactives influencing sleep and dream phenomenology."
-tags: ["Calea zacatechichi", "dream herb", "oneirogens", "Asteraceae", "ethnobotany", "Mesoamerica", "Mexico"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+title: Calea zacatechichi (Dream Herb)
+aliases:
+  - Dream Herb
+  - Calea ternifolia
+  - Zacatechichi
+summary: 'Oneirogenic shrub of the Asteraceae, traditionally employed by the Chontal of Oaxaca to induce clarifying dreams for divination and diagnosis; contemporary research highlights sesquiterpene lactones and germacranolides as candidate bioactives influencing sleep and dream phenomenology.'
+tags:
+  - Calea zacatechichi
+  - dream herb
+  - oneirogens
+  - Asteraceae
+  - ethnobotany
+  - Mesoamerica
+  - Mexico
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian and Mesoamerican teacher plants.*
@@ -48,7 +58,7 @@ Habitat considerations intersect with ethnogeography: the plant’s availability
 
 ## Ethnobotanical Context
 Traditional uses:
-In Chontal ethnomedicine, Calea zacatechichi is a sacred oneirogenic plant administered to elicit “clarifying dreams” that are actively interpreted for guidance, diagnostic insight, and prognostication in healing (Duke 2008; Torres 2012). Ritual specialists (curanderos/curanderas) may employ it during illness evaluation, seeking dream imagery that intimates etiologies or therapeutic courses. Ritual practice frequently situates ingestion in a quiet, ritually prepared sleep space, sometimes accompanied by prayer, fasting, or purification, to promote receptivity and minimize interference from mundane concerns (Torres 2012). The plant’s teacherly status in this context parallels, in function if not pharmacology, other culturally esteemed visionary allies within the Americas, albeit oriented toward dreamwork rather than the overtly visionary states associated with preparations such as [[Banisteriopsis caapi]].
+In Chontal ethnomedicine, Calea zacatechichi is a sacred oneirogenic plant administered to elicit “clarifying dreams” that are actively interpreted for guidance, diagnostic insight, and prognostication in healing (Duke 2008; Torres 2012). Ritual specialists (curanderos/curanderas) may employ it during illness evaluation, seeking dream imagery that intimates etiologies or therapeutic courses. Ritual practice frequently situates ingestion in a quiet, ritually prepared sleep space, sometimes accompanied by prayer, fasting, or purification, to promote receptivity and minimize interference from mundane concerns (Torres 2012). The plant’s teacherly status in this context parallels, in function if not pharmacology, other culturally esteemed visionary allies within the Americas, albeit oriented toward dreamwork rather than the overtly visionary states associated with preparations such as [[plants/banisteriopsis-caapi]].
 
 Modes of meaning-making emphasize:
 - Heightened dream recall and vividness.

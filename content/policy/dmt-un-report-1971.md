@@ -1,12 +1,17 @@
 ---
-title: "Legal Status of DMT and Ayahuasca Plants under the 1971 UN Convention"
-slug: "legal-status-of-dmt-and-ayahuasca"
-description: "Explores how the 1971 UN Convention on Psychotropic Substances regulates DMT but not ayahuasca plants, tracing international legal interpretations and national frameworks."
-tags: ["ayahuasca", "DMT", "international law", "ethnobotany", "UNODC"]
-date: 2025-10-28
-author: "Yaogará Research Initiative"
-license: "CC BY-SA 4.0"
-readingTime: "11 min"
+title: Legal Status of DMT and Ayahuasca Plants under the 1971 UN Convention
+slug: legal-status-of-dmt-and-ayahuasca
+description: 'Explores how the 1971 UN Convention on Psychotropic Substances regulates DMT but not ayahuasca plants, tracing international legal interpretations and national frameworks.'
+tags:
+  - ayahuasca
+  - DMT
+  - international law
+  - ethnobotany
+  - UNODC
+date: '2025-10-28'
+author: Yaogará Research Initiative
+license: CC BY-SA 4.0 – Yaogará Research Archive
+readingTime: 11 min
 ---
 
 ## Abstract

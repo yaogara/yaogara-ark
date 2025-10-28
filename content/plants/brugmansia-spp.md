@@ -1,10 +1,23 @@
 ---
-title: "Brugmansia spp. (Angel’s Trumpet)"
-aliases: ["Angel’s Trumpet", "Toé", "Borrachero", "Huacacachu", "Brugmansia"]
-summary: "Andean–Amazonian genus of woody Solanaceae bearing pendulous, fragrant trumpets; historically employed as a visionary adjunct and powerful medicinal within shamanic complexes, yet marked by high toxicity due to tropane alkaloids."
-tags: ["Brugmansia", "Angel’s Trumpet", "Solanaceae", "tropane alkaloids", "teacher plants", "ethnobotany", "Amazonia", "Andes"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Brugmansia spp. (Angel’s Trumpet)
+aliases:
+  - Angel’s Trumpet
+  - Toé
+  - Borrachero
+  - Huacacachu
+  - Brugmansia
+summary: 'Andean–Amazonian genus of woody Solanaceae bearing pendulous, fragrant trumpets; historically employed as a visionary adjunct and powerful medicinal within shamanic complexes, yet marked by high toxicity due to tropane alkaloids.'
+tags:
+  - Brugmansia
+  - Angel’s Trumpet
+  - Solanaceae
+  - tropane alkaloids
+  - teacher plants
+  - ethnobotany
+  - Amazonia
+  - Andes
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -53,7 +66,7 @@ Across Andean and Amazonian cultural landscapes, Brugmansia is known by names su
 - Healing and symptomatic relief: Ethnomedical applications include management of musculoskeletal pain, neuralgia, asthma, and rheumatic complaints, often via external or transdermal routes that are perceived as safer relative to ingestion (Schultes & Raffauf 1990; Bianchi 2010).
 - Rites of passage and training: In initiation or specialist apprenticeship, carefully controlled experiences with Brugmansia may be used to teach, test, or transform the practitioner’s perceptual capacities and spiritual relationships (Schultes et al. 2001; Bianchi 2010).
 
-Brugmansia is frequently integrated with other culturally salient plants. In some traditions, small amounts may be combined with ayahuasca prepared from [[Banisteriopsis caapi]], with the explicit understanding that such admixtures amplify risk and require high ritual competence (Torres et al. 1991; Schultes & Raffauf 1990; Labate & Cavnar 2014). In other settings, it is contextualized alongside stimulant and tonic plants such as [[Erythroxylum coca]], though specific co-use protocols vary widely (Schultes & Raffauf 1990).
+Brugmansia is frequently integrated with other culturally salient plants. In some traditions, small amounts may be combined with ayahuasca prepared from [[plants/banisteriopsis-caapi]], with the explicit understanding that such admixtures amplify risk and require high ritual competence (Torres et al. 1991; Schultes & Raffauf 1990; Labate & Cavnar 2014). In other settings, it is contextualized alongside stimulant and tonic plants such as [[plants/erythroxylum-coca]], though specific co-use protocols vary widely (Schultes & Raffauf 1990).
 
 Contemporary issues: Due to recurrent reports of accidental and intentional poisonings, knowledge systems surrounding Brugmansia emphasize restrictions on who may handle, prepare, or drink it; the importance of ritual oversight; and the maintenance of esoteric dosage heuristics within lineages (Labate & Cavnar 2014). Outside of traditional contexts, public health literature warns of severe anticholinergic toxicity, unpredictable potency, and dangerous interactions, informing a general trend toward extreme caution or avoidance (Vázquez 2014; Ulrich-Merzenich 2022).
 
@@ -69,7 +82,7 @@ Mechanisms of action:
 
 Interactions and risk profile:
 - Additive and synergistic interactions: Concomitant use with other anticholinergic agents, sedatives, or psychoactives may produce unpredictable outcomes or exacerbate toxicity (Rätsch 2005; Ulrich-Merzenich 2022).
-- Admixture contexts: When combined with other Amazonian plants—e.g., small additions to [[Banisteriopsis caapi]] brews—physiological and experiential effects may be intensified or qualitatively altered. Traditionalists emphasize careful titration and divinatory guidance; biomedical perspectives emphasize heightened danger (Schultes & Raffauf 1990; Labate & Cavnar 2014).
+- Admixture contexts: When combined with other Amazonian plants—e.g., small additions to [[plants/banisteriopsis-caapi]] brews—physiological and experiential effects may be intensified or qualitatively altered. Traditionalists emphasize careful titration and divinatory guidance; biomedical perspectives emphasize heightened danger (Schultes & Raffauf 1990; Labate & Cavnar 2014).
 - Clinical presentation and care: Medical case reports document severe delirium, hyperthermia, arrhythmia, and complications necessitating supportive care; anticholinesterase agents have been used in hospital settings under supervision, underscoring the clinical seriousness of Brugmansia intoxication (Vázquez 2014).
 
 The pharmacological power that makes Brugmansia culturally valuable as a teacher plant is inseparable from its toxic potential. Ethnobotanical practice has thus evolved within a framework of ritual containment, social governance, and hereditary expertise (Schultes et al. 2001; Labate & Cavnar 2014).
@@ -83,7 +96,7 @@ Collection:
 
 Preparation pathways reported in ethnographic and pharmacognostic sources include (with strong caveats regarding risk):
 
-- Admixture to other decoctions: In some ayahuasca practices, minute quantities of Brugmansia tissue are incorporated into brews based on [[Banisteriopsis caapi]], aiming to potentiate visionary content or provide specific diagnostic “clarity.” Such practices are highly circumscribed and controversial due to safety concerns (Torres et al. 1991; Schultes & Raffauf 1990; Labate & Cavnar 2014).
+- Admixture to other decoctions: In some ayahuasca practices, minute quantities of Brugmansia tissue are incorporated into brews based on [[plants/banisteriopsis-caapi]], aiming to potentiate visionary content or provide specific diagnostic “clarity.” Such practices are highly circumscribed and controversial due to safety concerns (Torres et al. 1991; Schultes & Raffauf 1990; Labate & Cavnar 2014).
 - Aqueous infusions and light decoctions: Brief soaking or low-intensity boiling of leaves or flowers has been reported, with dosages calibrated to the recipient’s status, intention, and experience level—an individualized process controlled by ritual specialists (Torres et al. 1991; Bianchi 2010).
 - External and transdermal applications: Topical poultices, macerations in oil or animal fat, and rubs are used for localized pain, rheumatic discomfort, and muscle aches. External application is often framed as safer than ingestion, though systemic effects remain possible (Schultes & Raffauf 1990; Bianchi 2010).
 - Inhalation and fumigation: Smoke or vapor exposure is occasionally described for respiratory complaints or ritual cleansing, yet such practices are less commonly reported relative to decoctions or topical methods (Schultes & Raffauf 1990).

@@ -1,10 +1,23 @@
 ---
-title: "Paullinia cupana (Guaraná Seed)"
-aliases: ["Guaraná", "Guarana", "Paullinia cupana Kunth", "Guaraná Seed"]
-summary: "Caffeinated liana domesticated in the central Amazon, culturally central to Sateré-Mawé lifeways and widely commercialized for stimulant beverages; rich in caffeine, tannins, and polyphenols with sustained stimulant and antioxidant profiles."
-tags: ["Paullinia cupana", "guaraná", "Sapindaceae", "stimulants", "caffeine", "Amazonia", "ethnobotany", "teacher plants", "phytochemistry"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Paullinia cupana (Guaraná Seed)
+aliases:
+  - Guaraná
+  - Guarana
+  - Paullinia cupana Kunth
+  - Guaraná Seed
+summary: 'Caffeinated liana domesticated in the central Amazon, culturally central to Sateré-Mawé lifeways and widely commercialized for stimulant beverages; rich in caffeine, tannins, and polyphenols with sustained stimulant and antioxidant profiles.'
+tags:
+  - Paullinia cupana
+  - guaraná
+  - Sapindaceae
+  - stimulants
+  - caffeine
+  - Amazonia
+  - ethnobotany
+  - teacher plants
+  - phytochemistry
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -33,7 +46,7 @@ Regional centers of cultural and agricultural importance include areas where Sat
 ## Ethnobotanical Context
 Traditional Uses: Guaraná’s principal Indigenous uses are as a stimulant to promote wakefulness, endurance, and mental focus; as an aphrodisiac; and as a remedy for headaches, fevers, intestinal complaints, and general malaise ([Schimpl et al. 2013](https://doi.org/10.1155/2013/635694)). Among the Sateré-Mawé, guaraná is regarded as a teacher plant, central to social identity and ritual life. It is embedded in origin histories and is a medium for instruction, discipline, and conviviality, consumed in communal settings during rites of passage and periods requiring sustained effort (e.g., long hunts, agricultural labor, or ritual fasting) ([Henman 1982](https://www.jstor.org/stable/4254448); [Vasconcelos et al. 2016](https://doi.org/10.1590/1678-98652016000400008)). Seeds are grated into powder and mixed with water or cassava beverages, producing astringent, aromatic drinks that promote alertness and suppress hunger while providing a modicum of nutrition.
 
-As a stimulant ethnomedicine, guaraná stands alongside other culturally vital caffeinated plants such as [[Ilex paraguariensis]] (yerba mate) and [[Ilex guayusa]] (guayusa). However, the processing of guaraná into durable rods and the particular balance of methylxanthines and tannins impart a distinctive sensory profile and kinetic effect that sets it apart in traditional pharmacopoeias.
+As a stimulant ethnomedicine, guaraná stands alongside other culturally vital caffeinated plants such as [[Ilex paraguariensis]] (yerba mate) and [[plants/ilex-guayusa]] (guayusa). However, the processing of guaraná into durable rods and the particular balance of methylxanthines and tannins impart a distinctive sensory profile and kinetic effect that sets it apart in traditional pharmacopoeias.
 
 Contemporary Uses: Guaraná extract is widely commercialized in Brazil in soft drinks, energy beverages, capsules, and confectionery, with broader global diffusion through dietary supplement markets ([Bempong & Houghton 1992](https://doi.org/10.1016/0378-8741(92)90048-6)). Marketing emphasizes cognitive enhancement, fatigue reduction, and mood elevation, often attributing these effects to “natural caffeine” and polyphenol synergy. While modern products vary in extract standardization and formulation, the cultural cachet of guaraná as a symbol of vitality in Brazil continues to shape consumption practices and national branding.
 
@@ -50,7 +63,7 @@ Antioxidant and Antimicrobial Profiles: Polyphenolic constituents, including cat
 
 Safety and Tolerability: As with other caffeine-containing plants, effects vary with dose, individual sensitivity, and context. Common dose-related adverse effects may include nervousness, insomnia, tachycardia, gastrointestinal upset, or anxiety in susceptible individuals. Traditional use patterns—small, repeated servings within communal contexts—tend to limit acute overconsumption. Caution is warranted for pregnant individuals, those with cardiovascular conditions, or persons taking medications that interact with methylxanthines. The high tannin content can contribute to astringency and may affect iron absorption when consumed with meals; spacing intake from iron-rich foods may be advisable.
 
-Comparative Notes: Relative to other caffeinated plants such as [[Ilex paraguariensis]] and [[Ilex guayusa]], guaraná’s polyphenol-rich matrix and preparation as bastão may modulate pharmacokinetics toward a smoother onset and longer plateau, an attribute often cited by Indigenous experts and reflected in mechanistic hypotheses regarding tannin–caffeine interactions ([Schimpl et al. 2013](https://doi.org/10.1155/2013/635694); [Bempong & Houghton 1992](https://doi.org/10.1016/0378-8741(92)90048-6)).
+Comparative Notes: Relative to other caffeinated plants such as [[Ilex paraguariensis]] and [[plants/ilex-guayusa]], guaraná’s polyphenol-rich matrix and preparation as bastão may modulate pharmacokinetics toward a smoother onset and longer plateau, an attribute often cited by Indigenous experts and reflected in mechanistic hypotheses regarding tannin–caffeine interactions ([Schimpl et al. 2013](https://doi.org/10.1155/2013/635694); [Bempong & Houghton 1992](https://doi.org/10.1016/0378-8741(92)90048-6)).
 
 ## Traditional Preparation and Use
 Harvesting and Collection: Fruits are typically harvested by hand at maturity when the capsules dehisce, exposing the arillate seeds. Timing coincides with optimal seed chemistry and ease of processing. Seeds are separated from pulp and arils, washed, and sun-dried to reduce moisture and limit microbial growth.

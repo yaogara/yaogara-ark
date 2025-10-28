@@ -1,10 +1,19 @@
 ---
-title: "Cissampelos pareira (Abuta)"
-aliases: ["Abuta", "Pareira"]
-summary: "A pantropical climbing vine of the Menispermaceae, long used in Amazonian and wider traditional medicine—especially in women’s reproductive health—while modern pharmacological evidence remains preliminary."
-tags: ["Cissampelos pareira", "Abuta", "Menispermaceae", "ethnobotany", "Amazonia", "women's health", "teacher plants"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Cissampelos pareira (Abuta)
+aliases:
+  - Abuta
+  - Pareira
+summary: 'A pantropical climbing vine of the Menispermaceae, long used in Amazonian and wider traditional medicine—especially in women’s reproductive health—while modern pharmacological evidence remains preliminary.'
+tags:
+  - Cissampelos pareira
+  - Abuta
+  - Menispermaceae
+  - ethnobotany
+  - Amazonia
+  - women's health
+  - teacher plants
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied ethnobotanicals.*

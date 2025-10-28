@@ -1,10 +1,22 @@
 ---
-title: "Diplopterys cabrerana (Chaliponga Leaf)"
-aliases: ["Chaliponga", "Chagropanga", "Oco-yagé", "Chaliponga Leaf", "Diplopterys Cabrerana"]
-summary: "Amazonian Malpighiaceae vine whose leaves are a DMT-rich admixture in ayahuasca brews, especially in western Amazonian traditions of Ecuador and Colombia."
-tags: ["ayahuasca", "Diplopterys cabrerana", "teacher plants", "ethnobotany", "Malpighiaceae", "chaliponga", "chagropanga"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+title: Diplopterys cabrerana (Chaliponga Leaf)
+aliases:
+  - Chaliponga
+  - Chagropanga
+  - Oco-yagé
+  - Chaliponga Leaf
+  - Diplopterys Cabrerana
+summary: 'Amazonian Malpighiaceae vine whose leaves are a DMT-rich admixture in ayahuasca brews, especially in western Amazonian traditions of Ecuador and Colombia.'
+tags:
+  - ayahuasca
+  - Diplopterys cabrerana
+  - teacher plants
+  - ethnobotany
+  - Malpighiaceae
+  - chaliponga
+  - chagropanga
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -12,7 +24,7 @@ license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research arc
 ---
 
 ## Abstract
-Diplopterys cabrerana (Chaliponga Leaf) is a significant Amazonian vine traditionally utilized in ayahuasca brews among Indigenous cultures of the western Amazon, notably in Ecuador and Colombia. Renowned as an alternative source of N,N-dimethyltryptamine (DMT), it is key in pharmacologically potentiating ayahuasca’s visionary effects when combined with [[Banisteriopsis caapi]]. This article synthesizes botanical, ethnobotanical, and pharmacological insights on D. cabrerana, emphasizing its traditional roles, chemical profile, ceremonial use, and conservation challenges. While regional practices vary, chaliponga is widely distinguished from brews based on [[Psychotria viridis]] in both composition and experiential qualities, and it continues to be cultivated and stewarded by local communities amid ongoing pressures on Amazonian habitats [1][2][9].
+Diplopterys cabrerana (Chaliponga Leaf) is a significant Amazonian vine traditionally utilized in ayahuasca brews among Indigenous cultures of the western Amazon, notably in Ecuador and Colombia. Renowned as an alternative source of N,N-dimethyltryptamine (DMT), it is key in pharmacologically potentiating ayahuasca’s visionary effects when combined with [[plants/banisteriopsis-caapi]]. This article synthesizes botanical, ethnobotanical, and pharmacological insights on D. cabrerana, emphasizing its traditional roles, chemical profile, ceremonial use, and conservation challenges. While regional practices vary, chaliponga is widely distinguished from brews based on [[plants/psychotria-viridis]] in both composition and experiential qualities, and it continues to be cultivated and stewarded by local communities amid ongoing pressures on Amazonian habitats [1][2][9].
 
 ---
 
@@ -47,7 +59,7 @@ The combination of climbing habit and winged seed morphology suggests reliance o
 ---
 
 ## Ethnobotanical Context
-Diplopterys cabrerana is integral to ayahuasca traditions in Ecuadorian, Colombian, and some Peruvian and Brazilian Indigenous communities [1][2]. Common names include chaliponga, chagropanga, and oco-yagé; in parts of Ecuador, D. cabrerana is occasionally referred to as “chacruna,” a name more widely associated with [[Psychotria viridis]] in Peru and Brazil [3][9]. Among western Amazonian groups, D. cabrerana is regarded as a master teacher plant and is valued for the distinctive character of its visions and teachings within ceremonial settings [3].
+Diplopterys cabrerana is integral to ayahuasca traditions in Ecuadorian, Colombian, and some Peruvian and Brazilian Indigenous communities [1][2]. Common names include chaliponga, chagropanga, and oco-yagé; in parts of Ecuador, D. cabrerana is occasionally referred to as “chacruna,” a name more widely associated with [[plants/psychotria-viridis]] in Peru and Brazil [3][9]. Among western Amazonian groups, D. cabrerana is regarded as a master teacher plant and is valued for the distinctive character of its visions and teachings within ceremonial settings [3].
 
 Cultural distribution and practice  
 - Indigenous groups such as the Siona, Cofán, and Shuar incorporate chaliponga leaves in healing, divination, and spiritual renewal rituals; use is also documented among some mestizo healers [1][2][6].  
@@ -69,11 +81,11 @@ Principal active compounds
 
 Mechanism and interactions  
 - Oral DMT is typically inactivated by monoamine oxidase (MAO) enzymes in the gut and liver, rendering it non-psychoactive when consumed alone.  
-- In ayahuasca, the β-carboline alkaloids of [[Banisteriopsis caapi]]—harmine, harmaline, and tetrahydroharmine—act as reversible MAO-A inhibitors, enabling the absorption and central activity of DMT and any 5-MeO-DMT present in chaliponga leaves [1][2].  
+- In ayahuasca, the β-carboline alkaloids of [[plants/banisteriopsis-caapi]]—harmine, harmaline, and tetrahydroharmine—act as reversible MAO-A inhibitors, enabling the absorption and central activity of DMT and any 5-MeO-DMT present in chaliponga leaves [1][2].  
 - The pharmacological synergy between these β-carbolines and tryptamines yields the prolonged, multidimensional effects characteristic of ayahuasca ceremonies, including vivid imagery, auditory phenomena, emotional catharsis, and somatic purgative responses [1].
 
 Comparative notes with other admixtures  
-Traditions that prefer D. cabrerana often highlight qualitative differences from brews using [[Psychotria viridis]], which is typically characterized as DMT-rich without reported 5-MeO-DMT. Whether and how 5-MeO-DMT, if present, shapes the subjective profile of chaliponga-inclusive brews is a matter of ongoing discussion in practitioner communities, with experience shaped by lineage, preparation, dosage, and the specific profile of the accompanying vine [1][2][9].
+Traditions that prefer D. cabrerana often highlight qualitative differences from brews using [[plants/psychotria-viridis]], which is typically characterized as DMT-rich without reported 5-MeO-DMT. Whether and how 5-MeO-DMT, if present, shapes the subjective profile of chaliponga-inclusive brews is a matter of ongoing discussion in practitioner communities, with experience shaped by lineage, preparation, dosage, and the specific profile of the accompanying vine [1][2][9].
 
 Safety context  
 Given the MAOI component of ayahuasca, consideration of dietary and pharmacological interactions is standard in ceremonial protocols. The presence of multiple active tryptamines in D. cabrerana underscores the importance of experienced guidance and conservative dosing within traditional frameworks [1][2].
@@ -85,7 +97,7 @@ Collection
 Leaves of D. cabrerana are hand-harvested from mature vines, with many practitioners preferring the wet season when leaf alkaloid concentrations are considered optimal [2]. Harvesting observes local ecological taboos and customary norms, including rotating collection sites and selective pruning to avoid damage to primary stems and to support regrowth [2].
 
 Brewing  
-Chaliponga leaves are typically pounded or shredded and incorporated into ayahuasca brews alongside sections of [[Banisteriopsis caapi]] vine. Preparations are slowly simmered over several hours—often over dedicated ceremonial fires—until a viscous, brown liquid is obtained [1][2]. Owing to the perceived potency of chaliponga leaves, some lineages report using lower leaf-to-vine ratios than in brews made with [[Psychotria viridis]] [1]. Final decoctions may be reduced for volume standardization and are commonly filtered to remove fibrous material.
+Chaliponga leaves are typically pounded or shredded and incorporated into ayahuasca brews alongside sections of [[plants/banisteriopsis-caapi]] vine. Preparations are slowly simmered over several hours—often over dedicated ceremonial fires—until a viscous, brown liquid is obtained [1][2]. Owing to the perceived potency of chaliponga leaves, some lineages report using lower leaf-to-vine ratios than in brews made with [[plants/psychotria-viridis]] [1]. Final decoctions may be reduced for volume standardization and are commonly filtered to remove fibrous material.
 
 Ceremonial role  
 Ingestion is conducted under the guidance of a curandero or shaman who sets the ceremonial container through invocations, chanting of icaros, and the use of protective and diagnostic instruments (e.g., rattles, perfumes, or plant smokes) [2]. Participants typically drink in a controlled environment—often at night—with attention to group coherence, safety, and the unfolding of individual processes. Purging is accepted as part of the healing, cleansing, or rebalancing effects of the brew.

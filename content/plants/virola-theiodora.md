@@ -1,10 +1,27 @@
 ---
-title: "Virola theiodora (Epena Snuff Tree)"
-aliases: ["Epena", "Epená", "Yãkõãna", "Epena Snuff Tree", "Virola theiodora (Spruce ex Benth.) Warb."]
-summary: "Amazonian snuff tree whose inner bark resin is prepared into epena, a psychoactive snuff rich in DMT and 5-MeO-DMT used in healing, divination, and communal ritual among several Indigenous groups."
-tags: ["Virola theiodora", "Myristicaceae", "epena", "snuff", "yopo", "DMT", "5-MeO-DMT", "tryptamines", "Amazonia", "ethnobotany", "teacher plants", "Indigenous knowledge"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+title: Virola theiodora (Epena Snuff Tree)
+aliases:
+  - Epena
+  - Epená
+  - Yãkõãna
+  - Epena Snuff Tree
+  - Virola theiodora (Spruce ex Benth.) Warb.
+summary: 'Amazonian snuff tree whose inner bark resin is prepared into epena, a psychoactive snuff rich in DMT and 5-MeO-DMT used in healing, divination, and communal ritual among several Indigenous groups.'
+tags:
+  - Virola theiodora
+  - Myristicaceae
+  - epena
+  - snuff
+  - yopo
+  - DMT
+  - 5-MeO-DMT
+  - tryptamines
+  - Amazonia
+  - ethnobotany
+  - teacher plants
+  - Indigenous knowledge
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied ethnobotanical knowledge.*

@@ -1,10 +1,24 @@
 ---
-title: "Himatanthus sucuuba (Bellaco Caspi)"
-aliases: ["Bellaco Caspi", "Janaguba", "Sucuuba", "Sucuba", "Plumeria sucuuba", "Himatanthus lancifolius"]
-summary: "Amazonian Apocynaceae tree valued for its medicinal latex, bark, and leaves; traditional uses for wounds, inflammation, ulcers, and tumorous conditions align with iridoid- and triterpene-driven anti-inflammatory, antimicrobial, and cytotoxic activities."
-tags: ["Himatanthus sucuuba", "Bellaco Caspi", "Apocynaceae", "Amazonia", "latex medicine", "ethnobotany", "anti-inflammatory", "wound healing"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Himatanthus sucuuba (Bellaco Caspi)
+aliases:
+  - Bellaco Caspi
+  - Janaguba
+  - Sucuuba
+  - Sucuba
+  - Plumeria sucuuba
+  - Himatanthus lancifolius
+summary: 'Amazonian Apocynaceae tree valued for its medicinal latex, bark, and leaves; traditional uses for wounds, inflammation, ulcers, and tumorous conditions align with iridoid- and triterpene-driven anti-inflammatory, antimicrobial, and cytotoxic activities.'
+tags:
+  - Himatanthus sucuuba
+  - Bellaco Caspi
+  - Apocynaceae
+  - Amazonia
+  - latex medicine
+  - ethnobotany
+  - anti-inflammatory
+  - wound healing
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied materia medica.*

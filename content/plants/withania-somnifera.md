@@ -1,10 +1,21 @@
 ---
-title: "Withania somnifera (Ashwagandha)"
-aliases: ["Ashwagandha", "Indian ginseng", "Winter cherry", "Withania somnifera"]
-summary: "Adaptogenic Solanaceae shrub central to Ayurveda, used for stress resilience, sleep, and vitality; increasingly integrated into global and Amazonian-adjacent ethnobotanical practice."
-tags: ["Withania somnifera", "ashwagandha", "adaptogen", "Ayurveda", "Solanaceae", "ethnobotany", "teacher plants"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Withania somnifera (Ashwagandha)
+aliases:
+  - Ashwagandha
+  - Indian ginseng
+  - Winter cherry
+  - Withania somnifera
+summary: 'Adaptogenic Solanaceae shrub central to Ayurveda, used for stress resilience, sleep, and vitality; increasingly integrated into global and Amazonian-adjacent ethnobotanical practice.'
+tags:
+  - Withania somnifera
+  - ashwagandha
+  - adaptogen
+  - Ayurveda
+  - Solanaceae
+  - ethnobotany
+  - teacher plants
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the **Yaogará Ark**, a living archive of Amazonian teacher plants.*
@@ -66,7 +77,7 @@ Safety considerations in pharmacology are increasingly well-characterized. While
 Harvest timing traditionally targets the late season after aerial senescence, when withanolide concentrations in the root are considered optimal[1]. Root selection favors healthy, mature plants with robust, unblemished roots. After washing and slicing, roots are shade-dried and stored in low-humidity conditions to preserve resinous and steroidal constituents[1]. Preparation practices vary across regions and lineages:
 
 - Decoction: Dried, powdered root is boiled alone or with complementary medicinal plants, producing a bitter-woody infusion to be taken daily over extended periods[1]. Decoctions may be reduced to concentrate the extract, then diluted to palatable strength.  
-- Brews in mestizo traditions: In some Amazonian contexts, ashwagandha is combined with CNS-regulating plants—such as [[Justicia pectoralis]] or [[Piper methysticum]]—to mitigate overstimulation or cultivate ritual calm[2]. The goal is not to induce visions but to modulate stress reactivity and somatic tension before or after demanding ceremonial work.  
+- Brews in mestizo traditions: In some Amazonian contexts, ashwagandha is combined with CNS-regulating plants—such as [[plants/justicia-pectoralis]] or [[plants/piper-methysticum]]—to mitigate overstimulation or cultivate ritual calm[2]. The goal is not to induce visions but to modulate stress reactivity and somatic tension before or after demanding ceremonial work.  
 - Paste and milk-based formulations: Root powder is mixed with milk, honey, or clarified butter (ghee) to enhance absorption and reduce gastrointestinal irritation, echoing classical Ayurvedic rasayana protocols[1]. Such formulations can be taken in the evening to support sleep onset while maintaining next-day clarity.  
 - Powders and electuaries: Finely milled churna (powder) is blended with demulcents or nutritive carriers for long-term tonic use, particularly in states of underweight, convalescence, or chronic fatigue[1].  
 - Oils and external use: Although less emphasized in the provided sources, topical applications traditionally aim to soothe muscles and joints, complementing internal use in restorative regimens.

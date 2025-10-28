@@ -1,10 +1,22 @@
 ---
-title: "Tabernaemontana sananho (Uchu Sanango)"
-aliases: ["Uchu Sanango", "Sanango", "Sananga", "Sananga eye drops", "T. sananho"]
-summary: "Amazonian Apocynaceae shrub foundational to sananga eye drops and strength-building dieta practices; rich in indole alkaloids and embedded in Indigenous healing traditions across the upper Amazon basin."
-tags: ["Tabernaemontana sananho", "sananga", "Uchu Sanango", "Apocynaceae", "teacher plants", "ethnobotany", "Amazonia"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+title: Tabernaemontana sananho (Uchu Sanango)
+aliases:
+  - Uchu Sanango
+  - Sanango
+  - Sananga
+  - Sananga eye drops
+  - T. sananho
+summary: Amazonian Apocynaceae shrub foundational to sananga eye drops and strength-building dieta practices; rich in indole alkaloids and embedded in Indigenous healing traditions across the upper Amazon basin.
+tags:
+  - Tabernaemontana sananho
+  - sananga
+  - Uchu Sanango
+  - Apocynaceae
+  - teacher plants
+  - ethnobotany
+  - Amazonia
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -47,7 +59,7 @@ Uchu Sanango holds a revered place in Amazonian medicinal culture, particularly 
 - Spiritual Preparation: Sanango is often administered before visionary rituals—such as ayahuasca ceremonies—to purify “panema” (spiritual blockages, lethargy), and attune the mind to deeper insights (Shamans Cave n.d.[3]; Sankofa Mind + Body n.d.[4]).
 - Emotional and Energetic Cleansing: Some traditions employ sanango in emotional healing sessions for relieving anxiety, sadness, and energetic “heaviness”, believed fundamental to Amazonian concepts of health (Barnes n.d.[2]).
 
-Within ceremonial settings, sananga may be used to ready participants for encounters with other teacher plants and rites, including [[Ayahuasca]] ceremonies typically involving [[Banisteriopsis caapi]] and [[Psychotria viridis]]. In some communities, sananga accompanies pre-ceremonial protocols (abstinences, fasting, bathing) and is paired with tobacco prayers using [[Nicotiana rustica]] to focus intention and protection.
+Within ceremonial settings, sananga may be used to ready participants for encounters with other teacher plants and rites, including [[preparations/ayahuasca]] ceremonies typically involving [[plants/banisteriopsis-caapi]] and [[plants/psychotria-viridis]]. In some communities, sananga accompanies pre-ceremonial protocols (abstinences, fasting, bathing) and is paired with tobacco prayers using [[plants/nicotiana-rustica]] to focus intention and protection.
 
 Contemporary non-Indigenous use has expanded into holistic wellness circles, with sanango recognized for its potential effects on focus, emotional clarity, and spiritual self-exploration (Make It Sacred n.d.[5]; Shamanic Supply n.d.[6]). This diffusion has occurred alongside broader global interest in Amazonian medicines, intensifying debates about cultural authority, transmission of practice, and the boundaries of appropriate ceremonial adaptation.
 
@@ -82,7 +94,7 @@ Preparation is highly ritualized, requiring skilled practitioners:
 - Application: A ritual prayer or intention is set; then a single drop is placed directly into each eye—often using a shell, leaf, or modern dropper (MemoryCherish n.d.[1]; Shamans Cave n.d.[3]).
 - Ceremonial Role: Sanango use commonly initiates diets (periods of strict food and substance restriction) aimed at increasing physical and spiritual resilience. In some traditions, repeated applications over days serve as deeper purification or preparation for advanced practices (Barnes n.d.[2]).
 
-While protocols vary among peoples and lineages, several themes recur. Practitioners emphasize respectful harvesting and reciprocity with the plant, alignment with personal intention, and adherence to dietary and behavioral guidelines surrounding the session (abstinence from certain foods, alcohol, and sexual activity). In settings where sananga precedes [[Ayahuasca]] work, it is framed as clearing visual and energetic fields to facilitate learning from master plants.
+While protocols vary among peoples and lineages, several themes recur. Practitioners emphasize respectful harvesting and reciprocity with the plant, alignment with personal intention, and adherence to dietary and behavioral guidelines surrounding the session (abstinence from certain foods, alcohol, and sexual activity). In settings where sananga precedes [[preparations/ayahuasca]] work, it is framed as clearing visual and energetic fields to facilitate learning from master plants.
 
 Hygienic considerations have become more prominent as use has expanded. Traditional implements—such as cleaned shells or leaves—are increasingly supplemented or replaced by dropper bottles. Contemporary practice in intercultural contexts often includes filtering of the infusion, attention to pH and saline balance, and the use of boiled or sterile water to avoid microbial contamination. These adaptations aim to preserve ceremonial integrity while addressing ocular safety. Acute effects typically include intense burning, watering of the eyes, transient photophobia, and reflexive blinking. Recipients generally remain seated or reclined during application, with guided breathing and song to navigate the discomfort until clarity returns (Sankofa Mind + Body n.d.[4]; Shamanic Supply n.d.[6]).
 

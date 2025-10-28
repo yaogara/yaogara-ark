@@ -1,10 +1,23 @@
 ---
-title: "Anadenanthera peregrina (Yopo Tree)"
-aliases: ["Yopo", "Cohoba", "Niopo", "Paricá", "Epená", "Yopa"]
-summary: "A leguminous tree of northern South America and the Caribbean whose seeds contain bufotenine and DMT; primary source of yopo/cohoba snuff central to Indigenous ritual, healing, and social life."
-tags: ["Anadenanthera peregrina", "yopo", "cohoba", "tryptamines", "ethnobotany", "teacher plants", "snuff traditions"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+title: Anadenanthera peregrina (Yopo Tree)
+aliases:
+  - Yopo
+  - Cohoba
+  - Niopo
+  - Paricá
+  - Epená
+  - Yopa
+summary: 'A leguminous tree of northern South America and the Caribbean whose seeds contain bufotenine and DMT; primary source of yopo/cohoba snuff central to Indigenous ritual, healing, and social life.'
+tags:
+  - Anadenanthera peregrina
+  - yopo
+  - cohoba
+  - tryptamines
+  - ethnobotany
+  - teacher plants
+  - snuff traditions
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied traditions.*
@@ -39,7 +52,7 @@ Archaeological and ethnohistorical evidence indicates yopo/cohoba snuffing tradi
 
 Contemporary practice, while subject to external pressures including missionization, extractive economies, and territorial displacement, remains a vital medium for cultural continuity and adaptive resilience. Among the Piaroa, yopo is interwoven with “shamanic ethical principles,” cosmology, and performative narrative, structuring relations between persons, spirits, and landscapes. For the Cuiva, yopo has been mobilized as an emblem of identity and resistance, articulating claims to land, dignity, and political self-determination [5]. Across groups, ceremonies support healing, divination, conflict mediation, collective mourning, and initiation—domains where visionary knowledge and communal alignment are sought [3][5][7].
 
-Ethnographic descriptions emphasize the importance of social choreography: designated blowers or assistants administer the snuff; elders oversee dosage and sequence; and songs, rattles, or other sonic elements provide rhythmic containment. Participation is often preceded by dietary and behavioral regulations, with post-session integration involving narrative recounting and interpretive guidance by experienced practitioners. As with other teacher-plant traditions—such as the ayahuasca complex involving [[Banisteriopsis caapi]] and [[Psychotria viridis]]—the efficacy and safety of yopo are understood to depend on set, setting, and lineage-specific protocols [3][5][7].
+Ethnographic descriptions emphasize the importance of social choreography: designated blowers or assistants administer the snuff; elders oversee dosage and sequence; and songs, rattles, or other sonic elements provide rhythmic containment. Participation is often preceded by dietary and behavioral regulations, with post-session integration involving narrative recounting and interpretive guidance by experienced practitioners. As with other teacher-plant traditions—such as the ayahuasca complex involving [[plants/banisteriopsis-caapi]] and [[plants/psychotria-viridis]]—the efficacy and safety of yopo are understood to depend on set, setting, and lineage-specific protocols [3][5][7].
 
 ---
 
@@ -59,8 +72,8 @@ Phenomenology and somatic effects
 - Adverse effects are most often local (mucosal irritation, epistaxis with overuse), but systemic reactions can include anxiety, disorientation, and vasoconstrictive symptoms. In ceremonial contexts, skilled dosing, ritual pacing, and supportive accompaniment mitigate risks and enhance integration [3][5][7].
 
 Synergies and comparative context
-- In several traditions, admixture ashes are prepared from plant materials that have their own pharmacological properties. Ashes from [[Banisteriopsis caapi]] or certain tree barks are sometimes cited as adding β-carbolines or other bioactives alongside alkalinity; however, profiles differ by species, part, burn temperature, and processing techniques, and β-carboline presence in final snuffs is not consistently demonstrated [4][7].
-- Compared with orally active preparations such as [[Ayahuasca]], yopo delivers a briefer, more acute intranasal experience with a distinct somatic signature attributable in part to bufotenine’s pharmacodynamic and local vascular effects [7].
+- In several traditions, admixture ashes are prepared from plant materials that have their own pharmacological properties. Ashes from [[plants/banisteriopsis-caapi]] or certain tree barks are sometimes cited as adding β-carbolines or other bioactives alongside alkalinity; however, profiles differ by species, part, burn temperature, and processing techniques, and β-carboline presence in final snuffs is not consistently demonstrated [4][7].
+- Compared with orally active preparations such as [[preparations/ayahuasca]], yopo delivers a briefer, more acute intranasal experience with a distinct somatic signature attributable in part to bufotenine’s pharmacodynamic and local vascular effects [7].
 
 ---
 
@@ -71,7 +84,7 @@ Ceremonial yopo/snuff preparation is a multi-stage process that requires botanic
 
 - Roasting/toasting: Seeds are heated over embers or a low fire until they audibly pop and the hulls split. This step reduces moisture, facilitates husk removal, and may partially decarboxylate precursors or alter matrix constituents affecting grindability and extraction [2][4].
 
-- Grinding and alkalization: The roasted seeds are finely ground on dedicated trays or stone metates. Finely sieved plant ashes—derived from burned bark, lianas, or specific woods—are incorporated to achieve an alkaline pH that enhances nasal absorption. In some traditions, ashes from [[Banisteriopsis caapi]] are employed, reflecting regional pharmacopeias and conceptual synergies across teacher plants [3][2][7]. Ratios of ash to seed vary by lineage and intended strength; subtler social uses may employ lower ash proportions, while divinatory or healing sessions may require a more alkaline blend.
+- Grinding and alkalization: The roasted seeds are finely ground on dedicated trays or stone metates. Finely sieved plant ashes—derived from burned bark, lianas, or specific woods—are incorporated to achieve an alkaline pH that enhances nasal absorption. In some traditions, ashes from [[plants/banisteriopsis-caapi]] are employed, reflecting regional pharmacopeias and conceptual synergies across teacher plants [3][2][7]. Ratios of ash to seed vary by lineage and intended strength; subtler social uses may employ lower ash proportions, while divinatory or healing sessions may require a more alkaline blend.
 
 - Administration: Snuff is administered via nasal insufflation. A designated attendant may blow the powder into a participant’s nostril using a straight tube (often bamboo or bird bone), with sequential blows alternating nostrils to control dosing. Self-administration sometimes involves a bifurcated Y-shaped tube. In other settings, minimally processed seed powder is insufflated directly, producing weaker effects with greater nasal irritation [2][3][7].
 

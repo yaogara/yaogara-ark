@@ -1,10 +1,24 @@
 ---
-title: "Banisteriopsis rusbyana (Tucunacá)"
-aliases: ["Diplopterys cabrerana", "Tucunacá", "Chaliponga", "Chagropanga", "Chalipanga", "Rubyana yagé"]
-summary: "Woody liana of western Amazonia whose leaves are a principal tryptamine-rich admixture to [[ayahuasca]]; known among Indigenous and mestizo practitioners as tucunacá, chaliponga, or chagropanga."
-tags: ["ayahuasca", "Banisteriopsis rusbyana", "Diplopterys cabrerana", "teacher plants", "Malpighiaceae", "ethnobotany", "tryptamines", "Amazonia"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+title: Banisteriopsis rusbyana (Tucunacá)
+aliases:
+  - Diplopterys cabrerana
+  - Tucunacá
+  - Chaliponga
+  - Chagropanga
+  - Chalipanga
+  - Rubyana yagé
+summary: 'Woody liana of western Amazonia whose leaves are a principal tryptamine-rich admixture to [[preparations/ayahuasca]]; known among Indigenous and mestizo practitioners as tucunacá, chaliponga, or chagropanga.'
+tags:
+  - ayahuasca
+  - Banisteriopsis rusbyana
+  - Diplopterys cabrerana
+  - teacher plants
+  - Malpighiaceae
+  - ethnobotany
+  - tryptamines
+  - Amazonia
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -12,7 +26,7 @@ license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research arc
 ---
 
 ## Abstract
-Banisteriopsis rusbyana (syn. Diplopterys cabrerana, commonly known as tucunacá, chaliponga, or chagropanga) is a culturally and pharmacologically significant liana native to western Amazonia. Traditionally, its leaves are incorporated by Indigenous and mestizo Amazonian peoples into [[ayahuasca]] (yagé) brews as a principal admixture, prized for their high content of psychoactive tryptamines, particularly dimethyltryptamine (DMT). Though sometimes conflated with [[Banisteriopsis caapi]], the classic source of ayahuasca’s β-carbolines, B. rusbyana is botanically distinct but nonetheless valued in traditional medicine and shamanic practice for its visionary properties, its role in divinatory ritual, and its contributions to plant-based pharmacological knowledge—warranting precise ethnobotanical documentation and sustainable stewardship[2][3][4].
+Banisteriopsis rusbyana (syn. Diplopterys cabrerana, commonly known as tucunacá, chaliponga, or chagropanga) is a culturally and pharmacologically significant liana native to western Amazonia. Traditionally, its leaves are incorporated by Indigenous and mestizo Amazonian peoples into [[preparations/ayahuasca]] (yagé) brews as a principal admixture, prized for their high content of psychoactive tryptamines, particularly dimethyltryptamine (DMT). Though sometimes conflated with [[plants/banisteriopsis-caapi]], the classic source of ayahuasca’s β-carbolines, B. rusbyana is botanically distinct but nonetheless valued in traditional medicine and shamanic practice for its visionary properties, its role in divinatory ritual, and its contributions to plant-based pharmacological knowledge—warranting precise ethnobotanical documentation and sustainable stewardship[2][3][4].
 
 ---
 
@@ -60,7 +74,7 @@ Conservation distribution notes:
 ## Ethnobotanical Context
 Cultural significance:
 - B. rusbyana (tucunacá/chaliponga/chagropanga) is foundational among diverse Amazonian groups including Tukanoan, Kichwa, Shuar, and Secoya peoples[2][3][4].  
-- Its principal role is as an ayahuasca admixture. Leaves are combined with the β‑carboline-rich vine [[Banisteriopsis caapi]], enabling the orally active ingestion of DMT and shaping the phenomenology of visions, divination, and diagnostic insight during ceremony[2][3][4].
+- Its principal role is as an ayahuasca admixture. Leaves are combined with the β‑carboline-rich vine [[plants/banisteriopsis-caapi]], enabling the orally active ingestion of DMT and shaping the phenomenology of visions, divination, and diagnostic insight during ceremony[2][3][4].
 
 Roles in practice:
 - Indigenous specialists—variously known as yagéceros or ayahuasqueros—select tucunacá/chaliponga for brews intended for divination, healing, and community ritual. Some mestizo curanderos prefer this admixture for its pronounced, vivid visual sequences and perceived “clarity” of informational content.  
@@ -71,7 +85,7 @@ Knowledge transmission:
 - Planting and harvesting may observe calendrical and ecological cues (e.g., lunar phases, onset of rains), reflecting locally elaborated seasonalities and cosmologies tied to plant agency and “teacher” qualities[2][3][4].
 
 Terminology and admixture ecologies:
-- In many regions “chaliponga” or “chagropanga” denotes D. cabrerana specifically, distinguishing it from other DMT-bearing admixtures such as [[Psychotria viridis]] and [[Mimosa hostilis]].  
+- In many regions “chaliponga” or “chagropanga” denotes D. cabrerana specifically, distinguishing it from other DMT-bearing admixtures such as [[plants/psychotria-viridis]] and [[Mimosa hostilis]].  
 - Expert practitioners note qualitative differences among admixtures, describing chaliponga-inclusive brews as possessing a characteristic visionary force at relatively modest leaf quantities, with variable somatic effects relative to other DMT sources[2][3][4].
 
 ---
@@ -84,7 +98,7 @@ Constituents:
 
 Mechanism of action:
 - DMT and 5‑MeO‑DMT are serotonergic psychedelics that act primarily as agonists at 5‑HT2A receptors in the central nervous system.  
-- When prepared as [[ayahuasca]], B. caapi supplies β‑carbolines (harmine, harmaline, tetrahydroharmine) that function as monoamine oxidase inhibitors (MAOIs), preventing first-pass metabolic degradation of DMT and rendering it orally active.  
+- When prepared as [[preparations/ayahuasca]], B. caapi supplies β‑carbolines (harmine, harmaline, tetrahydroharmine) that function as monoamine oxidase inhibitors (MAOIs), preventing first-pass metabolic degradation of DMT and rendering it orally active.  
 - The pharmacodynamic interaction—5‑HT2A receptor engagement by tryptamines plus MAO‑A inhibition by β‑carbolines—yields a prolonged psychoactive experience suited to ritual and therapeutic aims in Amazonian practice[3][4][7].
 
 Variability and context:

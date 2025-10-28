@@ -1,15 +1,28 @@
 ---
-title: "Ayahuasca (Traditional Amazonian Brew)"
-aliases: ["Yagé", "Caapi", "Hoasca", "Daime"]
-summary: "A sacred psychoactive brew from the Amazon Basin, traditionally prepared from Banisteriopsis caapi and Psychotria viridis. Central to Indigenous shamanism and modern psychedelic research."
-tags: ["ayahuasca", "teacher plants", "Banisteriopsis caapi", "Psychotria viridis", "ethnobotany", "Amazon", "psychedelics", "shamanism", "preparations"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Ayahuasca (Traditional Amazonian Brew)
+aliases:
+  - Yagé
+  - Caapi
+  - Hoasca
+  - Daime
+summary: 'A sacred psychoactive brew from the Amazon Basin, traditionally prepared from Banisteriopsis caapi and Psychotria viridis. Central to Indigenous shamanism and modern psychedelic research.'
+tags:
+  - ayahuasca
+  - teacher plants
+  - Banisteriopsis caapi
+  - Psychotria viridis
+  - ethnobotany
+  - Amazon
+  - psychedelics
+  - shamanism
+  - preparations
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the [Yaogará Ark](https://ark.yaogara.org), a living research archive documenting Amazonian teacher plants, ancestral pharmacology, and the intersection of traditional and contemporary healing knowledge.*
 
-> See also: [[Ayahuasca Overview]] for a concise encyclopedic summary.
+> See also: [[summaries/ayahuasca-summary]] for a concise encyclopedic summary.
 
 ---
 
@@ -25,11 +38,11 @@ Used for millennia by nations such as the Shipibo-Conibo, Tukano, Cofán, and Sh
 
 ### Banisteriopsis caapi — The Vine
 *B. caapi*, often called *ayahuasca*, *caapi*, or *yagé*, is a large woody liana endemic to lowland Amazonian forests. It contains β-carboline alkaloids—**harmine**, **harmaline**, and **tetrahydroharmine (THH)**—which act as **reversible monoamine oxidase-A inhibitors (MAOIs)**. This biochemical action prevents the degradation of DMT, allowing it to become orally active.  
-→ See [[Banisteriopsis caapi (Ayahuasca Vine)]] for the complete botanical profile.
+→ See [[plants/banisteriopsis-caapi]] for the complete botanical profile.
 
 ### Psychotria viridis — The Leaf
 *P. viridis* (chacruna), a shrub of the Rubiaceae family, provides the tryptamine **N,N-dimethyltryptamine (DMT)**. It grows throughout the Amazon Basin and belongs to the same family as coffee.  
-→ See [[Psychotria viridis (Chacruna)]] for details.
+→ See [[plants/psychotria-viridis|Psychotria viridis (Chacruna)]] for details.
 
 ### Other Admixtures
 In some regions, *Diplopterys cabrerana* (chaliponga) replaces *P. viridis* as the DMT source. Other additives—such as *Brunfelsia grandiflora* or *Justicia pectoralis*—may modulate flavor, effect, or symbolic value depending on lineage or healer preference.
@@ -176,4 +189,4 @@ Conservation is inseparable from cultural continuity—protecting the vine means
 You are free to share and adapt this material with attribution.  
 <https://creativecommons.org/licenses/by-sa/4.0/>
 
-> A condensed encyclopedic summary is available at [[Ayahuasca Overview]].
+> A condensed encyclopedic summary is available at [[summaries/ayahuasca-summary]].

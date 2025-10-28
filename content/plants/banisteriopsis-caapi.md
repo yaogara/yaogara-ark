@@ -1,10 +1,21 @@
 ---
-title: "Banisteriopsis caapi (Ayahuasca Vine)"
-aliases: ["Ayahuasca Vine", "Yagé", "Yajé", "Caapi", "Mariri"]
-summary: "Principal vine of the ayahuasca brew; a culturally central Amazonian liana whose β‑carbolines enable DMT oral activity and shape ceremonial, medicinal, and ethnobotanical practice."
-tags: ["ayahuasca", "Banisteriopsis caapi", "teacher plants", "ethnobotany", "Malpighiaceae", "β-carbolines"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Banisteriopsis caapi (Ayahuasca Vine)
+aliases:
+  - Ayahuasca Vine
+  - Yagé
+  - Yajé
+  - Caapi
+  - Mariri
+summary: 'Principal vine of the ayahuasca brew; a culturally central Amazonian liana whose β‑carbolines enable DMT oral activity and shape ceremonial, medicinal, and ethnobotanical practice.'
+tags:
+  - ayahuasca
+  - Banisteriopsis caapi
+  - teacher plants
+  - ethnobotany
+  - Malpighiaceae
+  - β-carbolines
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -39,7 +50,7 @@ Diagnostic notes:
 
 ## Ethnobotanical Context
 Banisteriopsis caapi holds profound esoteric and medicinal status among numerous Amazonian Indigenous groups (e.g., Shipibo, Kaxinawá, Tukano, Cofán) and mestizo populations [1][2]. Core domains of use include:
-- Ayahuasca Brew (Yagé): B. caapi forms the pharmacological backbone of ayahuasca decoctions, typically combined with [[Psychotria viridis]] (Chacruna) or other DMT-containing species [1][2].
+- Ayahuasca Brew (Yagé): B. caapi forms the pharmacological backbone of ayahuasca decoctions, typically combined with [[plants/psychotria-viridis]] (Chacruna) or other DMT-containing species [1][2].
 - Ritual and Healing: Employed for divination, diagnosis, initiation, psychological healing, guidance, and as a purgative for physical cleansing (including relief from intestinal parasites) [2]. Ritual specialists build a sophisticated praxis of songs (icaros), diets (dieta), and plant relationality, emphasizing the vine’s instructional agency and guardián qualities [1][2][4].
 - Contemporary Expansion: Since the late 20th century, ayahuasca use has diffused internationally via syncretic religious movements (e.g., União do Vegetal, Santo Daime) and non-Indigenous therapeutic and spiritual networks, generating new ceremonial forms, research interests, and policy debates [1].
 - Plant “Types”: Indigenous experts recognize multiple morphotypes (e.g., tucunacá, amarelinho, ourinho, caupuri) with subtle variations in stem architecture, bark texture, and alkaloid profiles; these are selected according to ceremonial goals (e.g., divinatory clarity, somatic cleansing, stamina) and the experience level of participants [4].
@@ -52,7 +63,7 @@ Principal active compounds:
 - Polyphenols and other constituents: Minor phytochemicals include proanthocyanidins, epicatechin, and procyanidin B2, alongside a broader phenolic milieu typical of woody Malpighiaceae that may contribute antioxidant properties [1].
 
 Mechanisms of action:
-- Reversible MAO-A inhibition: Harmine and harmaline act as reversible inhibitors of monoamine oxidase-A (MAO-A), attenuating first-pass deamination of biogenic amines [1][4]. This inhibition is essential for rendering orally ingested DMT from admixtures such as [[Psychotria viridis]] psychoactive; without MAO-A inhibition, DMT is rapidly inactivated in the gut and liver [1][4].
+- Reversible MAO-A inhibition: Harmine and harmaline act as reversible inhibitors of monoamine oxidase-A (MAO-A), attenuating first-pass deamination of biogenic amines [1][4]. This inhibition is essential for rendering orally ingested DMT from admixtures such as [[plants/psychotria-viridis]] psychoactive; without MAO-A inhibition, DMT is rapidly inactivated in the gut and liver [1][4].
 - Synergy and entheogenic profile: In addition to enabling DMT, β-carbolines exhibit intrinsic psychoactivity characterized by alterations in vigilance, dream-like imagery, and somatosensory modulation at sufficient doses. Tetrahydroharmine may contribute complementary serotonergic effects and, together with harmine/harmaline, is implicated in the characteristic temporal structure and cognitive-emotional tone of the ayahuasca experience [4].
 - Ancillary effects and safety considerations: Experimental and in vitro research suggests β-carbolines may display neuroprotective, antioxidant, and anti-inflammatory profiles, though translational significance and dose-response relationships remain active areas of inquiry [4]. The reversible nature of MAO-A inhibition by B. caapi alkaloids contrasts with irreversible pharmaceutical MAOIs, yet dietary and drug interaction cautions are still warranted in ceremonial and clinical contexts [1][4].
 
@@ -64,7 +75,7 @@ Chemotypic and morphotype variation:
 Collection and preparation:
 - Mature, healthy vines (often >5 years old) are harvested according to local ecological and cultural protocols, sometimes including prayer, song, or offerings to acknowledge plant spirits and the forest [2][4].
 - The vine is cut into manageable lengths; bark may be shaved and the stem pounded or split to increase surface area and fiber exposure. The fibrous ribbons are prized for extraction efficiency and are easy to layer in the cooking vessel [1][4].
-- Decoction involves slow boiling of B. caapi with DMT-containing admixtures—notably [[Psychotria viridis]] leaves—over several hours or through multiple extraction cycles. Liquids from successive boils are combined and reduced to a thick, bitter concentrate. Filtration or decanting removes coarse sediment before final reduction [1][4].
+- Decoction involves slow boiling of B. caapi with DMT-containing admixtures—notably [[plants/psychotria-viridis]] leaves—over several hours or through multiple extraction cycles. Liquids from successive boils are combined and reduced to a thick, bitter concentrate. Filtration or decanting removes coarse sediment before final reduction [1][4].
 
 Ceremonial roles and praxis:
 - Ayahuasca rituals are led by specialists (curanderos, onaya, taitas, pajés) who calibrate dosage, admixture selection, and ritual sequence to the ceremonial intent and participant needs. Preparations include abstentions and dieta, spatial arrangements, cleansing, and the structured use of icaros to guide visions, regulate tempo, and protect the ceremonial field [1][2][4].

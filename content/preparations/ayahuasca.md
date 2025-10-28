@@ -1,10 +1,27 @@
 ---
-title: "Ayahuasca (Traditional Amazonian Brew)"
-aliases: ["Yagé", "Caapi", "Hoasca", "Daime"]
-summary: "A sacred psychoactive brew from the Amazon Basin, traditionally prepared from Banisteriopsis caapi and Psychotria viridis. Central to Indigenous shamanism and modern psychedelic research."
-tags: ["ayahuasca", "teacher plants", "Banisteriopsis caapi", "Psychotria viridis", "ethnobotany", "Amazon", "psychedelics", "shamanism", "preparations"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Ayahuasca (Traditional Amazonian Brew)
+aliases:
+  - Yagé
+  - Caapi
+  - Hoasca
+  - Daime
+summary: >-
+  A sacred psychoactive brew from the Amazon Basin, traditionally prepared from
+  Banisteriopsis caapi and Psychotria viridis. Central to Indigenous shamanism
+  and modern psychedelic research.
+tags:
+  - ayahuasca
+  - teacher plants
+  - Banisteriopsis caapi
+  - Psychotria viridis
+  - ethnobotany
+  - Amazon
+  - psychedelics
+  - shamanism
+  - preparations
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the [Yaogará Ark](https://ark.yaogara.org), a living research archive documenting Amazonian teacher plants, ancestral pharmacology, and the intersection of traditional and contemporary healing knowledge.*
@@ -177,3 +194,18 @@ You are free to share and adapt this material with attribution.
 <https://creativecommons.org/licenses/by-sa/4.0/>
 
 > A condensed encyclopedic summary is available at [[Ayahuasca Overview]].
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Ayahuasca (Traditional Amazonian Brew)*. Yaogará Ark Research Archive. https://ark.yaogara.org/preparations/ayahuasca
+
+#### Related Reading
+*No related articles available yet.*
+
+---

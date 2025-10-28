@@ -1,3 +1,10 @@
+---
+title: Ethnobotanical Traditions
+date: '2025-10-28'
+tags: []
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-26'
+---
 # Ethnobotanical Traditions
 
 ## The Sacred Relationship Between People and Plants
@@ -106,3 +113,18 @@ The challenge lies in finding ways to honor, preserve, and learn from these trad
 ---
 
 *This information is presented with deep respect for indigenous cultures and their traditional knowledge. Always engage with these traditions responsibly and ethically.*
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Ethnobotanical Traditions*. Yaogará Ark Research Archive. https://ark.yaogara.org/traditions/Ethnobotanical-Traditions
+
+#### Related Reading
+- [Preparation And Ceremony](/traditions/Preparation-and-Ceremony)
+
+---

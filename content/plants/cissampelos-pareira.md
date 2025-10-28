@@ -1,10 +1,23 @@
 ---
-title: "Cissampelos pareira (Abuta)"
-aliases: ["Abuta", "Pareira"]
-summary: "A pantropical climbing vine of the Menispermaceae, long used in Amazonian and wider traditional medicine—especially in women’s reproductive health—while modern pharmacological evidence remains preliminary."
-tags: ["Cissampelos pareira", "Abuta", "Menispermaceae", "ethnobotany", "Amazonia", "women's health", "teacher plants"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Cissampelos pareira (Abuta)
+aliases:
+  - Abuta
+  - Pareira
+summary: >-
+  A pantropical climbing vine of the Menispermaceae, long used in Amazonian and
+  wider traditional medicine—especially in women’s reproductive health—while
+  modern pharmacological evidence remains preliminary.
+tags:
+  - Cissampelos pareira
+  - Abuta
+  - Menispermaceae
+  - ethnobotany
+  - Amazonia
+  - women's health
+  - teacher plants
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied ethnobotanicals.*
@@ -104,3 +117,22 @@ Given Abuta’s association with reproductive and postpartum care, applied resea
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Cissampelos pareira (Abuta)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/cissampelos-pareira
+
+#### Related Reading
+- [Anadenanthera colubrina (Cebil Tree)](/plants/anadenanthera-colubrina)
+- [Anadenanthera peregrina (Yopo Tree)](/plants/anadenanthera-peregrina)
+- [Banisteriopsis caapi (Ayahuasca Vine)](/plants/banisteriopsis-caapi)
+- [Banisteriopsis muricata (Ayahuasca Variant)](/plants/banisteriopsis-muricata)
+- [Banisteriopsis rusbyana (Tucunacá)](/plants/banisteriopsis-rusbyana)
+
+---

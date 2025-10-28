@@ -1,10 +1,25 @@
 ---
-title: "Anadenanthera colubrina (Cebil Tree)"
-aliases: ["Cebil", "Vilca", "Cebil Tree", "Anadenanthera colubrina var. cebil"]
-summary: "A South American leguminous tree central to Andean and lowland ceremonial snuffs and rural folk medicine, notable for DMT/5-HO-DMT–rich seeds and ongoing conservation concerns amid habitat fragmentation."
-tags: ["Anadenanthera colubrina", "cebil", "vilca", "teacher plants", "ethnobotany", "tryptamines", "South America"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Anadenanthera colubrina (Cebil Tree)
+aliases:
+  - Cebil
+  - Vilca
+  - Cebil Tree
+  - Anadenanthera colubrina var. cebil
+summary: >-
+  A South American leguminous tree central to Andean and lowland ceremonial
+  snuffs and rural folk medicine, notable for DMT/5-HO-DMT–rich seeds and
+  ongoing conservation concerns amid habitat fragmentation.
+tags:
+  - Anadenanthera colubrina
+  - cebil
+  - vilca
+  - teacher plants
+  - ethnobotany
+  - tryptamines
+  - South America
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -170,3 +185,22 @@ In sum, sustainable futures for cebil hinge on aligning ecological management wi
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Anadenanthera colubrina (Cebil Tree)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/anadenanthera-colubrina
+
+#### Related Reading
+- [Anadenanthera peregrina (Yopo Tree)](/plants/anadenanthera-peregrina)
+- [Banisteriopsis caapi (Ayahuasca Vine)](/plants/banisteriopsis-caapi)
+- [Banisteriopsis muricata (Ayahuasca Variant)](/plants/banisteriopsis-muricata)
+- [Banisteriopsis rusbyana (Tucunacá)](/plants/banisteriopsis-rusbyana)
+- [Brugmansia spp. (Angel’s Trumpet)](/plants/brugmansia-spp)
+
+---

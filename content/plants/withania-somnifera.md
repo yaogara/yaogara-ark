@@ -1,10 +1,25 @@
 ---
-title: "Withania somnifera (Ashwagandha)"
-aliases: ["Ashwagandha", "Indian ginseng", "Winter cherry", "Withania somnifera"]
-summary: "Adaptogenic Solanaceae shrub central to Ayurveda, used for stress resilience, sleep, and vitality; increasingly integrated into global and Amazonian-adjacent ethnobotanical practice."
-tags: ["Withania somnifera", "ashwagandha", "adaptogen", "Ayurveda", "Solanaceae", "ethnobotany", "teacher plants"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Withania somnifera (Ashwagandha)
+aliases:
+  - Ashwagandha
+  - Indian ginseng
+  - Winter cherry
+  - Withania somnifera
+summary: >-
+  Adaptogenic Solanaceae shrub central to Ayurveda, used for stress resilience,
+  sleep, and vitality; increasingly integrated into global and
+  Amazonian-adjacent ethnobotanical practice.
+tags:
+  - Withania somnifera
+  - ashwagandha
+  - adaptogen
+  - Ayurveda
+  - Solanaceae
+  - ethnobotany
+  - teacher plants
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the **Yaogará Ark**, a living archive of Amazonian teacher plants.*
@@ -108,3 +123,22 @@ Cultivation policies can further support sustainability by encouraging regional 
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Withania somnifera (Ashwagandha)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/withania-somnifera
+
+#### Related Reading
+- [Anadenanthera colubrina (Cebil Tree)](/plants/anadenanthera-colubrina)
+- [Anadenanthera peregrina (Yopo Tree)](/plants/anadenanthera-peregrina)
+- [Banisteriopsis caapi (Ayahuasca Vine)](/plants/banisteriopsis-caapi)
+- [Banisteriopsis muricata (Ayahuasca Variant)](/plants/banisteriopsis-muricata)
+- [Banisteriopsis rusbyana (Tucunacá)](/plants/banisteriopsis-rusbyana)
+
+---

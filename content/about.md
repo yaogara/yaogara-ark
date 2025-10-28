@@ -1,9 +1,19 @@
 ---
-title: "About Yaogará Ark"
+title: About Yaogará Ark
 alias: /about
-description: "Yaogará Ark is a digital repository preserving and sharing knowledge about sacred plants, indigenous wisdom, and ethnobotanical traditions across the Americas."
-tags: ["About", "Ethnobotany", "Sacred Plants", "Indigenous Knowledge"]
+description: >-
+  Yaogará Ark is a digital repository preserving and sharing knowledge about
+  sacred plants, indigenous wisdom, and ethnobotanical traditions across the
+  Americas.
+tags:
+  - About
+  - Ethnobotany
+  - Sacred Plants
+  - Indigenous Knowledge
 layout: page
+date: '2025-10-28'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-28'
 ---
 
 Welcome to **Yaogará Ark** — a digital repository dedicated to preserving and sharing knowledge about traditional **ethnobotanical practices** and **sacred plant traditions** from Indigenous cultures across the Americas.
@@ -49,3 +59,18 @@ Its field counterpart, **[Camino al Sol](https://caminoalsol.com)**, hosts exper
 ---
 
 *Yaogará Ark — Preserving the Sacred Connection Between Plants and People*
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *About Yaogará Ark*. Yaogará Ark Research Archive. https://ark.yaogara.org/about
+
+#### Related Reading
+- [The Yaogará Ark](/)
+
+---

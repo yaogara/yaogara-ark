@@ -1,10 +1,24 @@
 ---
-title: "Cyperus prolixus (Toé Root; Ajos Sacha alt.)"
-aliases: ["Toé Root", "Ajos Sacha alt.", "Cyperus prolixus Kunth"]
-summary: "Amazonian sedge of medicinal and ritual importance used in floral baths, vaporations, and digestive care; documented among Indigenous and mestizo practitioners in the western Amazon."
-tags: ["Cyperus prolixus", "Cyperaceae", "ethnobotany", "Amazonia", "medicinal plants", "floral baths", "protective rituals"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Cyperus prolixus (Toé Root; Ajos Sacha alt.)
+aliases:
+  - Toé Root
+  - Ajos Sacha alt.
+  - Cyperus prolixus Kunth
+summary: >-
+  Amazonian sedge of medicinal and ritual importance used in floral baths,
+  vaporations, and digestive care; documented among Indigenous and mestizo
+  practitioners in the western Amazon.
+tags:
+  - Cyperus prolixus
+  - Cyperaceae
+  - ethnobotany
+  - Amazonia
+  - medicinal plants
+  - floral baths
+  - protective rituals
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied species.*
@@ -118,3 +132,22 @@ As interest grows among non-local users, guidance should emphasize correct ident
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Cyperus prolixus (Toé Root; Ajos Sacha alt.)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/cyperus-prolixus
+
+#### Related Reading
+- [Anadenanthera colubrina (Cebil Tree)](/plants/anadenanthera-colubrina)
+- [Anadenanthera peregrina (Yopo Tree)](/plants/anadenanthera-peregrina)
+- [Banisteriopsis caapi (Ayahuasca Vine)](/plants/banisteriopsis-caapi)
+- [Banisteriopsis muricata (Ayahuasca Variant)](/plants/banisteriopsis-muricata)
+- [Banisteriopsis rusbyana (Tucunacá)](/plants/banisteriopsis-rusbyana)
+
+---

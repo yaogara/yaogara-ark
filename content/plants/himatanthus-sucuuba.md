@@ -1,10 +1,29 @@
 ---
-title: "Himatanthus sucuuba (Bellaco Caspi)"
-aliases: ["Bellaco Caspi", "Janaguba", "Sucuuba", "Sucuba", "Plumeria sucuuba", "Himatanthus lancifolius"]
-summary: "Amazonian Apocynaceae tree valued for its medicinal latex, bark, and leaves; traditional uses for wounds, inflammation, ulcers, and tumorous conditions align with iridoid- and triterpene-driven anti-inflammatory, antimicrobial, and cytotoxic activities."
-tags: ["Himatanthus sucuuba", "Bellaco Caspi", "Apocynaceae", "Amazonia", "latex medicine", "ethnobotany", "anti-inflammatory", "wound healing"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Himatanthus sucuuba (Bellaco Caspi)
+aliases:
+  - Bellaco Caspi
+  - Janaguba
+  - Sucuuba
+  - Sucuba
+  - Plumeria sucuuba
+  - Himatanthus lancifolius
+summary: >-
+  Amazonian Apocynaceae tree valued for its medicinal latex, bark, and leaves;
+  traditional uses for wounds, inflammation, ulcers, and tumorous conditions
+  align with iridoid- and triterpene-driven anti-inflammatory, antimicrobial,
+  and cytotoxic activities.
+tags:
+  - Himatanthus sucuuba
+  - Bellaco Caspi
+  - Apocynaceae
+  - Amazonia
+  - latex medicine
+  - ethnobotany
+  - anti-inflammatory
+  - wound healing
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied materia medica.*
@@ -113,3 +132,22 @@ Regulatory context: National and regional frameworks governing biodiversity acce
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Himatanthus sucuuba (Bellaco Caspi)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/himatanthus-sucuuba
+
+#### Related Reading
+- [Anadenanthera colubrina (Cebil Tree)](/plants/anadenanthera-colubrina)
+- [Anadenanthera peregrina (Yopo Tree)](/plants/anadenanthera-peregrina)
+- [Banisteriopsis caapi (Ayahuasca Vine)](/plants/banisteriopsis-caapi)
+- [Banisteriopsis muricata (Ayahuasca Variant)](/plants/banisteriopsis-muricata)
+- [Banisteriopsis rusbyana (Tucunacá)](/plants/banisteriopsis-rusbyana)
+
+---

@@ -1,10 +1,25 @@
 ---
-title: "Calea zacatechichi (Dream Herb)"
-aliases: ["Dream Herb", "Calea ternifolia", "Zacatechichi"]
-summary: "Oneirogenic shrub of the Asteraceae, traditionally employed by the Chontal of Oaxaca to induce clarifying dreams for divination and diagnosis; contemporary research highlights sesquiterpene lactones and germacranolides as candidate bioactives influencing sleep and dream phenomenology."
-tags: ["Calea zacatechichi", "dream herb", "oneirogens", "Asteraceae", "ethnobotany", "Mesoamerica", "Mexico"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+title: Calea zacatechichi (Dream Herb)
+aliases:
+  - Dream Herb
+  - Calea ternifolia
+  - Zacatechichi
+summary: >-
+  Oneirogenic shrub of the Asteraceae, traditionally employed by the Chontal of
+  Oaxaca to induce clarifying dreams for divination and diagnosis; contemporary
+  research highlights sesquiterpene lactones and germacranolides as candidate
+  bioactives influencing sleep and dream phenomenology.
+tags:
+  - Calea zacatechichi
+  - dream herb
+  - oneirogens
+  - Asteraceae
+  - ethnobotany
+  - Mesoamerica
+  - Mexico
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian and Mesoamerican teacher plants.*
@@ -144,3 +159,22 @@ For researchers and practitioners, ethical best practices include critical citat
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Calea zacatechichi (Dream Herb)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/calea-zacatechichi
+
+#### Related Reading
+- [Anadenanthera colubrina (Cebil Tree)](/plants/anadenanthera-colubrina)
+- [Anadenanthera peregrina (Yopo Tree)](/plants/anadenanthera-peregrina)
+- [Banisteriopsis caapi (Ayahuasca Vine)](/plants/banisteriopsis-caapi)
+- [Banisteriopsis muricata (Ayahuasca Variant)](/plants/banisteriopsis-muricata)
+- [Banisteriopsis rusbyana (Tucunacá)](/plants/banisteriopsis-rusbyana)
+
+---

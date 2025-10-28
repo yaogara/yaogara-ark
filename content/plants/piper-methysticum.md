@@ -1,10 +1,27 @@
 ---
-title: "Piper methysticum (Kava Kava)"
-aliases: ["Kava", "Kava Kava", "‘Awa", "‘Ava", "Yaqona", "Sakau"]
-summary: "Perennial Pacific shrub whose rhizome yields a psychoactive beverage central to Oceanic ceremonial life, with kavalactone chemotypes underpinning anxiolytic, sedative, and muscle-relaxant effects."
-tags: ["Piper methysticum", "kava", "teacher plants", "ethnobotany", "Pacific", "anxiolytic", "phytochemistry"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Piper methysticum (Kava Kava)
+aliases:
+  - Kava
+  - Kava Kava
+  - ‘Awa
+  - ‘Ava
+  - Yaqona
+  - Sakau
+summary: >-
+  Perennial Pacific shrub whose rhizome yields a psychoactive beverage central
+  to Oceanic ceremonial life, with kavalactone chemotypes underpinning
+  anxiolytic, sedative, and muscle-relaxant effects.
+tags:
+  - Piper methysticum
+  - kava
+  - teacher plants
+  - ethnobotany
+  - Pacific
+  - anxiolytic
+  - phytochemistry
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of teacher plants and their traditions.*
@@ -136,3 +153,22 @@ Piper methysticum (Kava Kava) is a perennial shrub indigenous to the Pacific Isl
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Piper methysticum (Kava Kava)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/piper-methysticum
+
+#### Related Reading
+- [Anadenanthera colubrina (Cebil Tree)](/plants/anadenanthera-colubrina)
+- [Anadenanthera peregrina (Yopo Tree)](/plants/anadenanthera-peregrina)
+- [Banisteriopsis caapi (Ayahuasca Vine)](/plants/banisteriopsis-caapi)
+- [Banisteriopsis muricata (Ayahuasca Variant)](/plants/banisteriopsis-muricata)
+- [Banisteriopsis rusbyana (Tucunacá)](/plants/banisteriopsis-rusbyana)
+
+---

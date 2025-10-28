@@ -1,10 +1,28 @@
 ---
-title: "Banisteriopsis rusbyana (Tucunacá)"
-aliases: ["Diplopterys cabrerana", "Tucunacá", "Chaliponga", "Chagropanga", "Chalipanga", "Rubyana yagé"]
-summary: "Woody liana of western Amazonia whose leaves are a principal tryptamine-rich admixture to [[ayahuasca]]; known among Indigenous and mestizo practitioners as tucunacá, chaliponga, or chagropanga."
-tags: ["ayahuasca", "Banisteriopsis rusbyana", "Diplopterys cabrerana", "teacher plants", "Malpighiaceae", "ethnobotany", "tryptamines", "Amazonia"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+title: Banisteriopsis rusbyana (Tucunacá)
+aliases:
+  - Diplopterys cabrerana
+  - Tucunacá
+  - Chaliponga
+  - Chagropanga
+  - Chalipanga
+  - Rubyana yagé
+summary: >-
+  Woody liana of western Amazonia whose leaves are a principal tryptamine-rich
+  admixture to [[ayahuasca]]; known among Indigenous and mestizo practitioners
+  as tucunacá, chaliponga, or chagropanga.
+tags:
+  - ayahuasca
+  - Banisteriopsis rusbyana
+  - Diplopterys cabrerana
+  - teacher plants
+  - Malpighiaceae
+  - ethnobotany
+  - tryptamines
+  - Amazonia
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -152,3 +170,22 @@ Practical guidance for collections and gardens:
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Banisteriopsis rusbyana (Tucunacá)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/banisteriopsis-rusbyana
+
+#### Related Reading
+- [Anadenanthera colubrina (Cebil Tree)](/plants/anadenanthera-colubrina)
+- [Anadenanthera peregrina (Yopo Tree)](/plants/anadenanthera-peregrina)
+- [Banisteriopsis caapi (Ayahuasca Vine)](/plants/banisteriopsis-caapi)
+- [Banisteriopsis muricata (Ayahuasca Variant)](/plants/banisteriopsis-muricata)
+- [Brugmansia spp. (Angel’s Trumpet)](/plants/brugmansia-spp)
+
+---

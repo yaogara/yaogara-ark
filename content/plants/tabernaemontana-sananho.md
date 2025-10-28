@@ -1,10 +1,26 @@
 ---
-title: "Tabernaemontana sananho (Uchu Sanango)"
-aliases: ["Uchu Sanango", "Sanango", "Sananga", "Sananga eye drops", "T. sananho"]
-summary: "Amazonian Apocynaceae shrub foundational to sananga eye drops and strength-building dieta practices; rich in indole alkaloids and embedded in Indigenous healing traditions across the upper Amazon basin."
-tags: ["Tabernaemontana sananho", "sananga", "Uchu Sanango", "Apocynaceae", "teacher plants", "ethnobotany", "Amazonia"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+title: Tabernaemontana sananho (Uchu Sanango)
+aliases:
+  - Uchu Sanango
+  - Sanango
+  - Sananga
+  - Sananga eye drops
+  - T. sananho
+summary: >-
+  Amazonian Apocynaceae shrub foundational to sananga eye drops and
+  strength-building dieta practices; rich in indole alkaloids and embedded in
+  Indigenous healing traditions across the upper Amazon basin.
+tags:
+  - Tabernaemontana sananho
+  - sananga
+  - Uchu Sanango
+  - Apocynaceae
+  - teacher plants
+  - ethnobotany
+  - Amazonia
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -126,3 +142,22 @@ Emergent cultivation initiatives and community-based botanics projects seek to b
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Tabernaemontana sananho (Uchu Sanango)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/tabernaemontana-sananho
+
+#### Related Reading
+- [Anadenanthera colubrina (Cebil Tree)](/plants/anadenanthera-colubrina)
+- [Anadenanthera peregrina (Yopo Tree)](/plants/anadenanthera-peregrina)
+- [Banisteriopsis caapi (Ayahuasca Vine)](/plants/banisteriopsis-caapi)
+- [Banisteriopsis muricata (Ayahuasca Variant)](/plants/banisteriopsis-muricata)
+- [Banisteriopsis rusbyana (Tucunacá)](/plants/banisteriopsis-rusbyana)
+
+---

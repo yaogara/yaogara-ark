@@ -1,10 +1,26 @@
 ---
-title: "Uncaria tomentosa (Cat’s Claw Vine)"
-aliases: ["Cat’s Claw", "Cat’s Claw Vine", "uña de gato", "vilcacora", "Uncaria tomentosa"]
-summary: "A woody Amazonian liana used across Indigenous and mestizo traditions for inflammatory conditions and immune support; rich in oxindole alkaloids with emerging but inconclusive pharmacological evidence."
-tags: ["Uncaria tomentosa", "uña de gato", "Amazonia", "Rubiaceae", "ethnomedicine", "anti-inflammatory", "immunomodulation"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Uncaria tomentosa (Cat’s Claw Vine)
+aliases:
+  - Cat’s Claw
+  - Cat’s Claw Vine
+  - uña de gato
+  - vilcacora
+  - Uncaria tomentosa
+summary: >-
+  A woody Amazonian liana used across Indigenous and mestizo traditions for
+  inflammatory conditions and immune support; rich in oxindole alkaloids with
+  emerging but inconclusive pharmacological evidence.
+tags:
+  - Uncaria tomentosa
+  - uña de gato
+  - Amazonia
+  - Rubiaceae
+  - ethnomedicine
+  - anti-inflammatory
+  - immunomodulation
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied medicinal species.*
@@ -109,3 +125,22 @@ Public health and integration:
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Uncaria tomentosa (Cat’s Claw Vine)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/uncaria-tomentosa
+
+#### Related Reading
+- [Anadenanthera colubrina (Cebil Tree)](/plants/anadenanthera-colubrina)
+- [Anadenanthera peregrina (Yopo Tree)](/plants/anadenanthera-peregrina)
+- [Banisteriopsis caapi (Ayahuasca Vine)](/plants/banisteriopsis-caapi)
+- [Banisteriopsis muricata (Ayahuasca Variant)](/plants/banisteriopsis-muricata)
+- [Banisteriopsis rusbyana (Tucunacá)](/plants/banisteriopsis-rusbyana)
+
+---

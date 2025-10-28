@@ -1,10 +1,26 @@
 ---
-title: "Diplopterys cabrerana (Chaliponga Leaf)"
-aliases: ["Chaliponga", "Chagropanga", "Oco-yagé", "Chaliponga Leaf", "Diplopterys Cabrerana"]
-summary: "Amazonian Malpighiaceae vine whose leaves are a DMT-rich admixture in ayahuasca brews, especially in western Amazonian traditions of Ecuador and Colombia."
-tags: ["ayahuasca", "Diplopterys cabrerana", "teacher plants", "ethnobotany", "Malpighiaceae", "chaliponga", "chagropanga"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+title: Diplopterys cabrerana (Chaliponga Leaf)
+aliases:
+  - Chaliponga
+  - Chagropanga
+  - Oco-yagé
+  - Chaliponga Leaf
+  - Diplopterys Cabrerana
+summary: >-
+  Amazonian Malpighiaceae vine whose leaves are a DMT-rich admixture in
+  ayahuasca brews, especially in western Amazonian traditions of Ecuador and
+  Colombia.
+tags:
+  - ayahuasca
+  - Diplopterys cabrerana
+  - teacher plants
+  - ethnobotany
+  - Malpighiaceae
+  - chaliponga
+  - chagropanga
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -131,3 +147,22 @@ As interest in ayahuasca expands, cross-border legal complexities intersect with
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Diplopterys cabrerana (Chaliponga Leaf)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/diplopterys-cabrerana
+
+#### Related Reading
+- [Anadenanthera colubrina (Cebil Tree)](/plants/anadenanthera-colubrina)
+- [Anadenanthera peregrina (Yopo Tree)](/plants/anadenanthera-peregrina)
+- [Banisteriopsis caapi (Ayahuasca Vine)](/plants/banisteriopsis-caapi)
+- [Banisteriopsis muricata (Ayahuasca Variant)](/plants/banisteriopsis-muricata)
+- [Banisteriopsis rusbyana (Tucunacá)](/plants/banisteriopsis-rusbyana)
+
+---

@@ -1,10 +1,24 @@
 ---
-title: "Banisteriopsis muricata (Ayahuasca Variant)"
-aliases: ["Red Ayahuasca Vine", "Red Caapi", "Yagé", "Banisteriopsis muricata"]
-summary: "A red-hued ayahuasca vine closely related to Banisteriopsis caapi, used in Western Amazonian pharmacologies; notable for β‑carboline content, ceremonial significance, and emerging conservation concerns."
-tags: ["ayahuasca", "Banisteriopsis muricata", "teacher plants", "Malpighiaceae", "ethnobotany", "Amazonia"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Banisteriopsis muricata (Ayahuasca Variant)
+aliases:
+  - Red Ayahuasca Vine
+  - Red Caapi
+  - Yagé
+  - Banisteriopsis muricata
+summary: >-
+  A red-hued ayahuasca vine closely related to Banisteriopsis caapi, used in
+  Western Amazonian pharmacologies; notable for β‑carboline content, ceremonial
+  significance, and emerging conservation concerns.
+tags:
+  - ayahuasca
+  - Banisteriopsis muricata
+  - teacher plants
+  - Malpighiaceae
+  - ethnobotany
+  - Amazonia
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -92,3 +106,22 @@ Cultural rights and governance:
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Banisteriopsis muricata (Ayahuasca Variant)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/banisteriopsis-muricata
+
+#### Related Reading
+- [Anadenanthera colubrina (Cebil Tree)](/plants/anadenanthera-colubrina)
+- [Anadenanthera peregrina (Yopo Tree)](/plants/anadenanthera-peregrina)
+- [Banisteriopsis caapi (Ayahuasca Vine)](/plants/banisteriopsis-caapi)
+- [Banisteriopsis rusbyana (Tucunacá)](/plants/banisteriopsis-rusbyana)
+- [Brugmansia spp. (Angel’s Trumpet)](/plants/brugmansia-spp)
+
+---

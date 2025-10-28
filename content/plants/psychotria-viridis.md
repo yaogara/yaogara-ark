@@ -1,10 +1,26 @@
 ---
-title: "Psychotria viridis (Chacruna Leaf)"
-aliases: ["Chacruna", "Chacruna Leaf", "Chacrona", "Chaqruy", "Psychotria viridis"]
-summary: "Amazonian Rubiaceae shrub whose DMT-rich leaves are a primary source of the visionary component in ayahuasca; central to Indigenous healing systems and contemporary ethnobotany."
-tags: ["ayahuasca", "Psychotria viridis", "teacher plants", "Rubiaceae", "DMT", "ethnobotany", "Amazonia"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+title: Psychotria viridis (Chacruna Leaf)
+aliases:
+  - Chacruna
+  - Chacruna Leaf
+  - Chacrona
+  - Chaqruy
+  - Psychotria viridis
+summary: >-
+  Amazonian Rubiaceae shrub whose DMT-rich leaves are a primary source of the
+  visionary component in ayahuasca; central to Indigenous healing systems and
+  contemporary ethnobotany.
+tags:
+  - ayahuasca
+  - Psychotria viridis
+  - teacher plants
+  - Rubiaceae
+  - DMT
+  - ethnobotany
+  - Amazonia
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -122,3 +138,22 @@ Cultural rights and ethical research:
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Psychotria viridis (Chacruna Leaf)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/psychotria-viridis
+
+#### Related Reading
+- [Anadenanthera colubrina (Cebil Tree)](/plants/anadenanthera-colubrina)
+- [Anadenanthera peregrina (Yopo Tree)](/plants/anadenanthera-peregrina)
+- [Banisteriopsis caapi (Ayahuasca Vine)](/plants/banisteriopsis-caapi)
+- [Banisteriopsis muricata (Ayahuasca Variant)](/plants/banisteriopsis-muricata)
+- [Banisteriopsis rusbyana (Tucunacá)](/plants/banisteriopsis-rusbyana)
+
+---

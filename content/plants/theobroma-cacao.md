@@ -1,10 +1,24 @@
 ---
-title: "Theobroma cacao (Cacao Tree)"
-aliases: ["Cacao", "Cocoa", "Chocolate Tree"]
-summary: "Amazonian tree revered as a heart-centered ceremonial food and keystone agroforestry species; synthesizes ethnobotanical history, phytochemistry, and conservation priorities."
-tags: ["Theobroma cacao", "cacao", "teacher plants", "Amazonia", "ethnobotany", "Malvaceae", "ceremonial cacao"]
-date: 2025-10-27
-license: "CC BY-SA 4.0 – Yaogará Research Archive"
+title: Theobroma cacao (Cacao Tree)
+aliases:
+  - Cacao
+  - Cocoa
+  - Chocolate Tree
+summary: >-
+  Amazonian tree revered as a heart-centered ceremonial food and keystone
+  agroforestry species; synthesizes ethnobotanical history, phytochemistry, and
+  conservation priorities.
+tags:
+  - Theobroma cacao
+  - cacao
+  - teacher plants
+  - Amazonia
+  - ethnobotany
+  - Malvaceae
+  - ceremonial cacao
+date: '2025-10-27'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-27'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -134,3 +148,22 @@ Theobroma cacao, the cacao tree, is a keystone species in Amazonian ecosystems a
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —  
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Citation:** Yaogará Research Initiative (2025). *Theobroma cacao (Cacao Tree)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/theobroma-cacao
+
+#### Related Reading
+- [Anadenanthera colubrina (Cebil Tree)](/plants/anadenanthera-colubrina)
+- [Anadenanthera peregrina (Yopo Tree)](/plants/anadenanthera-peregrina)
+- [Banisteriopsis caapi (Ayahuasca Vine)](/plants/banisteriopsis-caapi)
+- [Banisteriopsis muricata (Ayahuasca Variant)](/plants/banisteriopsis-muricata)
+- [Banisteriopsis rusbyana (Tucunacá)](/plants/banisteriopsis-rusbyana)
+
+---

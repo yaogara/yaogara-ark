@@ -1,6 +1,6 @@
 ---
 title: "Ayahuasca Overview"
-aliases: ["Yagé", "Caapi Brew", "Hoasca", "Daime"]
+aliases: ["Ayahuasca Overview", "Yagé", "Caapi Brew", "Hoasca", "Daime"]
 summary: "Ayahuasca is a psychoactive plant preparation central to Amazonian ethnomedicine and contemporary psychedelic research, combining Banisteriopsis caapi and Psychotria viridis to produce synergistic psychoactive effects."
 tags: ["ayahuasca", "Banisteriopsis caapi", "Psychotria viridis", "teacher plants", "ethnobotany", "psychedelics", "Amazon"]
 date: 2025-10-27

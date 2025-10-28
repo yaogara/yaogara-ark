@@ -1,44 +1,53 @@
 ---
-title: "Legal Status of DMT and Ayahuasca Plants under the 1971 UN Convention"
-description: "Summary of the United Nations 1971 Convention on Psychotropic Substances and its Commentary regarding the legal distinction between DMT as a scheduled compound and ayahuasca plants such as Banisteriopsis caapi and Psychotria viridis."
+title: Legal Status of DMT and Ayahuasca Plants under the 1971 UN Convention
+description: Summary of the United Nations 1971 Convention on Psychotropic Substances and its Commentary regarding the legal distinction between DMT as a scheduled compound and ayahuasca plants such as Banisteriopsis caapi and Psychotria viridis.
 authors:
-  - name: "Yaogará Research Initiative"
-    affiliation: "Fundación Camino al Sol"
-    url: "https://yaogara.com"
-date: 2025-10-28
-lastmod: 2025-10-28
-license: "CC BY-SA 4.0"
-keywords: ["DMT", "Ayahuasca", "UN Convention", "Banisteriopsis caapi", "Psychotria viridis", "Legal Status", "International Law", "INCB"]
-canonical: "https://ark.yaogara.org/policy/dmt-un-report-1971"
+  - name: Yaogará Research Initiative
+    affiliation: Fundación Camino al Sol
+    url: 'https://yaogara.com'
+date: '2025-10-28'
+lastmod: '2025-10-28'
+license: CC BY-SA 4.0 – Yaogará Research Archive
+keywords:
+  - DMT
+  - Ayahuasca
+  - UN Convention
+  - Banisteriopsis caapi
+  - Psychotria viridis
+  - Legal Status
+  - International Law
+  - INCB
+canonical: 'https://ark.yaogara.org/policy/dmt-un-report-1971'
 schema:
-  "@context": "https://schema.org"
-  "@type": "ScholarlyArticle"
-  headline: "Legal Status of DMT and Ayahuasca Plants under the 1971 UN Convention"
-  datePublished: "2025-10-28"
-  dateModified: "2025-10-28"
-  inLanguage: "en"
+  '@context': 'https://schema.org'
+  '@type': ScholarlyArticle
+  headline: Legal Status of DMT and Ayahuasca Plants under the 1971 UN Convention
+  datePublished: '2025-10-28'
+  dateModified: '2025-10-28'
+  inLanguage: en
   isPartOf:
-    "@type": "CreativeWorkSeries"
-    name: "Yaogará Ark Research Archive"
-    url: "https://ark.yaogara.org"
+    '@type': CreativeWorkSeries
+    name: Yaogará Ark Research Archive
+    url: 'https://ark.yaogara.org'
   publisher:
-    "@type": "Organization"
-    name: "Yaogará Research Initiative"
-    url: "https://yaogara.com"
-  license: "https://creativecommons.org/licenses/by-sa/4.0/"
+    '@type': Organization
+    name: Yaogará Research Initiative
+    url: 'https://yaogara.com'
+  license: 'https://creativecommons.org/licenses/by-sa/4.0/'
   author:
-    "@type": "Organization"
-    name: "Yaogará Research Initiative"
+    '@type': Organization
+    name: Yaogará Research Initiative
   citation:
-    - "@type": "CreativeWork"
-      name: "Commentary on the Convention on Psychotropic Substances"
-      url: "https://www.unodc.org/documents/commissions/CND/Int_Drug_Control_Conventions/Commentaries-OfficialRecords/1971Convention/1971_COMMENTARY_en.pdf"
-    - "@type": "CreativeWork"
-      name: "Convention on Psychotropic Substances (1971)"
-      url: "https://www.unodc.org/unodc/en/treaties/psychotropics.html"
-    - "@type": "CreativeWork"
-      name: "Tupper, K.W. & Labate, B.C. (2012). International Narcotics Control Board: The Control of Nature and the Nature of Control."
-      url: "https://www.hr-dp.org/files/2013/12/12/HRDP_Journal_Tupper_Labate.pdf"
+    - '@type': CreativeWork
+      name: Commentary on the Convention on Psychotropic Substances
+      url: 'https://www.unodc.org/documents/commissions/CND/Int_Drug_Control_Conventions/Commentaries-OfficialRecords/1971Convention/1971_COMMENTARY_en.pdf'
+    - '@type': CreativeWork
+      name: Convention on Psychotropic Substances (1971)
+      url: 'https://www.unodc.org/unodc/en/treaties/psychotropics.html'
+    - '@type': CreativeWork
+      name: 'Tupper, K.W. & Labate, B.C. (2012). International Narcotics Control Board: The Control of Nature and the Nature of Control.'
+      url: 'https://www.hr-dp.org/files/2013/12/12/HRDP_Journal_Tupper_Labate.pdf'
+tags: []
 ---
 
 ## Abstract
@@ -139,3 +148,18 @@ The 1971 UN Convention on Psychotropic Substances regulates DMT as a controlled 
 ---
 
 > **Note:** This summary is part of the Yaogará Ark Research Archive. It is intended for academic and informational purposes and should not be interpreted as legal advice.
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+**Citation:** Yaogará Research Initiative (2025). *Legal Status of DMT and Ayahuasca Plants under the 1971 UN Convention*. Yaogará Ark Research Archive. https://ark.yaogara.org/policy/dmt-un-report-1971
+
+#### Related Reading
+- Explore more research soon.
+
+---

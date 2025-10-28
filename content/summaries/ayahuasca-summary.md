@@ -17,6 +17,7 @@ tags:
   - Amazon
 date: '2025-10-27'
 license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-28'
 ---
 
 *This article is part of the [Yaogará Ark](https://ark.yaogara.org) — an open ethnobotanical research archive documenting Amazonian teacher plants and their traditional and scientific contexts.*
@@ -132,3 +133,18 @@ Community-based **agroforestry cultivation** programs integrate the vine and lea
 **License:** CC BY-SA 4.0 – Yaogará Research Archive  
 You are free to share and adapt this material with attribution.  
 <https://creativecommons.org/licenses/by-sa/4.0/>
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+**Citation:** Yaogará Research Initiative (2025). *Ayahuasca Overview*. Yaogará Ark Research Archive. https://ark.yaogara.org/summaries/ayahuasca-summary
+
+#### Related Reading
+- Explore more research soon.
+
+---

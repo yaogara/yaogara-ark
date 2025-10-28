@@ -18,6 +18,7 @@ tags:
   - phytochemistry
 date: '2025-10-27'
 license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-28'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of teacher plants and their traditions.*
@@ -149,3 +150,22 @@ Piper methysticum (Kava Kava) is a perennial shrub indigenous to the Pacific Isl
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+**Citation:** Yaogará Research Initiative (2025). *Piper methysticum (Kava Kava)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/piper-methysticum
+
+#### Related Reading
+- [[plants/anadenanthera-colubrina|Anadenanthera colubrina (Cebil Tree)]]
+- [[plants/anadenanthera-peregrina|Anadenanthera peregrina (Yopo Tree)]]
+- [[plants/banisteriopsis-caapi|Banisteriopsis caapi (Ayahuasca Vine)]]
+- [[plants/banisteriopsis-muricata|Banisteriopsis muricata (Ayahuasca Variant)]]
+- [[plants/banisteriopsis-rusbyana|Banisteriopsis rusbyana (Tucunacá)]]
+
+---

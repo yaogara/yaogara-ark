@@ -100,28 +100,31 @@ export default (() => {
         })}
 
         {/* ✅ Enhanced Schema.org for The Yaogará Ark */}
-        <script type="application/ld+json">
-          {JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": ["WebSite", "Dataset"],
-            name: "The Yaogará Ark",
-            url: `https://${cfg.baseUrl}`,
-            inLanguage: "en",
-            license: "https://creativecommons.org/licenses/by-sa/4.0/",
-            isPartOf: {
-              "@type": "Organization",
-              name: "Yaogará",
-              url: "https://yaogara.com",
-            },
-            publisher: {
-              "@type": "Organization",
-              name: "Yaogará Research Initiative",
-              url: "https://yaogara.com",
-            },
-            description:
-              "An open ethnobotanical archive documenting sacred plants and Indigenous ecological knowledge of the Amazon.",
-          })}
-        </script>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": ["WebSite", "Dataset"],
+              name: "The Yaogará Ark",
+              url: `https://${cfg.baseUrl}`,
+              inLanguage: "en",
+              license: "https://creativecommons.org/licenses/by-sa/4.0/",
+              isPartOf: {
+                "@type": "Organization",
+                name: "Yaogará",
+                url: "https://yaogara.com",
+              },
+              publisher: {
+                "@type": "Organization",
+                name: "Yaogará Research Initiative",
+                url: "https://yaogara.com",
+              },
+              description:
+                "An open ethnobotanical archive documenting sacred plants and Indigenous ecological knowledge of the Amazon.",
+            }),
+          }}
+        />
 
         {/* ✅ Plausible Analytics */}
         <script

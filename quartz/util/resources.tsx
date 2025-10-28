@@ -6,6 +6,8 @@ export type JSResource = {
   loadTime: "beforeDOMReady" | "afterDOMReady"
   moduleType?: "module"
   spaPreserve?: boolean
+  defer?: boolean
+  crossOrigin?: string
 } & (
   | {
       src: string
@@ -21,14 +23,26 @@ export type CSSResource = {
   content: string
   inline?: boolean
   spaPreserve?: boolean
+  lazy?: boolean
+  rel?: "stylesheet" | "preload"
+  as?: string
+  crossOrigin?: string
 }
 
 export function JSResourceToScriptElement(resource: JSResource, preserve?: boolean): JSX.Element {
   const scriptType = resource.moduleType ?? "application/javascript"
   const spaPreserve = preserve ?? resource.spaPreserve
   if (resource.contentType === "external") {
+    const defer = resource.defer ?? true
     return (
-      <script key={resource.src} src={resource.src} type={scriptType} spa-preserve={spaPreserve} />
+      <script
+        key={resource.src}
+        src={resource.src}
+        type={scriptType}
+        spa-preserve={spaPreserve}
+        defer={defer}
+        crossOrigin={resource.crossOrigin}
+      />
     )
   } else {
     const content = resource.script
@@ -48,12 +62,26 @@ export function CSSResourceToStyleElement(resource: CSSResource, preserve?: bool
   if (resource.inline ?? false) {
     return <style>{resource.content}</style>
   } else {
+    const rel = resource.rel ?? "stylesheet"
+    const deferStyles = resource.lazy && rel === "stylesheet"
+    const onLoad = deferStyles
+      ? (event: JSX.TargetedEvent<HTMLLinkElement, Event>) => {
+          const element = event.currentTarget
+          if (element?.media === "print") {
+            element.media = "all"
+          }
+        }
+      : undefined
     return (
       <link
         key={resource.content}
         href={resource.content}
-        rel="stylesheet"
-        type="text/css"
+        rel={rel}
+        type={rel === "stylesheet" ? "text/css" : undefined}
+        as={resource.as}
+        crossOrigin={resource.crossOrigin}
+        media={deferStyles ? "print" : undefined}
+        onLoad={onLoad}
         spa-preserve={spaPreserve}
       />
     )

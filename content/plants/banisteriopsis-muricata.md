@@ -15,6 +15,7 @@ tags:
   - Amazonia
 date: '2025-10-27'
 license: CC BY-SA 4.0 – Yaogará Research Archive
+lastmod: '2025-10-28'
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*
@@ -102,3 +103,22 @@ Cultural rights and governance:
 
 ## License
 CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive
+
+---
+### References and Licensing
+
+This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —
+an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
+
+**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+**Citation:** Yaogará Research Initiative (2025). *Banisteriopsis muricata (Ayahuasca Variant)*. Yaogará Ark Research Archive. https://ark.yaogara.org/plants/banisteriopsis-muricata
+
+#### Related Reading
+- [[plants/anadenanthera-colubrina|Anadenanthera colubrina (Cebil Tree)]]
+- [[plants/anadenanthera-peregrina|Anadenanthera peregrina (Yopo Tree)]]
+- [[plants/banisteriopsis-caapi|Banisteriopsis caapi (Ayahuasca Vine)]]
+- [[plants/banisteriopsis-rusbyana|Banisteriopsis rusbyana (Tucunacá)]]
+- [[plants/brugmansia-spp|Brugmansia spp. (Angel’s Trumpet)]]
+
+---

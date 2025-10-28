@@ -5,6 +5,7 @@ import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
@@ -97,20 +98,37 @@ export default (() => {
             return resource
           }
         })}
+
+        {/* ✅ Enhanced Schema.org for The Yaogará Ark */}
         <script type="application/ld+json">
           {JSON.stringify({
             "@context": "https://schema.org",
-            "@type": "WebSite",
+            "@type": ["WebSite", "Dataset"],
             name: "The Yaogará Ark",
             url: `https://${cfg.baseUrl}`,
-            publisher: {
+            inLanguage: "en",
+            license: "https://creativecommons.org/licenses/by-sa/4.0/",
+            isPartOf: {
               "@type": "Organization",
-              name: "Yaogara Research Initiative",
+              name: "Yaogará",
               url: "https://yaogara.com",
             },
-            description: "An open ethnobotanical archive documenting sacred plants and Indigenous ecological knowledge of the Amazon.",
+            publisher: {
+              "@type": "Organization",
+              name: "Yaogará Research Initiative",
+              url: "https://yaogara.com",
+            },
+            description:
+              "An open ethnobotanical archive documenting sacred plants and Indigenous ecological knowledge of the Amazon.",
           })}
         </script>
+
+        {/* ✅ Plausible Analytics */}
+        <script
+          defer
+          data-domain="ark.yaogara.org"
+          src="https://stats.yaogara.com/js/script.js"
+        ></script>
       </head>
     )
   }

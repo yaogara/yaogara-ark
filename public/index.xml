@@ -1,52 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 4</title>
-      <link>https://https://yaogara.github.io/yaogara-ark</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <title>Yaogará Ark</title>
+      <link>https://ark.yaogara.org</link>
+      <description>Last 10 notes on Yaogará Ark</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>About Yaogará Ark</title>
+    <link>https://ark.yaogara.org/about</link>
+    <guid>https://ark.yaogara.org/about</guid>
+    <description><![CDATA[ Yaogará Ark is a digital repository preserving and sharing knowledge about sacred plants, indigenous wisdom, and ethnobotanical traditions across the Americas. ]]></description>
+    <pubDate>Tue, 28 Oct 2025 17:32:49 GMT</pubDate>
+  </item><item>
+    <title>Legal Status of DMT and Ayahuasca Plants under the 1971 UN Convention</title>
+    <link>https://ark.yaogara.org/policy/dmt-un-report-1971</link>
+    <guid>https://ark.yaogara.org/policy/dmt-un-report-1971</guid>
+    <description><![CDATA[ Explores how the 1971 UN Convention on Psychotropic Substances regulates DMT but not ayahuasca plants, tracing international legal interpretations and national frameworks. ]]></description>
+    <pubDate>Tue, 28 Oct 2025 05:00:00 GMT</pubDate>
+  </item><item>
     <title>The Yaogará Ark</title>
-    <link>https://https://yaogara.github.io/yaogara-ark/</link>
-    <guid>https://https://yaogara.github.io/yaogara-ark/</guid>
-    <description><![CDATA[ 🌿 The Yaogará Ark Welcome to the open ethnobotany portal — a community-driven effort to document the sacred plants, cultural lineages, and Indigenous knowledge of the Amazon. ]]></description>
-    <pubDate>Sun, 26 Oct 2025 05:00:00 GMT</pubDate>
+    <link>https://ark.yaogara.org/</link>
+    <guid>https://ark.yaogara.org/</guid>
+    <description><![CDATA[ An open ethnobotanical archive documenting sacred plants, cultural lineages, and Indigenous ecological knowledge of the Amazon. ]]></description>
+    <pubDate>Mon, 27 Oct 2025 18:21:03 GMT</pubDate>
   </item><item>
-    <title>Preparation-and-Ceremony</title>
-    <link>https://https://yaogara.github.io/yaogara-ark/traditions/Preparation-and-Ceremony</link>
-    <guid>https://https://yaogara.github.io/yaogara-ark/traditions/Preparation-and-Ceremony</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Oct 2025 03:00:25 GMT</pubDate>
+    <title>Anadenanthera colubrina (Cebil Tree)</title>
+    <link>https://ark.yaogara.org/plants/anadenanthera-colubrina</link>
+    <guid>https://ark.yaogara.org/plants/anadenanthera-colubrina</guid>
+    <description><![CDATA[ This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants. ]]></description>
+    <pubDate>Mon, 27 Oct 2025 05:00:00 GMT</pubDate>
   </item><item>
-    <title>Ethnobotanical-Traditions</title>
-    <link>https://https://yaogara.github.io/yaogara-ark/traditions/Ethnobotanical-Traditions</link>
-    <guid>https://https://yaogara.github.io/yaogara-ark/traditions/Ethnobotanical-Traditions</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Oct 2025 03:00:25 GMT</pubDate>
+    <title>Anadenanthera peregrina (Yopo Tree)</title>
+    <link>https://ark.yaogara.org/plants/anadenanthera-peregrina</link>
+    <guid>https://ark.yaogara.org/plants/anadenanthera-peregrina</guid>
+    <description><![CDATA[ This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied traditions. ]]></description>
+    <pubDate>Mon, 27 Oct 2025 05:00:00 GMT</pubDate>
   </item><item>
-    <title>Brugmansia-spp</title>
-    <link>https://https://yaogara.github.io/yaogara-ark/plants/Brugmansia-spp</link>
-    <guid>https://https://yaogara.github.io/yaogara-ark/plants/Brugmansia-spp</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Oct 2025 03:00:23 GMT</pubDate>
+    <title>Banisteriopsis caapi (Ayahuasca Vine)</title>
+    <link>https://ark.yaogara.org/plants/banisteriopsis-caapi</link>
+    <guid>https://ark.yaogara.org/plants/banisteriopsis-caapi</guid>
+    <description><![CDATA[ This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants. ]]></description>
+    <pubDate>Mon, 27 Oct 2025 05:00:00 GMT</pubDate>
   </item><item>
-    <title>Psychotria-viridis</title>
-    <link>https://https://yaogara.github.io/yaogara-ark/plants/Psychotria-viridis</link>
-    <guid>https://https://yaogara.github.io/yaogara-ark/plants/Psychotria-viridis</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Oct 2025 03:00:23 GMT</pubDate>
+    <title>Banisteriopsis muricata (Ayahuasca Variant)</title>
+    <link>https://ark.yaogara.org/plants/banisteriopsis-muricata</link>
+    <guid>https://ark.yaogara.org/plants/banisteriopsis-muricata</guid>
+    <description><![CDATA[ This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants. ]]></description>
+    <pubDate>Mon, 27 Oct 2025 05:00:00 GMT</pubDate>
   </item><item>
-    <title>Banisteriopsis-caapi</title>
-    <link>https://https://yaogara.github.io/yaogara-ark/plants/Banisteriopsis-caapi</link>
-    <guid>https://https://yaogara.github.io/yaogara-ark/plants/Banisteriopsis-caapi</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Oct 2025 03:00:22 GMT</pubDate>
+    <title>Banisteriopsis rusbyana (Tucunacá)</title>
+    <link>https://ark.yaogara.org/plants/banisteriopsis-rusbyana</link>
+    <guid>https://ark.yaogara.org/plants/banisteriopsis-rusbyana</guid>
+    <description><![CDATA[ This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants. Abstract Banisteriopsis rusbyana (syn. ]]></description>
+    <pubDate>Mon, 27 Oct 2025 05:00:00 GMT</pubDate>
   </item><item>
-    <title>about</title>
-    <link>https://https://yaogara.github.io/yaogara-ark/about</link>
-    <guid>https://https://yaogara.github.io/yaogara-ark/about</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Oct 2025 03:00:13 GMT</pubDate>
+    <title>Brugmansia spp. (Angel’s Trumpet)</title>
+    <link>https://ark.yaogara.org/plants/brugmansia-spp</link>
+    <guid>https://ark.yaogara.org/plants/brugmansia-spp</guid>
+    <description><![CDATA[ This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants. Abstract Brugmansia spp. ]]></description>
+    <pubDate>Mon, 27 Oct 2025 05:00:00 GMT</pubDate>
+  </item><item>
+    <title>Brunfelsia grandiflora (Chiri Sanango)</title>
+    <link>https://ark.yaogara.org/plants/brunfelsia-grandiflora</link>
+    <guid>https://ark.yaogara.org/plants/brunfelsia-grandiflora</guid>
+    <description><![CDATA[ This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants. ]]></description>
+    <pubDate>Mon, 27 Oct 2025 05:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

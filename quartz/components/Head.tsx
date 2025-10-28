@@ -1,10 +1,46 @@
 import { i18n } from "../i18n"
 import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
-import { googleFontHref, googleFontSubsetHref } from "../util/theme"
+import {
+  getFontSpecificationName,
+  googleFontHref,
+  googleFontSubsetHref,
+} from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+
+const fallbackSansSerif =
+  'system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
+const fallbackMono = "ui-monospace, SFMono-Regular, SF Mono, Menlo, monospace"
+
+const buildCriticalCss = (cfg: QuartzComponentProps["cfg"]): string => {
+  const theme = cfg.theme
+  const light = theme.colors.lightMode
+  const dark = theme.colors.darkMode
+  const titleFont = getFontSpecificationName(theme.typography.title || theme.typography.header)
+  const headerFont = getFontSpecificationName(theme.typography.header)
+  const bodyFont = getFontSpecificationName(theme.typography.body)
+  const codeFont = getFontSpecificationName(theme.typography.code)
+
+  return `:root{--light:${light.light};--lightgray:${light.lightgray};--gray:${light.gray};--darkgray:${light.darkgray};--dark:${light.dark};--secondary:${light.secondary};--tertiary:${light.tertiary};--highlight:${light.highlight};--textHighlight:${light.textHighlight};--titleFont:"${titleFont}",${fallbackSansSerif};--headerFont:"${headerFont}",${fallbackSansSerif};--bodyFont:"${bodyFont}",${fallbackSansSerif};--codeFont:"${codeFont}",${fallbackMono}}
+:root[saved-theme="dark"]{--light:${dark.light};--lightgray:${dark.lightgray};--gray:${dark.gray};--darkgray:${dark.darkgray};--dark:${dark.dark};--secondary:${dark.secondary};--tertiary:${dark.tertiary};--highlight:${dark.highlight};--textHighlight:${dark.textHighlight}}
+html{scroll-behavior:smooth;text-size-adjust:none;overflow-x:hidden;width:100vw}
+body{margin:0;box-sizing:border-box;background-color:var(--light);font-family:var(--bodyFont);color:var(--darkgray)}
+a{color:var(--secondary);font-weight:600;text-decoration:none;transition:color .2s ease}
+a:hover{color:var(--tertiary)}
+.page{max-width:1500px;margin:0 auto}
+#quartz-root{display:block}
+#quartz-body{display:grid;grid-template-columns:320px auto 320px;grid-template-rows:auto auto auto;column-gap:5px;row-gap:5px;grid-template-areas:"grid-sidebar-left grid-header grid-sidebar-right""grid-sidebar-left grid-center grid-sidebar-right""grid-sidebar-left grid-footer grid-sidebar-right"}
+@media (min-width:800px) and (max-width:1200px){#quartz-body{grid-template-columns:320px auto;grid-template-rows:auto auto auto auto;grid-template-areas:"grid-sidebar-left grid-header""grid-sidebar-left grid-center""grid-sidebar-left grid-sidebar-right""grid-sidebar-left grid-footer"}}
+@media (max-width:800px){#quartz-body{grid-template-columns:auto;grid-template-rows:auto auto auto auto auto;grid-template-areas:"grid-sidebar-left""grid-header""grid-center""grid-sidebar-right""grid-footer"}}
+.sidebar.left{grid-area:grid-sidebar-left}
+.sidebar.right{grid-area:grid-sidebar-right}
+header{grid-area:grid-header;display:flex;align-items:center;gap:1.5rem;margin:2rem 0}
+header h1{margin:0;flex:auto}
+main{grid-area:grid-center}
+footer{grid-area:grid-footer;text-align:left;opacity:.7;margin-bottom:4rem}`
+}
 
 export default (() => {
   const Head: QuartzComponent = ({
@@ -27,6 +63,7 @@ export default (() => {
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
+    const criticalCss = buildCriticalCss(cfg)
 
     // Url of current page
     const socialUrl =
@@ -44,15 +81,22 @@ export default (() => {
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
-            <link rel="preconnect" href="https://fonts.gstatic.com" />
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
             <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
             {cfg.theme.typography.title && (
               <link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} />
             )}
           </>
         )}
-        <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://plausible.io" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        {/* Preload core assets to shorten the critical rendering path */}
+        <link rel="preload" href={joinSegments(baseDir, "index.css")} as="style" />
+        <link rel="preload" href={joinSegments(baseDir, "prescript.js")} as="script" />
+        {/* Inline a small set of critical styles to stabilize the initial render */}
+        <style>{criticalCss}</style>
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
@@ -124,11 +168,7 @@ export default (() => {
         </script>
 
         {/* ✅ Plausible Analytics */}
-        <script
-          defer
-          data-domain="ark.yaogara.org"
-          src="https://stats.yaogara.com/js/script.js"
-        ></script>
+        <script defer data-domain="yaogara.org" src="https://plausible.io/js/script.js"></script>
       </head>
     )
   }

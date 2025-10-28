@@ -27,7 +27,9 @@ export function pageResources(
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  const gzPath = `${contentIndexPath}.gz`
+  // Lazy-load the search index so that initial rendering isn't blocked by the fetch
+  const contentIndexScript = `const fetchData=new Promise((resolve,reject)=>{const start=()=>{const loadGz=()=>fetch("${gzPath}",{cache:"force-cache"}).then(async(res)=>{if(!res.ok)throw new Error("content index");if(!("DecompressionStream"in window))throw new Error("no gzip support");const stream=res.body??new Response(await res.arrayBuffer()).body;if(!stream)throw new Error("empty response");const decompressedStream=stream.pipeThrough(new DecompressionStream("gzip"));const text=await new Response(decompressedStream).text();return JSON.parse(text)});const loadJson=()=>fetch("${contentIndexPath}",{cache:"force-cache"}).then((res)=>{if(!res.ok)throw new Error("content index");return res.json()});loadGz().catch(()=>loadJson()).then(resolve,reject)};if(document.readyState==="loading"){window.addEventListener("DOMContentLoaded",start,{once:true})}else{start()}})`
 
   const resources: StaticResources = {
     css: [

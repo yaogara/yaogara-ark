@@ -49,13 +49,51 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
       switch (engine) {
         case "katex":
           return {
-            css: [{ content: "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" }],
             js: [
               {
-                // fix copy behaviour: https://github.com/KaTeX/KaTeX/blob/main/contrib/copy-tex/README.md
-                src: "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js",
                 loadTime: "afterDOMReady",
-                contentType: "external",
+                contentType: "inline",
+                script: `(() => {
+  const cssHref = "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css"
+  const scriptSrc = "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js"
+  const ensureResources = () => {
+    if (!document.querySelector('.math')) {
+      return
+    }
+
+    if (!document.querySelector('link[data-katex="true"]')) {
+      const link = document.createElement('link')
+      link.rel = 'stylesheet'
+      link.href = cssHref
+      link.media = 'print'
+      link.onload = () => {
+        link.media = 'all'
+      }
+      link.dataset.katex = 'true'
+      document.head.appendChild(link)
+    }
+
+    if (!document.querySelector('script[data-katex-copy="true"]')) {
+      const script = document.createElement('script')
+      script.src = scriptSrc
+      script.defer = true
+      script.dataset.katexCopy = 'true'
+      document.head.appendChild(script)
+    }
+  }
+
+  const load = () => ensureResources()
+
+  if (document.readyState === 'complete') {
+    load()
+  } else {
+    window.addEventListener('DOMContentLoaded', () => {
+      load()
+    }, { once: true })
+  }
+
+  document.addEventListener('nav', load)
+})()`,
               },
             ],
           }

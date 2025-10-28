@@ -1,4 +1,5 @@
 import { Root } from "hast"
+import { gzipSync } from "zlib"
 import { GlobalConfiguration } from "../../cfg"
 import { getDate } from "../../components/Date"
 import { escapeHTML } from "../../util/escape"
@@ -149,11 +150,20 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         }),
       )
 
+      const serializedIndex = JSON.stringify(simplifiedIndex)
+
       yield write({
         ctx,
-        content: JSON.stringify(simplifiedIndex),
+        content: serializedIndex,
         slug: fp,
         ext: ".json",
+      })
+
+      yield write({
+        ctx,
+        content: gzipSync(serializedIndex),
+        slug: fp,
+        ext: ".json.gz",
       })
     },
     externalResources: (ctx) => {

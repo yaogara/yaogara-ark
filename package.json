@@ -19,7 +19,6 @@
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "build": "quartz build && node scripts/generateCitations.js"
-}
   },
   "engines": {
     "npm": ">=10.9.2",

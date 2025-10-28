@@ -1,11 +1,7 @@
 import { i18n } from "../i18n"
 import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
-import {
-  getFontSpecificationName,
-  googleFontHref,
-  googleFontSubsetHref,
-} from "../util/theme"
+import { getFontSpecificationName, googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
@@ -63,6 +59,9 @@ export default (() => {
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
+    const stylesheetPath = joinSegments(baseDir, "index.css")
+    const prescriptPath = joinSegments(baseDir, "prescript.js")
+    const plausibleSrc = "https://plausible.io/js/script.js"
     const criticalCss = buildCriticalCss(cfg)
 
     // Url of current page
@@ -78,25 +77,63 @@ export default (() => {
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
-        {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
+        {cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
+            <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
             <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-            <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
-            {cfg.theme.typography.title && (
-              <link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} />
+            <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+            {cfg.theme.cdnCaching && (
+              <>
+                <link
+                  rel="preload"
+                  as="style"
+                  href={googleFontHref(cfg.theme)}
+                  crossOrigin="anonymous"
+                  onLoad={(event) => {
+                    const target = event.currentTarget
+                    if (target instanceof HTMLLinkElement) {
+                      target.rel = "stylesheet"
+                    }
+                  }}
+                />
+                {cfg.theme.typography.title && (
+                  <link
+                    rel="preload"
+                    as="style"
+                    href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)}
+                    crossOrigin="anonymous"
+                    onLoad={(event) => {
+                      const target = event.currentTarget
+                      if (target instanceof HTMLLinkElement) {
+                        target.rel = "stylesheet"
+                      }
+                    }}
+                  />
+                )}
+                <noscript>
+                  <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
+                  {cfg.theme.typography.title && (
+                    <link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} />
+                  )}
+                </noscript>
+              </>
             )}
           </>
         )}
-        <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://plausible.io" crossOrigin="anonymous" />
+        <link rel="dns-prefetch" href="https://plausible.io" />
+        <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         {/* Preload core assets to shorten the critical rendering path */}
-        <link rel="preload" href={joinSegments(baseDir, "index.css")} as="style" />
-        <link rel="preload" href={joinSegments(baseDir, "prescript.js")} as="script" />
+        <link rel="preload" href={stylesheetPath} as="style" />
+        <link rel="preload" href={prescriptPath} as="script" />
         {/* Inline a small set of critical styles to stabilize the initial render */}
         <style>{criticalCss}</style>
+        <noscript>
+          <link rel="stylesheet" href={stylesheetPath} />
+        </noscript>
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
@@ -171,7 +208,7 @@ export default (() => {
         />
 
         {/* ✅ Plausible Analytics */}
-        <script defer data-domain="yaogara.org" src="https://plausible.io/js/script.js"></script>
+        <script defer data-domain="yaogara.org" src={plausibleSrc}></script>
       </head>
     )
   }

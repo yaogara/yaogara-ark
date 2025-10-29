@@ -160,7 +160,15 @@ export default (() => {
               isPartOf: {
                 "@type": "Dataset",
                 name: "Yaogará Research Archive",
-                url: "https://yaogara.com"
+                url: "https://yaogara.com",
+                description:
+                  "A comprehensive dataset of ethnobotanical and ecological research data related to the Yaogará project.",
+                license: "https://creativecommons.org/licenses/by-sa/4.0/",
+                creator: {
+                  "@type": "Organization",
+                  name: "Yaogará Research Initiative",
+                  url: "https://yaogara.com"
+                }
               },
               // ✅ Fix 2: keep creator as an Organization
               creator: {

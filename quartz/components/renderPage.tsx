@@ -31,10 +31,15 @@ export function pageResources(
   // Lazy-load the search index so that initial rendering isn't blocked by the fetch
   const contentIndexScript = `const fetchData=new Promise((resolve,reject)=>{const start=()=>{const loadGz=()=>fetch("${gzPath}",{cache:"force-cache"}).then(async(res)=>{if(!res.ok)throw new Error("content index");if(!("DecompressionStream"in window))throw new Error("no gzip support");const stream=res.body??new Response(await res.arrayBuffer()).body;if(!stream)throw new Error("empty response");const decompressedStream=stream.pipeThrough(new DecompressionStream("gzip"));const text=await new Response(decompressedStream).text();return JSON.parse(text)});const loadJson=()=>fetch("${contentIndexPath}",{cache:"force-cache"}).then((res)=>{if(!res.ok)throw new Error("content index");return res.json()});loadGz().catch(()=>loadJson()).then(resolve,reject)};if(document.readyState==="loading"){window.addEventListener("DOMContentLoaded",start,{once:true})}else{start()}})`
 
+  const indexCssPath = joinSegments(baseDir, "index.css")
+  const postscriptPath = joinSegments(baseDir, "postscript.js")
+
   const resources: StaticResources = {
     css: [
       {
-        content: joinSegments(baseDir, "index.css"),
+        content: indexCssPath,
+        lazy: true,
+        spaPreserve: true,
       },
       ...staticResources.css,
     ],
@@ -52,14 +57,17 @@ export function pageResources(
       },
       ...staticResources.js,
     ],
-    additionalHead: staticResources.additionalHead,
+    additionalHead: [
+      <link rel="modulepreload" href={postscriptPath} crossOrigin="anonymous" />,
+      ...staticResources.additionalHead,
+    ],
   }
 
   resources.js.push({
-    src: joinSegments(baseDir, "postscript.js"),
     loadTime: "afterDOMReady",
     moduleType: "module",
-    contentType: "external",
+    contentType: "inline",
+    script: `(()=>{const moduleHref="${postscriptPath}";let loaded=false;const loadModule=()=>{if(loaded)return;loaded=true;import(moduleHref).catch((error)=>console.error("Failed to load postscript",error))};const schedule=()=>{"requestIdleCallback"in window?window.requestIdleCallback(()=>loadModule(),{timeout:3000}):setTimeout(loadModule,1200)};if(document.readyState==="complete"){schedule()}else{window.addEventListener("load",schedule,{once:true})}window.addEventListener("trigger-postscript-load",loadModule,{once:true});window.__loadPostscript=loadModule;})();`,
   })
 
   return resources
@@ -241,7 +249,7 @@ export function renderPage(
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}
-            <div class="center">
+            <main id="main-content" class="center" tabIndex={-1}>
               <div class="page-header">
                 <Header {...componentData}>
                   {header.map((HeaderComponent) => (
@@ -261,7 +269,7 @@ export function renderPage(
                   <BodyComponent {...componentData} />
                 ))}
               </div>
-            </div>
+            </main>
             {RightComponent}
             <Footer {...componentData} />
           </Body>

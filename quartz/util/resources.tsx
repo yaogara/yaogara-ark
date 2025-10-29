@@ -7,7 +7,7 @@ export type JSResource = {
   moduleType?: "module"
   spaPreserve?: boolean
   defer?: boolean
-  crossOrigin?: string
+  crossOrigin?: "anonymous" | "use-credentials"
 } & (
   | {
       src: string
@@ -26,7 +26,7 @@ export type CSSResource = {
   lazy?: boolean
   rel?: "stylesheet" | "preload"
   as?: string
-  crossOrigin?: string
+  crossOrigin?: "anonymous" | "use-credentials"
 }
 
 export function JSResourceToScriptElement(resource: JSResource, preserve?: boolean): JSX.Element {

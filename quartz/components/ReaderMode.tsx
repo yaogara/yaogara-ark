@@ -6,8 +6,10 @@ import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
 
 const ReaderMode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+  const readerLabel = i18n(cfg.locale).components.readerMode.title
+
   return (
-    <button class={classNames(displayClass, "readermode")}>
+    <button type="button" class={classNames(displayClass, "readermode")} aria-label={readerLabel}>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlnsXlink="http://www.w3.org/1999/xlink"

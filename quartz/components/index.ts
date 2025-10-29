@@ -19,6 +19,7 @@ import Footer from "./Footer"
 import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
+import FilteredRecentNotes from "./FilteredRecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
@@ -46,6 +47,7 @@ export {
   DesktopOnly,
   MobileOnly,
   RecentNotes,
+  FilteredRecentNotes,
   NotFound,
   Breadcrumbs,
   Comments,

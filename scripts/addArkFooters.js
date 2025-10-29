@@ -105,6 +105,23 @@ function hasExistingFooter(content) {
   return /References and Licensing|Related Reading/i.test(content);
 }
 
+function shouldSkipFooter(slug, relative) {
+  // Skip homepage, about page, and other non-article pages
+  const skipPatterns = [
+    'index',           // Homepage
+    'about',           // About page
+    'policy/',         // Policy pages
+    'summaries/',      // Summary pages
+    'traditions/',     // Tradition pages
+  ];
+  
+  return skipPatterns.some(pattern => 
+    slug === pattern || 
+    slug.startsWith(pattern) || 
+    relative.includes(pattern)
+  );
+}
+
 function isInternalUrl(url) {
   if (!url) return false;
   try {
@@ -229,11 +246,15 @@ async function main() {
   const year = new Date().getFullYear();
 
   for (const meta of filesMeta) {
-    const { file, parsed } = meta;
+    const { file, parsed, slug, relative } = meta;
     let content = parsed.content;
     let footerAdded = false;
 
-    if (!hasExistingFooter(content)) {
+    // Skip adding footers to certain pages
+    if (shouldSkipFooter(slug, relative)) {
+      console.log(colors.yellow(`⚠️ Skipping footer for ${relative} (non-article page)`));
+      skippedFooters += 1;
+    } else if (!hasExistingFooter(content)) {
       const relatedLinks = selectRelatedLinks(meta, citationMap, fileIndex);
       const footer = buildFooter({
         title: meta.title,

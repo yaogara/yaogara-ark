@@ -154,18 +154,25 @@ export default (() => {
               url: `https://${cfg.baseUrl}`,
               inLanguage: "en",
               license: "https://creativecommons.org/licenses/by-sa/4.0/",
+              description:
+                "An open ethnobotanical archive documenting sacred plants and Indigenous ecological knowledge of the Amazon.",
+              // ✅ Fix 1: isPartOf should be a Dataset, not a plain URL
               isPartOf: {
+                "@type": "Dataset",
+                name: "Yaogará Research Archive",
+                url: "https://yaogara.com"
+              },
+              // ✅ Fix 2: keep creator as an Organization
+              creator: {
                 "@type": "Organization",
-                name: "Yaogará",
-                url: "https://yaogara.com",
+                name: "Yaogará Research Initiative",
+                url: "https://yaogara.com"
               },
               publisher: {
                 "@type": "Organization",
                 name: "Yaogará Research Initiative",
-                url: "https://yaogara.com",
-              },
-              description:
-                "An open ethnobotanical archive documenting sacred plants and Indigenous ecological knowledge of the Amazon.",
+                url: "https://yaogara.com"
+              }
             }),
           }}
         />

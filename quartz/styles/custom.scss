@@ -1,3 +1,19 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Fix excessive top spacing on desktop
+.page-header {
+  margin-top: 1rem !important; // Reduce from 6rem to 1rem
+  
+  @media all and (max-width: 800px) {
+    margin-top: 0 !important; // Remove margin on mobile
+  }
+}
+
+// Optional: Reduce sidebar top padding as well
+.sidebar {
+  padding-top: 2rem !important; // Reduce from 6rem to 2rem
+  
+  @media all and (max-width: 800px) {
+    padding-top: 0 !important; // Remove padding on mobile
+  }
+}

@@ -67,23 +67,29 @@ async function generateSocialImage(
 }
 
 async function getFallbackFont() {
-  // Absolute path to the Inter fallback in public/static/fonts
-  const fontPath = path.join(process.cwd(), "public", "static", "fonts", "Inter-Regular.woff2")
+  // Try quartz/static/fonts first, then public/static/fonts
+  const fontPaths = [
+    path.join(process.cwd(), "quartz", "static", "fonts", "Inter-Regular.woff2"),
+    path.join(process.cwd(), "public", "static", "fonts", "Inter-Regular.woff2"),
+  ]
   const fs = await import("fs/promises")
-  try {
-    const data = await fs.readFile(fontPath)
-    return [
-      {
-        name: "Inter",
-        data,
-        weight: 400,
-        style: "normal"
-      }
-    ]
-  } catch (e) {
-    console.warn(`[OG Fallback Font] Could not load Inter-Regular.woff2 at ${fontPath}:`, e)
-    return []
+  for (const fontPath of fontPaths) {
+    try {
+      const data = await fs.readFile(fontPath)
+      return [
+        {
+          name: "Inter",
+          data,
+          weight: 400,
+          style: "normal"
+        }
+      ]
+    } catch (e) {
+      // Try next path
+    }
   }
+  console.warn(`[OG Fallback Font] Could not load Inter-Regular.woff2 in any known fallback location.`)
+  return []
 }
 
 async function processOgImage(

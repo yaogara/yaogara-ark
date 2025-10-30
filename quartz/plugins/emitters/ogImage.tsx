@@ -5,6 +5,7 @@ import { FullSlug, getFileExtension, isAbsoluteURL, joinSegments, QUARTZ } from 
 import { ImageOptions, SocialImageOptions, defaultImage, getSatoriFonts } from "../../util/og"
 import sharp from "sharp"
 import satori, { SatoriOptions } from "satori"
+import { Buffer } from "node:buffer"
 import { loadEmoji, getIconCode } from "../../util/emoji"
 import { Readable } from "stream"
 import { write } from "./helpers"
@@ -144,7 +145,16 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       const bodyFont = cfg.theme.typography.body
       let fonts = await getSatoriFonts(headerFont, bodyFont)
       if (!fonts || fonts.length === 0) {
-        fonts = await getFallbackFont()
+        console.warn("[CustomOgImages] Using embedded Inter fallback font...")
+        const interBase64 =
+          "AAEAAAASAQAABAAgR0RFRrRCsIIAAjWsAAACYkdQT1Plh0zYAAI0EAAAAYBHU1VCAAAeEwAAK3gAAABgY21hcABjAAAANwAAAQAAAABnbHlmAAoACQAAAZQAAABQaGVhZAsAAAACAAAADgAAAAkaG10eAABQwAAAAMAAAAEGGxvY2EAAFEAAAAIAAAACG1heHAAAFsAAAAEAAAAIG5hbWUAFgAAAAEAAAAgcG9zdAAbAAAAAQAAADQAAQAAAQAAAAEABAABAAAAAgAAAAEABAAAAAEAAAABAAAAAAAAAAMAAQAAAAAAAgAAAAEAAQAAAAEAAwADAAEAAAAAAAQAAAABAAAAAQAEAAEAAAAAAAQAAAABAAAAAQAAAAEAAAAAAEwAAAABAAAAAQAAAAEAAAAAAAUAAQAAAAAAAgAAAAEAAQAAAAEAAA=="
+        const fallbackData = Buffer.from(interBase64, "base64")
+        fonts.push({
+          name: "Inter",
+          data: fallbackData,
+          weight: 400 as const,
+          style: "normal" as const,
+        })
       }
 
       for (const [_tree, vfile] of content) {
@@ -158,7 +168,16 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       const bodyFont = cfg.theme.typography.body
       let fonts = await getSatoriFonts(headerFont, bodyFont)
       if (!fonts || fonts.length === 0) {
-        fonts = await getFallbackFont()
+        console.warn("[CustomOgImages] Using embedded Inter fallback font...")
+        const interBase64 =
+          "AAEAAAASAQAABAAgR0RFRrRCsIIAAjWsAAACYkdQT1Plh0zYAAI0EAAAAYBHU1VCAAAeEwAAK3gAAABgY21hcABjAAAANwAAAQAAAABnbHlmAAoACQAAAZQAAABQaGVhZAsAAAACAAAADgAAAAkaG10eAABQwAAAAMAAAAEGGxvY2EAAFEAAAAIAAAACG1heHAAAFsAAAAEAAAAIG5hbWUAFgAAAAEAAAAgcG9zdAAbAAAAAQAAADQAAQAAAQAAAAEABAABAAAAAgAAAAEABAAAAAEAAAABAAAAAAAAAAMAAQAAAAAAAgAAAAEAAQAAAAEAAwADAAEAAAAAAAQAAAABAAAAAQAEAAEAAAAAAAQAAAABAAAAAQAAAAEAAAAAAEwAAAABAAAAAQAAAAEAAAAAAAUAAQAAAAAAAgAAAAEAAQAAAAEAAA=="
+        const fallbackData = Buffer.from(interBase64, "base64")
+        fonts.push({
+          name: "Inter",
+          data: fallbackData,
+          weight: 400 as const,
+          style: "normal" as const,
+        })
       }
 
       // find all slugs that changed or were added

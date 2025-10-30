@@ -52,10 +52,14 @@ export default (() => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
     const title =
       (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
-    const description =
+    const fallbackDescription =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
       unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
+
+    const siteDescription =
+      "Yaogará Ark — open ethnobotany archive documenting Amazonian teacher plants, ancestral pharmacology, and traditional ecological knowledge."
+    const pageDescription = fallbackDescription || siteDescription
 
     const { css, js, additionalHead } = externalResources
 
@@ -90,6 +94,7 @@ export default (() => {
         )}
         <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://plausible.io" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://ark.yaogara.org" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         {/* Preload core assets to shorten the critical rendering path */}
@@ -103,9 +108,9 @@ export default (() => {
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
-        <meta name="twitter:description" content={description} />
-        <meta property="og:description" content={description} />
-        <meta property="og:image:alt" content={description} />
+        <meta name="twitter:description" content={pageDescription} />
+        <meta property="og:description" content={pageDescription} />
+        <meta property="og:image:alt" content={pageDescription} />
 
         {!usesCustomOgImage && (
           <>
@@ -127,8 +132,13 @@ export default (() => {
           </>
         )}
 
+        <link
+          rel="canonical"
+          href={fileData.slug === "index" ? "https://ark.yaogara.org/" : socialUrl}
+        />
+
         <link rel="icon" href={iconPath} />
-        <meta name="description" content={description} />
+        <meta name="description" content={pageDescription || siteDescription} />
         <meta name="generator" content="Quartz" />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}

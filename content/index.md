@@ -18,7 +18,7 @@ Use the Explorer on the left to navigate through plants, traditions, and field n
 
 ---
 
-#### Maintained by the Yaogará Research Initiative  
+### Maintained by the Yaogará Research Initiative
 Part of Fundación Camino al Sol — a Colombian non-profit organization for cultural and ecological preservation.  
 [yaogara.com](https://yaogara.com)
 

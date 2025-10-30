@@ -24,10 +24,9 @@ function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
   const explorerCollapsed = nearestExplorer.classList.toggle("collapsed")
-  nearestExplorer.setAttribute(
-    "aria-expanded",
-    nearestExplorer.getAttribute("aria-expanded") === "true" ? "false" : "true",
-  )
+  const expandedValue = explorerCollapsed ? "false" : "true"
+  const toggles = nearestExplorer.querySelectorAll<HTMLButtonElement>(".explorer-toggle")
+  toggles.forEach((toggle) => toggle.setAttribute("aria-expanded", expandedValue))
 
   if (!explorerCollapsed) {
     // Stop <html> from being scrollable when mobile explorer is open

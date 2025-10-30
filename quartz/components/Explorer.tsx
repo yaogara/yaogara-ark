@@ -63,6 +63,9 @@ export default ((userOpts?: Partial<Options>) => {
   const Explorer: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) => {
     const id = `explorer-${numExplorers++}`
 
+    const explorerTitle = i18n(cfg.locale).components.explorer.title
+    const toggleLabel = `${explorerTitle} navigation toggle`
+
     return (
       <div
         class={classNames(displayClass, "explorer")}
@@ -82,7 +85,7 @@ export default ((userOpts?: Partial<Options>) => {
           data-mobile={true}
           aria-controls={id}
           aria-expanded={false}
-          aria-label={i18n(cfg.locale).components.explorer.title}
+          aria-label={toggleLabel}
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -105,7 +108,7 @@ export default ((userOpts?: Partial<Options>) => {
           data-mobile={false}
           aria-controls={id}
           aria-expanded={true}
-          aria-label={i18n(cfg.locale).components.explorer.title}
+          aria-label={toggleLabel}
         >
           <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
           <svg

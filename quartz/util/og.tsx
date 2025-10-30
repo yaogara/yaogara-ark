@@ -30,7 +30,7 @@ export async function getSatoriFonts(headerFont: FontSpecification, bodyFont: Fo
 
   // Fetch fonts for all weights and convert to satori format in one go
   const headerFontPromises = headerWeights.map(async (weight) => {
-    const data = await fetchTtf(headerFontName, weight)
+    const data = await fetchWoff2(headerFontName, weight)
     if (!data) return null
     return {
       name: headerFontName,
@@ -41,7 +41,7 @@ export async function getSatoriFonts(headerFont: FontSpecification, bodyFont: Fo
   })
 
   const bodyFontPromises = bodyWeights.map(async (weight) => {
-    const data = await fetchTtf(bodyFontName, weight)
+    const data = await fetchWoff2(bodyFontName, weight)
     if (!data) return null
     return {
       name: bodyFontName,
@@ -66,19 +66,19 @@ export async function getSatoriFonts(headerFont: FontSpecification, bodyFont: Fo
 }
 
 /**
- * Get the `.ttf` file of a google font
+ * Get the `.woff2` file of a google font
  * @param fontName name of google font
  * @param weight what font weight to fetch font
- * @returns `.ttf` file of google font
+ * @returns `.woff2` file of google font
  */
-export async function fetchTtf(
+export async function fetchWoff2(
   rawFontName: string,
   weight: FontWeight,
 ): Promise<Buffer<ArrayBufferLike> | undefined> {
   const fontName = rawFontName.replaceAll(" ", "+")
   const cacheKey = `${fontName}-${weight}`
   const cacheDir = path.join(QUARTZ, ".quartz-cache", "fonts")
-  const cachePath = path.join(cacheDir, cacheKey)
+  const cachePath = path.join(cacheDir, `${cacheKey}.woff2`)
 
   // Check if font exists in cache
   try {
@@ -94,8 +94,8 @@ export async function fetchTtf(
   )
   const css = await cssResponse.text()
 
-  // Extract .ttf url from css file
-  const urlRegex = /url\((https:\/\/fonts.gstatic.com\/s\/.*?.ttf)\)/g
+  // Extract .woff2 url from css file
+  const urlRegex = /url\((https:\/\/fonts.gstatic.com\/s\/.*?.woff2)\)/g
   const match = urlRegex.exec(css)
 
   if (!match) {
@@ -108,7 +108,7 @@ export async function fetchTtf(
     return
   }
 
-  // fontData is an ArrayBuffer containing the .ttf file data
+  // fontData is an ArrayBuffer containing the .woff2 file data
   const fontResponse = await fetch(match[1])
   const fontData = Buffer.from(await fontResponse.arrayBuffer())
   await fs.mkdir(cacheDir, { recursive: true })

@@ -67,9 +67,11 @@ async function generateSocialImage(
 }
 
 async function getFallbackFont() {
-  // Try quartz/static/fonts first, then public/static/fonts
+  // Try quartz/static/fonts as preferred place, and support both .ttf and .woff2 for max compatibility
   const fontPaths = [
+    path.join(process.cwd(), "quartz", "static", "fonts", "Inter-Regular.ttf"),
     path.join(process.cwd(), "quartz", "static", "fonts", "Inter-Regular.woff2"),
+    path.join(process.cwd(), "public", "static", "fonts", "Inter-Regular.ttf"),
     path.join(process.cwd(), "public", "static", "fonts", "Inter-Regular.woff2"),
   ]
   const fs = await import("fs/promises")
@@ -88,7 +90,7 @@ async function getFallbackFont() {
       // Try next path
     }
   }
-  console.warn(`[OG Fallback Font] Could not load Inter-Regular.woff2 in any known fallback location.`)
+  console.warn(`[OG Fallback Font] Could not load Inter-Regular.ttf or .woff2 in any known fallback location.`)
   return []
 }
 

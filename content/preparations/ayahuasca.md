@@ -1,24 +1,10 @@
 ---
-title: Ayahuasca (Traditional Amazonian Brew)
-aliases:
-  - Yagé
-  - Caapi
-  - Hoasca
-  - Daime
-summary: 'A sacred psychoactive brew from the Amazon Basin, traditionally prepared from Banisteriopsis caapi and Psychotria viridis. Central to Indigenous shamanism and modern psychedelic research.'
-tags:
-  - ayahuasca
-  - teacher plants
-  - Banisteriopsis caapi
-  - Psychotria viridis
-  - ethnobotany
-  - Amazon
-  - psychedelics
-  - shamanism
-  - preparations
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Ayahuasca (Traditional Amazonian Brew)"
+aliases: ["Ayahuasca", "Yagé", "Caapi", "Hoasca", "Daime"]
+summary: "A sacred psychoactive brew from the Amazon Basin, traditionally prepared from Banisteriopsis caapi and Psychotria viridis. Central to Indigenous shamanism and modern psychedelic research."
+tags: ["ayahuasca", "teacher plants", "Banisteriopsis caapi", "Psychotria viridis", "ethnobotany", "Amazon", "psychedelics", "shamanism", "preparations"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
 ---
 
 *This article is part of the [Yaogará Ark](https://ark.yaogara.org), a living research archive documenting Amazonian teacher plants, ancestral pharmacology, and the intersection of traditional and contemporary healing knowledge.*

@@ -1,22 +1,11 @@
 ---
-title: Withania somnifera (Ashwagandha)
-aliases:
-  - Ashwagandha
-  - Indian ginseng
-  - Winter cherry
-  - Withania somnifera
-summary: 'Adaptogenic Solanaceae shrub central to Ayurveda, used for stress resilience, sleep, and vitality; increasingly integrated into global and Amazonian-adjacent ethnobotanical practice.'
-tags:
-  - Withania somnifera
-  - ashwagandha
-  - adaptogen
-  - Ayurveda
-  - Solanaceae
-  - ethnobotany
-  - teacher plants
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Withania somnifera (Ashwagandha)"
+aliases: ["Ashwagandha", "Indian ginseng", "Winter cherry", "Withania somnifera"]
+summary: "Adaptogenic Solanaceae shrub central to Ayurveda, used for stress resilience, sleep, and vitality; increasingly integrated into global and Amazonian-adjacent ethnobotanical practice."
+tags: ["Withania somnifera", "ashwagandha", "adaptogen", "Ayurveda", "Solanaceae", "ethnobotany", "teacher plants"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the **Yaogará Ark**, a living archive of Amazonian teacher plants.*

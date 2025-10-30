@@ -5,6 +5,7 @@ summary: "Amazonian ritual snuff composed chiefly of Nicotiana rustica and medic
 tags: ["rapé", "Nicotiana rustica", "tobacco", "snuff", "teacher plants", "Amazonia", "ethnobotany", "ritual"]
 date: 2025-10-30
 license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+lastmod: 2025-10-30
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

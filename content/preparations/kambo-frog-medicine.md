@@ -5,6 +5,7 @@ summary: "A ritual frog secretion from Phyllomedusa bicolor used for purificatio
 tags: ["kambo", "Phyllomedusa bicolor", "frog secretion", "ethnobotany", "bioactive peptides", "Amazonia", "ritual purification", "indigenous knowledge"]
 date: 2025-10-30
 license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+lastmod: 2025-10-30
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied medicines.*

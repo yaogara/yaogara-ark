@@ -1,21 +1,11 @@
 ---
-title: Psychotria alba (White Chacruna)
-aliases:
-  - White Chacruna
-  - Chacruna Blanco
-  - Psychotria alba Ruiz & Pav.
-summary: Amazonian Rubiaceae shrub used as an alternative chacruna leaf source in ayahuasca; distinguished by pale green-white foliage and variable DMT content; cultivated and utilized among Shipibo and other Western Amazonian lineages.
-tags:
-  - ayahuasca
-  - Psychotria alba
-  - chacruna
-  - Rubiaceae
-  - teacher plants
-  - ethnobotany
-  - Amazonia
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Psychotria alba (White Chacruna)"
+aliases: ["White Chacruna", "Chacruna Blanco", "Psychotria alba Ruiz & Pav."]
+summary: "Amazonian Rubiaceae shrub used as an alternative chacruna leaf source in ayahuasca; distinguished by pale green-white foliage and variable DMT content; cultivated and utilized among Shipibo and other Western Amazonian lineages."
+tags: ["ayahuasca", "Psychotria alba", "chacruna", "Rubiaceae", "teacher plants", "ethnobotany", "Amazonia"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

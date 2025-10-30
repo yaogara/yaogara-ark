@@ -1,24 +1,11 @@
 ---
-title: Paullinia cupana (Guaraná Seed)
-aliases:
-  - Guaraná
-  - Guarana
-  - Paullinia cupana Kunth
-  - Guaraná Seed
-summary: 'Caffeinated liana domesticated in the central Amazon, culturally central to Sateré-Mawé lifeways and widely commercialized for stimulant beverages; rich in caffeine, tannins, and polyphenols with sustained stimulant and antioxidant profiles.'
-tags:
-  - Paullinia cupana
-  - guaraná
-  - Sapindaceae
-  - stimulants
-  - caffeine
-  - Amazonia
-  - ethnobotany
-  - teacher plants
-  - phytochemistry
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Paullinia cupana (Guaraná Seed)"
+aliases: ["Guaraná", "Guarana", "Paullinia cupana Kunth", "Guaraná Seed"]
+summary: "Caffeinated liana domesticated in the central Amazon, culturally central to Sateré-Mawé lifeways and widely commercialized for stimulant beverages; rich in caffeine, tannins, and polyphenols with sustained stimulant and antioxidant profiles."
+tags: ["Paullinia cupana", "guaraná", "Sapindaceae", "stimulants", "caffeine", "Amazonia", "ethnobotany", "teacher plants", "phytochemistry"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

@@ -5,6 +5,7 @@ summary: "Ritualized isolation, fasting, and communion with plantas maestras in 
 tags: ["dieta", "plantas maestras", "ayahuasca", "ethnobotany", "Amazonia", "Shipibo-Konibo", "vegetalismo"]
 date: 2025-10-30
 license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+lastmod: 2025-10-30
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and lifeways.*

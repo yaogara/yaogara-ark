@@ -5,6 +5,7 @@ summary: "Ethnographic and ethnobotanical synthesis of Inga and Cofán yajé (ay
 tags: ["Inga", "Cofán", "A’ingae", "yajé", "ayahuasca", "Putumayo", "ethnobotany", "teacher plants", "UMIYAC", "biocultural rights", "Colombia", "Ecuador"]
 date: 2025-10-30
 license: "CC BY-SA 4.0 – Yaogará Ark"
+lastmod: 2025-10-30
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

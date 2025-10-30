@@ -5,6 +5,7 @@ summary: "Traditional Amazonian plant steam baths used for detoxification, energ
 tags: ["vaporations", "steam baths", "Amazonian medicine", "ethnobotany", "Shipibo", "Asháninka", "Matsigenka", "teacher plants", "traditional healing"]
 date: 2025-10-30
 license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+lastmod: 2025-10-30
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and healing lifeways.*

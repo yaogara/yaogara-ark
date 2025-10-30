@@ -1,24 +1,11 @@
 ---
-title: Brugmansia spp. (Angel’s Trumpet)
-aliases:
-  - Angel’s Trumpet
-  - Toé
-  - Borrachero
-  - Huacacachu
-  - Brugmansia
-summary: 'Andean–Amazonian genus of woody Solanaceae bearing pendulous, fragrant trumpets; historically employed as a visionary adjunct and powerful medicinal within shamanic complexes, yet marked by high toxicity due to tropane alkaloids.'
-tags:
-  - Brugmansia
-  - Angel’s Trumpet
-  - Solanaceae
-  - tropane alkaloids
-  - teacher plants
-  - ethnobotany
-  - Amazonia
-  - Andes
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Brugmansia spp. (Angel’s Trumpet)"
+aliases: ["Angel’s Trumpet", "Toé", "Borrachero", "Huacacachu", "Brugmansia"]
+summary: "Andean–Amazonian genus of woody Solanaceae bearing pendulous, fragrant trumpets; historically employed as a visionary adjunct and powerful medicinal within shamanic complexes, yet marked by high toxicity due to tropane alkaloids."
+tags: ["Brugmansia", "Angel’s Trumpet", "Solanaceae", "tropane alkaloids", "teacher plants", "ethnobotany", "Amazonia", "Andes"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

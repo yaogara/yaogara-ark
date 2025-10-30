@@ -1,9 +1,9 @@
 ---
-title: Ethnobotanical Traditions
-date: '2025-10-25'
+title: "Ethnobotanical Traditions"
 tags: []
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+date: 2025-10-25
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 # Ethnobotanical Traditions
 

@@ -1,22 +1,11 @@
 ---
-title: Brunfelsia grandiflora (Chiri Sanango)
-aliases:
-  - Chiri Sanango
-  - Chiric Sanango
-  - Manacá
-  - Bigflower raintree
-  - Brunfelsia grandiflora D. Don
-summary: Amazonian Solanaceae shrub revered as a ‘cold’ sanango for somatic and spiritual cleansing; notable for indole alkaloids and complex traditional applications in medicine and ritual.
-tags:
-  - Brunfelsia grandiflora
-  - Solanaceae
-  - Amazonia
-  - teacher plants
-  - ethnobotany
-  - plant diets
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Brunfelsia grandiflora (Chiri Sanango)"
+aliases: ["Chiri Sanango", "Chiric Sanango", "Manacá", "Bigflower raintree", "Brunfelsia grandiflora D. Don"]
+summary: "Amazonian Solanaceae shrub revered as a ‘cold’ sanango for somatic and spiritual cleansing; notable for indole alkaloids and complex traditional applications in medicine and ritual."
+tags: ["Brunfelsia grandiflora", "Solanaceae", "Amazonia", "teacher plants", "ethnobotany", "plant diets"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

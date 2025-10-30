@@ -5,6 +5,7 @@ summary: "An overview of yajé (ayahuasca) within Eastern Tukano cosmology, ritu
 tags: ["ayahuasca", "yajé", "Tukano", "Northwest Amazon", "teacher plants", "shamanism", "ethnobotany", "intangible heritage"]
 date: 2025-10-30
 license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-30
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

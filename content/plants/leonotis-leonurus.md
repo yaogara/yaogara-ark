@@ -1,23 +1,11 @@
 ---
-title: 'Leonotis leonurus (Wild Dagga, Lion’s Tail)'
-aliases:
-  - Wild Dagga
-  - Lion’s Tail
-  - Lion’s Ear
-  - Leonotis leonurus
-summary: 'A southern African Lamiaceae shrub used in traditional medicine and ritual smoking blends; noted for mild euphoric, relaxant, and anti-inflammatory properties linked to diterpenoids such as marrubiin.'
-tags:
-  - Leonotis leonurus
-  - Wild Dagga
-  - Lamiaceae
-  - ethnobotany
-  - smoking mixtures
-  - marrubiin
-  - terpenoids
-  - southern Africa
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Leonotis leonurus (Wild Dagga, Lion’s Tail)"
+aliases: ["Wild Dagga", "Lion’s Tail", "Lion’s Ear", "Leonotis leonurus"]
+summary: "A southern African Lamiaceae shrub used in traditional medicine and ritual smoking blends; noted for mild euphoric, relaxant, and anti-inflammatory properties linked to diterpenoids such as marrubiin."
+tags: ["Leonotis leonurus", "Wild Dagga", "Lamiaceae", "ethnobotany", "smoking mixtures", "marrubiin", "terpenoids", "southern Africa"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian and global teacher plants and allied ethnobotanicals.*

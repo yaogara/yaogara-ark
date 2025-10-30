@@ -1,25 +1,11 @@
 ---
-title: Justicia pectoralis (Masha-Hari)
-aliases:
-  - Masha-Hari
-  - Tilo
-  - Freshcut
-  - Justicia pectoralis Jacq.
-  - Dianthera pectoralis
-summary: Aromatic Amazonian herb used as a calming adjunct in snuffs and teas; rich in coumarin with reported mild MAOI activity; significant in Indigenous and mestizo ritual pharmacopoeias.
-tags:
-  - Justicia pectoralis
-  - masha-hari
-  - Acanthaceae
-  - teacher plants
-  - ethnobotany
-  - Amazonia
-  - snuffs
-  - coumarin
-  - MAOI
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Justicia pectoralis (Masha-Hari)"
+aliases: ["Masha-Hari", "Tilo", "Freshcut", "Justicia pectoralis Jacq.", "Dianthera pectoralis"]
+summary: "Aromatic Amazonian herb used as a calming adjunct in snuffs and teas; rich in coumarin with reported mild MAOI activity; significant in Indigenous and mestizo ritual pharmacopoeias."
+tags: ["Justicia pectoralis", "masha-hari", "Acanthaceae", "teacher plants", "ethnobotany", "Amazonia", "snuffs", "coumarin", "MAOI"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied species.*

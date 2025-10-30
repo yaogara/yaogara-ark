@@ -1,24 +1,11 @@
 ---
-title: Piper methysticum (Kava Kava)
-aliases:
-  - Kava
-  - Kava Kava
-  - ‘Awa
-  - ‘Ava
-  - Yaqona
-  - Sakau
-summary: 'Perennial Pacific shrub whose rhizome yields a psychoactive beverage central to Oceanic ceremonial life, with kavalactone chemotypes underpinning anxiolytic, sedative, and muscle-relaxant effects.'
-tags:
-  - Piper methysticum
-  - kava
-  - teacher plants
-  - ethnobotany
-  - Pacific
-  - anxiolytic
-  - phytochemistry
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Piper methysticum (Kava Kava)"
+aliases: ["Kava", "Kava Kava", "‘Awa", "‘Ava", "Yaqona", "Sakau"]
+summary: "Perennial Pacific shrub whose rhizome yields a psychoactive beverage central to Oceanic ceremonial life, with kavalactone chemotypes underpinning anxiolytic, sedative, and muscle-relaxant effects."
+tags: ["Piper methysticum", "kava", "teacher plants", "ethnobotany", "Pacific", "anxiolytic", "phytochemistry"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of teacher plants and their traditions.*

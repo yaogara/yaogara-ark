@@ -5,6 +5,7 @@ summary: "Mambe is a sacred Amazonian preparation of toasted and ground coca lea
 tags: ["mambe", "ypadu", "coca", "Erythroxylum coca", "teacher plants", "ethnobotany", "Amazon", "Tukano", "Witoto", "preparations"]
 date: 2025-10-29
 license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-29
 ---
 
 ## Introduction

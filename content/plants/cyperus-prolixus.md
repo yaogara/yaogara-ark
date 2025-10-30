@@ -1,21 +1,11 @@
 ---
-title: Cyperus prolixus (Toé Root; Ajos Sacha alt.)
-aliases:
-  - Toé Root
-  - Ajos Sacha alt.
-  - Cyperus prolixus Kunth
-summary: 'Amazonian sedge of medicinal and ritual importance used in floral baths, vaporations, and digestive care; documented among Indigenous and mestizo practitioners in the western Amazon.'
-tags:
-  - Cyperus prolixus
-  - Cyperaceae
-  - ethnobotany
-  - Amazonia
-  - medicinal plants
-  - floral baths
-  - protective rituals
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Cyperus prolixus (Toé Root; Ajos Sacha alt.)"
+aliases: ["Toé Root", "Ajos Sacha alt.", "Cyperus prolixus Kunth"]
+summary: "Amazonian sedge of medicinal and ritual importance used in floral baths, vaporations, and digestive care; documented among Indigenous and mestizo practitioners in the western Amazon."
+tags: ["Cyperus prolixus", "Cyperaceae", "ethnobotany", "Amazonia", "medicinal plants", "floral baths", "protective rituals"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied species.*

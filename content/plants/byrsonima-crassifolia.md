@@ -1,22 +1,11 @@
 ---
-title: Byrsonima crassifolia (Nanche)
-aliases:
-  - Nanche
-  - Nance
-  - Byrsonima crassifolia
-summary: 'Neotropical shrub valued across Mesoamerica and Amazonia for edible fruits and medicinal bark; documented antioxidant, hypoglycemic, antimicrobial, and anti-inflammatory properties align with longstanding ethnomedical uses.'
-tags:
-  - Byrsonima crassifolia
-  - Nanche
-  - Malpighiaceae
-  - ethnobotany
-  - medicinal plants
-  - food plants
-  - Mesoamerica
-  - Amazonia
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Byrsonima crassifolia (Nanche)"
+aliases: ["Nanche", "Nance", "Byrsonima crassifolia"]
+summary: "Neotropical shrub valued across Mesoamerica and Amazonia for edible fruits and medicinal bark; documented antioxidant, hypoglycemic, antimicrobial, and anti-inflammatory properties align with longstanding ethnomedical uses."
+tags: ["Byrsonima crassifolia", "Nanche", "Malpighiaceae", "ethnobotany", "medicinal plants", "food plants", "Mesoamerica", "Amazonia"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

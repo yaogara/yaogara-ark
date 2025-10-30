@@ -5,6 +5,7 @@ summary: "A sacred psychoactive brew from the Amazon Basin, traditionally prepar
 tags: ["ayahuasca", "teacher plants", "Banisteriopsis caapi", "Psychotria viridis", "ethnobotany", "Amazon", "psychedelics", "shamanism", "preparations"]
 date: 2025-10-27
 license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+lastmod: 2025-10-27
 ---
 
 *This article is part of the [Yaogará Ark](https://ark.yaogara.org), a living research archive documenting Amazonian teacher plants, ancestral pharmacology, and the intersection of traditional and contemporary healing knowledge.*

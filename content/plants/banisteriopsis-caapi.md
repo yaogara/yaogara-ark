@@ -1,22 +1,11 @@
 ---
-title: Banisteriopsis caapi (Ayahuasca Vine)
-aliases:
-  - Ayahuasca Vine
-  - Yagé
-  - Yajé
-  - Caapi
-  - Mariri
-summary: 'Principal vine of the ayahuasca brew; a culturally central Amazonian liana whose β‑carbolines enable DMT oral activity and shape ceremonial, medicinal, and ethnobotanical practice.'
-tags:
-  - ayahuasca
-  - Banisteriopsis caapi
-  - teacher plants
-  - ethnobotany
-  - Malpighiaceae
-  - β-carbolines
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Banisteriopsis caapi (Ayahuasca Vine)"
+aliases: ["Ayahuasca Vine", "Yagé", "Yajé", "Caapi", "Mariri"]
+summary: "Principal vine of the ayahuasca brew; a culturally central Amazonian liana whose β‑carbolines enable DMT oral activity and shape ceremonial, medicinal, and ethnobotanical practice."
+tags: ["ayahuasca", "Banisteriopsis caapi", "teacher plants", "ethnobotany", "Malpighiaceae", "β-carbolines"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

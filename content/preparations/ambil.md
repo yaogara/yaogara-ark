@@ -63,7 +63,14 @@ In many traditional preparations, particularly among Tukano and Witoto peoples, 
 - **Cecropia** (*Cecropia* spp.), a pioneer tree with nutrient-rich ash  
 - **Theobroma bicolor** (native cacao relative, locally *pataxté*), valued for its mineral content and association with cacao-based medicines  
 
+
 The ash raises the pH of the paste, converting nicotine into its freebase form, which crosses the oral mucosa more efficiently than its protonated form. This increases the bioavailability of the alkaloids and deepens ambil’s grounding, centering effects.
+
+### Salt and Balance
+
+In many regional traditions, particularly among Witoto and Bora lineages, a small amount of salt — either mineral or *sal vegetal* (plant-derived salt) — is incorporated into ambil during the late stages of reduction. Beyond its biochemical role in enhancing alkalinity and stabilizing nicotine’s freebase form, salt is understood as a sacred element symbolizing balance, preservation, and the grounding of thought. It harmonizes ambil’s fiery, masculine quality, tempering intensity with discernment.
+
+The preparation of *sal vegetal* involves filtering the ashes of mineral-rich plants (such as *Cecropia spp.*, *Theobroma bicolor*, or various palms) through water and evaporating the filtrate to obtain crystalline salts — a technique emblematic of Amazonian alchemical knowledge.
 
 ### Ceremonial Context
 

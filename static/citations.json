@@ -128,6 +128,58 @@
       "url": "https://ark.yaogara.org/plants/anadenanthera-peregrina"
     }
   ],
+  "banisteriopsis-caapi-v2": [
+    {
+      "id": 1,
+      "title": "1. Altar Origin. n.d.. Rapé: The Sacred Snuff of the Amazon Rainforest. https://altarorigin.com/en-usa/blogs/blog/rape-t",
+      "url": "https://altarorigin.com/en-usa/blogs/blog/rape-the-sacred-snuff-of-the-amazon-rainforest"
+    },
+    {
+      "id": 2,
+      "title": "2. Herbal Dimensions. n.d.. What is Rapè, the Jungle Snuff? https://www.herbaldimensions.com/blogs/news/what-is-rape",
+      "url": "https://www.herbaldimensions.com/blogs/news/what-is-rape"
+    },
+    {
+      "id": 3,
+      "title": "3. Shamanic Supply. n.d.. What Is Rapé Hapé Medicine? Benefits & How-To. https://shamanicsupply.com/pages/what-is-rapeh",
+      "url": "https://shamanicsupply.com/pages/what-is-rapeh"
+    },
+    {
+      "id": 4,
+      "title": "4. Elephantos Amsterdam. n.d.. Rapé, the Sacred Snuff of the Amazon. https://www.elephantos.com/en/blog/rap%C3%A9-the-sa",
+      "url": "https://www.elephantos.com/en/blog/rap%C3%A9-the-sacred-snuff-of-the-amazon.html"
+    },
+    {
+      "id": 5,
+      "title": "5. da Silva, J.T., et al. 2017. Comprehensive Chemical Characterization of Rapé Tobacco Products: Nicotiana Species Used",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5704902/"
+    },
+    {
+      "id": 6,
+      "title": "6. Maia, L., et al. 2023. Indigenous-Amazonian Traditional Medicine's Usage of the Tobacco Plant Nicotiana rustica L.: M",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9863029/"
+    },
+    {
+      "id": 7,
+      "title": "7. Maya Herbs. n.d.. Shamanic Snuff | Amazon | Native Blend. https://mayaherbs.com/rapeh/shamanic-snuff/amazon/",
+      "url": "https://mayaherbs.com/rapeh/shamanic-snuff/amazon/"
+    },
+    {
+      "id": 8,
+      "title": "8. Sacred Snuff. n.d.. Shawãdawa Rapé: Sacred Snuff & Traditions of the Macaw People. https://sacred-snuff.com/product-c",
+      "url": "https://sacred-snuff.com/product-category/sacred-snuff-rape/shawadawa/"
+    },
+    {
+      "id": 9,
+      "title": "9. Sacred Blend. n.d.. Huni Kuin Rapé Joy. https://sacred-blend.com/product/huni-kuin-rape-joy/",
+      "url": "https://sacred-blend.com/product/huni-kuin-rape-joy/"
+    },
+    {
+      "id": 10,
+      "title": "10. Sacred Snuff. n.d.. Caboclo Rapé - Amazon Green. https://sacred-snuff.com/product/caboclo-rape-amazon-green/",
+      "url": "https://sacred-snuff.com/product/caboclo-rape-amazon-green/"
+    }
+  ],
   "banisteriopsis-caapi": [
     {
       "id": 1,
@@ -2351,11 +2403,300 @@
       "url": "https://ark.yaogara.org/policy/dmt-un-report-1971"
     }
   ],
+  "dieta-plant-learning": [
+    {
+      "id": 1,
+      "title": "1. https://www.ayahuascafoundation.org/information/ayahuasca-tradition/plant-dietas/",
+      "url": "https://www.ayahuascafoundation.org/information/ayahuasca-tradition/plant-dietas/"
+    },
+    {
+      "id": 2,
+      "title": "2. https://takiwasi.com/en/traditional-plant-dieta.php",
+      "url": "https://takiwasi.com/en/traditional-plant-dieta.php"
+    },
+    {
+      "id": 3,
+      "title": "3. https://templeofthewayoflight.org/retreats/plant-dietas-at-shipibo-rao/",
+      "url": "https://templeofthewayoflight.org/retreats/plant-dietas-at-shipibo-rao/"
+    },
+    {
+      "id": 4,
+      "title": "4. https://chacruna.net/healing-knowledge-amazonian-shamanic-diet/",
+      "url": "https://chacruna.net/healing-knowledge-amazonian-shamanic-diet/"
+    },
+    {
+      "id": 5,
+      "title": "5. https://deepearthdreaming.world/2018/06/27/plant-dieta-the-practice-of-sacred-relating/",
+      "url": "https://deepearthdreaming.world/2018/06/27/plant-dieta-the-practice-of-sacred-relating/"
+    },
+    {
+      "id": 6,
+      "title": "6. Giove, R. 2002. \"Medicinal Plants Used in the Amazonian Dieta,\" Phytotherapy Research 161:30–34. https://pubmed.ncbi.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34933085/"
+    },
+    {
+      "id": 7,
+      "title": "7. https://ayaadvisors.org/listing/templo-del-tigre/",
+      "url": "https://ayaadvisors.org/listing/templo-del-tigre/"
+    },
+    {
+      "id": 8,
+      "title": "8. https://www.apljourneys.com/master-plant-dieta-peru",
+      "url": "https://www.apljourneys.com/master-plant-dieta-peru"
+    }
+  ],
+  "icaros-songs-of-the-plants": [
+    {
+      "id": 1,
+      "title": "1. Black, S. 2014. Ícaros: The Healing Songs of Amazonian Curanderismo and Their Relationship to Jungian Psychology. Son",
+      "url": "https://onanyajoni.com/wp-content/uploads/2024/12/S.-Black-Icaro-Thesis-2014.pdf"
+    },
+    {
+      "id": 2,
+      "title": "2. Martin, B. n.d.. Woven Songs of the Amazon. Arte Amazonia. https://www.arte-amazonia.com/music/woven-songs-of-the-ama",
+      "url": "https://www.arte-amazonia.com/music/woven-songs-of-the-amazon/"
+    },
+    {
+      "id": 3,
+      "title": "3. Caya Shobo n.d.. Icaros—Healing Songs from the Master Plants. https://cayashobo.com/icaros/",
+      "url": "https://cayashobo.com/icaros/"
+    },
+    {
+      "id": 4,
+      "title": "4. Temple of the Way of Light n.d.. Ikaros: Sacred Healing Plant Songs of the Amazon. https://templeofthewayoflight.org/",
+      "url": "https://templeofthewayoflight.org/resources/ikaros-songs-of-the-plants/"
+    },
+    {
+      "id": 5,
+      "title": "5. Teixeira, E. L. 2018. Experiences of Listening to Icaros during Ayahuasca Ceremonies. Annals of the New York Academy ",
+      "url": "https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/anoc.12170"
+    },
+    {
+      "id": 6,
+      "title": "6. Etnikas Ayahuasca Retreats n.d.. Icaros – Sacred Energy Medicine Songs. https://etnikas.com/inca-cosmovision/icaros-s",
+      "url": "https://etnikas.com/inca-cosmovision/icaros-sacred-energy-medicine-songs/"
+    },
+    {
+      "id": 7,
+      "title": "7. The Ethnobotanical Assembly n.d.. French Plant Spirits. https://www.tea-assembly.com/issues/3/french-plant-spirits",
+      "url": "https://www.tea-assembly.com/issues/3/french-plant-spirits"
+    },
+    {
+      "id": 8,
+      "title": "8. Shipibo Shamans 2006. Woven Songs Of The Amazon. Spotify. https://open.spotify.com/album/2hI58jGz31IHkkNCyjlXDK",
+      "url": "https://open.spotify.com/album/2hI58jGz31IHkkNCyjlXDK"
+    },
+    {
+      "id": 9,
+      "title": "9. Luna, L.E. 1986. Vegetalismo—Shamanism among the Mestizo Population of the Peruvian Amazon. Working Paper. https://ww",
+      "url": "https://www.academia.edu/1144125/Vegetalismo_Shamanism_among_the_Mestizo_Population_of_the_Peruvian_Amazon"
+    }
+  ],
+  "limpias-floral-baths": [
+    {
+      "id": 1,
+      "title": "1. Luna, L.E. 1984. Vegetalismo: Shamanism among the mestizo population of the Peruvian Amazon. Stockholm Studies in Com",
+      "url": "https://libris.kb.se/bib/364589"
+    },
+    {
+      "id": 2,
+      "title": "2. Schultes, R.E. 1994. Amazonian ethnobotany and the search for new drugs. Ciba Found Symp, 185:106–12. DOI: 10.1002/97",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7736849/"
+    },
+    {
+      "id": 3,
+      "title": "3. da Silva, E.P., et al. 2024. Amazonian useful plants described in the book “Le Pays des Amazones.” Scientific Reports",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10897987/"
+    },
+    {
+      "id": 4,
+      "title": "4. Valadeau, C., et al. 2010. The healer’s practice: plant selection and knowledge among Amazonian populations. Journal ",
+      "url": "https://doi.org/10.1016/j.jep.2010.01.016"
+    },
+    {
+      "id": 5,
+      "title": "5. Rouhiainen, J. 2005. “The Shamanic Use of the Plant Bath in Amazonian Folk Healing.” Curare: Journal of Medical Anthr",
+      "url": "https://www.academia.edu/8515132/"
+    },
+    {
+      "id": 6,
+      "title": "6. Voeks, R.A. 2013. Ethnobotany of the Amazon. In: Ethnobotany of the Americas, Albuquerque & Hurrell, eds. Springer. D",
+      "url": "https://doi.org/10.1007/978-1-4614-6669-7_30"
+    },
+    {
+      "id": 7,
+      "title": "7. Bussmann, R.W., et al. 2011. Plant use in traditional Amazonian medicine: A literature review. Phytotherapy Research,",
+      "url": "https://doi.org/10.1002/ptr.3407"
+    },
+    {
+      "id": 8,
+      "title": "8. Shepard, G.H. 2004. A sensory ecology of medicinal plant therapy in two Amazonian societies. American Anthropologist,",
+      "url": "https://doi.org/10.1525/aa.2004.106.2.252"
+    },
+    {
+      "id": 9,
+      "title": "9. Frausin, G., et al. 2015. The ritual use of mock aromatic plant species in the Peruvian Amazon. Journal of Ethnobiolo",
+      "url": "https://doi.org/10.1186/s13002-015-0028-1"
+    },
+    {
+      "id": 10,
+      "title": "10. Voeks, R.A. 1996. Tropical forest healers and habitat preference. Economic Botany, 50:381–400. DOI: 10.1007/BF028665",
+      "url": "https://doi.org/10.1007/BF02866518"
+    }
+  ],
+  "prayer-intention-ceremony": [
+    {
+      "id": 1,
+      "title": "1. \"Plantas con madre\": plants that teach and guide in the shamanic initiation process and apprenticeship of traditional",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21295130/"
+    },
+    {
+      "id": 2,
+      "title": "2. Amazonian Medicine and the Psychedelic Revival. https://pmc.ncbi.nlm.nih.gov/articles/PMC8210416/",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8210416/"
+    },
+    {
+      "id": 3,
+      "title": "3. The Amazonian Plant Teacher – EthnoPharm. https://ethnopharm.com/the-amazonian-plant-teacher/",
+      "url": "https://ethnopharm.com/the-amazonian-plant-teacher/"
+    },
+    {
+      "id": 4,
+      "title": "4. How Indigenous youth are Safeguarding Amazon Plant Knowledge. https://amazonfrontlines.org/chronicles/indigenous-yout",
+      "url": "https://amazonfrontlines.org/chronicles/indigenous-youth-knowledge/"
+    },
+    {
+      "id": 5,
+      "title": "5. People and Plants: Ethnobotany in the 21st century, McKenna Academy. https://mckenna.academy/course/an-introduction-t",
+      "url": "https://mckenna.academy/course/an-introduction-to-ethnobotany/"
+    },
+    {
+      "id": 6,
+      "title": "6. The 'enigma' of Richard Schultes, Amazonian hallucinogenic plants, and the limits of ethnobotany. https://journals.sa",
+      "url": "https://journals.sagepub.com/doi/10.1177/0306312720920362"
+    }
+  ],
+  "vaporations-steam-baths": [
+    {
+      "id": 1,
+      "title": "1. Singing to the Plants 2007. \"Steam Baths.\" https://singingtotheplants.com/2007/12/steam-baths/",
+      "url": "https://singingtotheplants.com/2007/12/steam-baths/"
+    },
+    {
+      "id": 2,
+      "title": "2. Ayahuasca Foundation 2021. \"Shipibo Vapor Bath: Health Benefits.\" https://www.ayahuascafoundation.org/shipibo-vapor-b",
+      "url": "https://www.ayahuascafoundation.org/shipibo-vapor-bath-health-benefits-of-this-powerful-plant-medicine-treatment/"
+    },
+    {
+      "id": 3,
+      "title": "3. Illakuntur Travel 2023. \"Ancestral Purification: Steam Bath with Medicinal Plants.\" https://illakunturtravel.com/blog",
+      "url": "https://illakunturtravel.com/blog/steam-bath-medicinal-plants/"
+    },
+    {
+      "id": 4,
+      "title": "4. Caya Shobo 2024. \"Shipibo Natural Remedies.\" https://cayashobo.com/natural-remedies/",
+      "url": "https://cayashobo.com/natural-remedies/"
+    },
+    {
+      "id": 5,
+      "title": "5. Barefoot Expeditions 2023. \"Healing Plants and Traditional Medicine Of Ecuador.\" https://www.barefootexpeditions.com/",
+      "url": "https://www.barefootexpeditions.com/healing-plants-and-traditional-medicine-of-ecuador/"
+    },
+    {
+      "id": 6,
+      "title": "6. Global Family Doctor 2021. \"Peruvian Traditional Andino-Amazonian Medicine.\" https://www.globalfamilydoctor.com/News/",
+      "url": "https://www.globalfamilydoctor.com/News/PeruvianTraditionalAndino-AmazonianMedicine.aspx"
+    },
+    {
+      "id": 7,
+      "title": "7. Amazon Learning 2023. \"Traditional Amazonian Medicine Journey.\" http://www.amazonlearning.org/amazonian-medicine-jour",
+      "url": "http://www.amazonlearning.org/amazonian-medicine-journey"
+    },
+    {
+      "id": 8,
+      "title": "8. HerbalGram 1992. \"Healing in the Rain Forest: Medicinal and Toxic Plants.\" https://www.herbalgram.org/resources/herba",
+      "url": "https://www.herbalgram.org/resources/herbalgram/issues/24/table-of-contents/article680/"
+    }
+  ],
   "ambil": [
     {
       "id": 1,
       "title": "**Citation:** Yaogará Research Initiative 2025. *Ambil Traditional Amazonian Tobacco Paste.* Yaogará Ark Research Archiv",
       "url": "https://ark.yaogara.org/preparations/ambil>"
+    }
+  ],
+  "chicha-fermented-maize": [
+    {
+      "id": 1,
+      "title": "1. Kuoda Travel. “Chicha: The Ancient Andean Beverage That Connects Peru’s Past,” https://www.kuodatravel.com/blog/chich",
+      "url": "https://www.kuodatravel.com/blog/chicha-andean-beverage/"
+    },
+    {
+      "id": 2,
+      "title": "2. Amazon Cruise Network. “Chicha | Amazon Rainforest Info,” https://www.amazoncruise.net/how-is-chicha-made/",
+      "url": "https://www.amazoncruise.net/how-is-chicha-made/"
+    },
+    {
+      "id": 3,
+      "title": "3. Palotoa Amazon Travel. “Chicha Drink in the Amazon: History, Preparation and Culture,” https://palotoaamazontravel.co",
+      "url": "https://palotoaamazontravel.com/chicha-drink-in-the-amazon-history-preparation-and-culture/"
+    },
+    {
+      "id": 4,
+      "title": "4. Mayorga Coffee. “What is Chicha? The Legend and Legacy of a Latin American Beverage,” https://mayorgacoffee.com/blogs",
+      "url": "https://mayorgacoffee.com/blogs/news/what-is-chicha"
+    },
+    {
+      "id": 5,
+      "title": "5. We the Eaters. “Chicha: A Gold Fermented Beverage From The Pachamama To Your Glass,” https://www.wetheeaters.com/2014",
+      "url": "https://www.wetheeaters.com/2014/09/chicha-a-gold-fermented-beverage-from-the-pachamama-to-your-glass/"
+    },
+    {
+      "id": 6,
+      "title": "6. Visit Latin America. “Tasting Chicha: a journey into the heart of Latin American traditions,” https://visit-latin-ame",
+      "url": "https://visit-latin-america.com/en/tasting-chicha-a-journey-into-the-heart-of-latin-american-traditions/"
+    }
+  ],
+  "kambo-frog-medicine": [
+    {
+      "id": 1,
+      "title": "1. https://en.wikipedia.org/wiki/Kambo_drug",
+      "url": "https://en.wikipedia.org/wiki/Kambo_(drug"
+    },
+    {
+      "id": 2,
+      "title": "2. https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.997318/full",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.997318/full"
+    },
+    {
+      "id": 3,
+      "title": "3. https://www.nature.com/articles/s41598-020-78527-4",
+      "url": "https://www.nature.com/articles/s41598-020-78527-4"
+    },
+    {
+      "id": 4,
+      "title": "4. https://pmc.ncbi.nlm.nih.gov/articles/PMC11833272/",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11833272/"
+    },
+    {
+      "id": 5,
+      "title": "5. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4582952/",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4582952/"
+    },
+    {
+      "id": 6,
+      "title": "6. https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/Kambo",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/Kambo"
+    },
+    {
+      "id": 7,
+      "title": "7. https://www.healthline.com/health/kambo",
+      "url": "https://www.healthline.com/health/kambo"
+    },
+    {
+      "id": 8,
+      "title": "8. https://www.medicalnewstoday.com/articles/323689",
+      "url": "https://www.medicalnewstoday.com/articles/323689"
     }
   ],
   "mambe": [
@@ -2368,6 +2709,152 @@
       "id": 2,
       "title": "**Citation:** Yaogará Research Initiative 2025. *Mambe Traditional Amazonian Coca Preparation.* Yaogará Ark Research Arc",
       "url": "https://ark.yaogara.org/preparations/mambe>"
+    }
+  ],
+  "rape-snuff": [
+    {
+      "id": 1,
+      "title": "1. Altar Origin. n.d.. Rapé: The Sacred Snuff of the Amazon Rainforest. https://altarorigin.com/en-usa/blogs/blog/rape-t",
+      "url": "https://altarorigin.com/en-usa/blogs/blog/rape-the-sacred-snuff-of-the-amazon-rainforest"
+    },
+    {
+      "id": 2,
+      "title": "2. Herbal Dimensions. n.d.. What is Rapè, the Jungle Snuff? https://www.herbaldimensions.com/blogs/news/what-is-rape",
+      "url": "https://www.herbaldimensions.com/blogs/news/what-is-rape"
+    },
+    {
+      "id": 3,
+      "title": "3. Shamanic Supply. n.d.. What Is Rapé Hapé Medicine? Benefits & How-To. https://shamanicsupply.com/pages/what-is-rapeh",
+      "url": "https://shamanicsupply.com/pages/what-is-rapeh"
+    },
+    {
+      "id": 4,
+      "title": "4. Elephantos Amsterdam. n.d.. Rapé, the Sacred Snuff of the Amazon. https://www.elephantos.com/en/blog/rap%C3%A9-the-sa",
+      "url": "https://www.elephantos.com/en/blog/rap%C3%A9-the-sacred-snuff-of-the-amazon.html"
+    },
+    {
+      "id": 5,
+      "title": "5. da Silva, J.T., et al. 2017. Comprehensive Chemical Characterization of Rapé Tobacco Products: Nicotiana Species Used",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5704902/"
+    },
+    {
+      "id": 6,
+      "title": "6. Maia, L., et al. 2023. Indigenous-Amazonian Traditional Medicine's Usage of the Tobacco Plant Nicotiana rustica L.: M",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9863029/"
+    },
+    {
+      "id": 7,
+      "title": "7. Maya Herbs. n.d.. Shamanic Snuff | Amazon | Native Blend. https://mayaherbs.com/rapeh/shamanic-snuff/amazon/",
+      "url": "https://mayaherbs.com/rapeh/shamanic-snuff/amazon/"
+    },
+    {
+      "id": 8,
+      "title": "8. Sacred Snuff. n.d.. Shawãdawa Rapé: Sacred Snuff & Traditions of the Macaw People. https://sacred-snuff.com/product-c",
+      "url": "https://sacred-snuff.com/product-category/sacred-snuff-rape/shawadawa/"
+    },
+    {
+      "id": 9,
+      "title": "9. Sacred Blend. n.d.. Huni Kuin Rapé Joy. https://sacred-blend.com/product/huni-kuin-rape-joy/",
+      "url": "https://sacred-blend.com/product/huni-kuin-rape-joy/"
+    },
+    {
+      "id": 10,
+      "title": "10. Sacred Snuff. n.d.. Caboclo Rapé - Amazon Green. https://sacred-snuff.com/product/caboclo-rape-amazon-green/",
+      "url": "https://sacred-snuff.com/product/caboclo-rape-amazon-green/"
+    }
+  ],
+  "rapeh-mapacho-blends": [
+    {
+      "id": 1,
+      "title": "1. Katukina. \"What is Rapé\" https://katukina.com/doc/rape",
+      "url": "https://katukina.com/doc/rape"
+    },
+    {
+      "id": 2,
+      "title": "2. Nature’s Pharmatropia. \"Rapé | Hapé Therapeutic Potential\" https://pharmatropia.com/rape-hape-therapeutic-potential/",
+      "url": "https://pharmatropia.com/rape-hape-therapeutic-potential/"
+    },
+    {
+      "id": 3,
+      "title": "3. Spirit Visions. \"What Is Hapé? Sacred Amazonian Snuff for Spiritual Clarity\" https://spiritvisions.us/pages/what-is-h",
+      "url": "https://spiritvisions.us/pages/what-is-hape"
+    },
+    {
+      "id": 4,
+      "title": "4. Shamans Market. \"Tools of Sacred Plant Medicine Rapé\" https://www.shamansmarket.com/blogs/musings/tools-of-sacred-pla",
+      "url": "https://www.shamansmarket.com/blogs/musings/tools-of-sacred-plant-medicine-rape"
+    },
+    {
+      "id": 5,
+      "title": "5. Next Level Smartshop. \"Picking a Shamanic Rapé Blend You’ll Love\" https://nextlevelsmart.nl/gb/blog/post/61-picking-a",
+      "url": "https://nextlevelsmart.nl/gb/blog/post/61-picking-a-shamanic-rape-blend-youll-love.html"
+    },
+    {
+      "id": 6,
+      "title": "6. Elferink, J. G. \"The narcotic and pleasurable use of tobacco in pre-Columbian America.\" Journal of Ethnopharmacology,",
+      "url": "https://doi.org/10.1016/0378-8741(83"
+    },
+    {
+      "id": 7,
+      "title": "7. Herraiz, T., et al. \"Beta-carbolines in tobacco and inhibition of monoamine oxidase MAO.\" Food and Chemical Toxicolog",
+      "url": "https://doi.org/10.1016/j.fct.2005.03.017"
+    },
+    {
+      "id": 8,
+      "title": "8. Russel, P. & Rahman, S. Z. \"Use of tobacco as a medicine.\" Indian Journal of Medical Research, 2015. https://www.ncbi",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4937022/"
+    },
+    {
+      "id": 9,
+      "title": "9. Janiger, O., et al. \"Harman and norharman content of North and South American tobacco.\" Nature, 1973. https://doi.org",
+      "url": "https://doi.org/10.1038/241171a0"
+    },
+    {
+      "id": 10,
+      "title": "10. Curtis, G. E. \"Tobacco in the Americas before 1492.\" American Anthropologist, 1935. https://www.jstor.org/stable/661",
+      "url": "https://www.jstor.org/stable/661529"
+    }
+  ],
+  "sananga-eye-drops": [
+    {
+      "id": 1,
+      "title": "https://altarorigin.com/en-usa/blogs/news/sananga-the-sacred-eye-drops-of-the-amazon",
+      "url": "https://altarorigin.com/en-usa/blogs/news/sananga-the-sacred-eye-drops-of-the-amazon"
+    },
+    {
+      "id": 2,
+      "title": "https://memorycherish.com/sananga-amazonian-medicine-tribal-healing/",
+      "url": "https://memorycherish.com/sananga-amazonian-medicine-tribal-healing/"
+    },
+    {
+      "id": 3,
+      "title": "https://www.shamanscave.co.uk/post/sananga-the-sacred-eye-drops-of-the-amazon-for-vision-clarity-and-spiritual-healing",
+      "url": "https://www.shamanscave.co.uk/post/sananga-the-sacred-eye-drops-of-the-amazon-for-vision-clarity-and-spiritual-healing"
+    },
+    {
+      "id": 4,
+      "title": "https://www.andrewbarnes.org/post/benefits-of-a-sananga-spiritual-ceremony",
+      "url": "https://www.andrewbarnes.org/post/benefits-of-a-sananga-spiritual-ceremony"
+    },
+    {
+      "id": 5,
+      "title": "https://masterplanretreat.com/what-is-sananga/",
+      "url": "https://masterplanretreat.com/what-is-sananga/"
+    },
+    {
+      "id": 6,
+      "title": "https://en.wikipedia.org/wiki/Tabernaemontana_undulata",
+      "url": "https://en.wikipedia.org/wiki/Tabernaemontana_undulata"
+    },
+    {
+      "id": 7,
+      "title": "https://amazonianplants.com/shop/sananga-eye-drops/",
+      "url": "https://amazonianplants.com/shop/sananga-eye-drops/"
+    },
+    {
+      "id": 8,
+      "title": "https://mayaherbs.com/ethnobotanicals/sananga/",
+      "url": "https://mayaherbs.com/ethnobotanicals/sananga/"
     }
   ],
   "ayahuasca-summary": [
@@ -2425,6 +2912,221 @@
       "id": 11,
       "title": "**Citation:** Yaogará Research Initiative 2025. *Ayahuasca Overview*. Yaogará Ark Research Archive. https://ark.yaogara.",
       "url": "https://ark.yaogara.org/summaries/ayahuasca-summary"
+    }
+  ],
+  "andean-coca-ceremonies": [
+    {
+      "id": 1,
+      "title": "1. https://mysteriousadventurestours.com/the-coca-leaf-ceremony-in-the-heart-of-the-andes/",
+      "url": "https://mysteriousadventurestours.com/the-coca-leaf-ceremony-in-the-heart-of-the-andes/"
+    },
+    {
+      "id": 2,
+      "title": "2. https://earthstoriez.com/coca-in-south-american-tradition-social-and-ritual-uses",
+      "url": "https://earthstoriez.com/coca-in-south-american-tradition-social-and-ritual-uses"
+    },
+    {
+      "id": 3,
+      "title": "3. https://www.inkaterra.com/blog/coca-leaf-reading/",
+      "url": "https://www.inkaterra.com/blog/coca-leaf-reading/"
+    },
+    {
+      "id": 4,
+      "title": "4. https://www.peru.travel/en/masperu/ancestral-wellness-in-peru-rituals-coca-leaf-readings-and-yoga-retreats",
+      "url": "https://www.peru.travel/en/masperu/ancestral-wellness-in-peru-rituals-coca-leaf-readings-and-yoga-retreats"
+    },
+    {
+      "id": 5,
+      "title": "5. https://www.salkantaytrekking.com/blog/pachamama-ceremonies-offerings-rituals/",
+      "url": "https://www.salkantaytrekking.com/blog/pachamama-ceremonies-offerings-rituals/"
+    },
+    {
+      "id": 6,
+      "title": "6. https://armsofandes.com/blogs/news/10-traditional-practices-from-cusco-that-honor-nature-and-sustainability",
+      "url": "https://armsofandes.com/blogs/news/10-traditional-practices-from-cusco-that-honor-nature-and-sustainability"
+    },
+    {
+      "id": 7,
+      "title": "7. https://www.peru-explorer.com/discover-traditional-andean-ceremonies-sacred-rituals.htm",
+      "url": "https://www.peru-explorer.com/discover-traditional-andean-ceremonies-sacred-rituals.htm"
+    },
+    {
+      "id": 8,
+      "title": "8. https://www.encuentrosperuadventure.com/coca-leaves-peru-traditional-uses/",
+      "url": "https://www.encuentrosperuadventure.com/coca-leaves-peru-traditional-uses/"
+    }
+  ],
+  "ashaninka-plant-dietas": [
+    {
+      "id": 1,
+      "title": "1. Hvalkof, S. 2006. Substances, relationships and the omnipresence of the body. Annals of the New York Academy of Scien",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1654146/"
+    },
+    {
+      "id": 2,
+      "title": "2. Alonso, Laura. 2011. \"Plantas con madre\": plants that teach and guide in the shamanic initiation process and practice",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21295130/"
+    },
+    {
+      "id": 3,
+      "title": "3. Casa de Pawua. Ashaninka medicine - our lineage. https://casadepawua.com/about/lineage",
+      "url": "https://casadepawua.com/about/lineage"
+    },
+    {
+      "id": 4,
+      "title": "4. Arkana International. Ayahuasca: Your Complete Guide to Sacred Plant Medicine Healing. https://www.arkanainternationa",
+      "url": "https://www.arkanainternational.com/ayahuasca"
+    },
+    {
+      "id": 5,
+      "title": "5. APL Journeys. Teacher-Plant Dieta | With APL Retreats in Peru. https://www.apljourneys.com/master-plant-dieta-peru",
+      "url": "https://www.apljourneys.com/master-plant-dieta-peru"
+    },
+    {
+      "id": 6,
+      "title": "6. Medicuna Mama Healing. Master Plant Dietas. https://medicunamamahealing.com/master-plant-dietas/",
+      "url": "https://medicunamamahealing.com/master-plant-dietas/"
+    },
+    {
+      "id": 7,
+      "title": "7. Roseman, M. et al. 2021. Amazonian Medicine and the Psychedelic Revival. Frontiers in Pharmacology, 12: 639124. DOI:1",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.639124/full"
+    }
+  ],
+  "inga-cofan-healers": [
+    {
+      "id": 1,
+      "title": "https://eldp.access.preservica.com/dk0717/1",
+      "url": "https://eldp.access.preservica.com/dk0717/[1]"
+    },
+    {
+      "id": 2,
+      "title": "https://news.mongabay.com/2020/11/indigenous-colombians-mount-a-spiritual-defense-of-the-amazon/2",
+      "url": "https://news.mongabay.com/2020/11/indigenous-colombians-mount-a-spiritual-defense-of-the-amazon/[2]"
+    },
+    {
+      "id": 3,
+      "title": "https://www.culturalsurvival.org/news/koef-partner-spotlight-union-de-medicos-yageceros-de-la-amazonia-colombiana3",
+      "url": "https://www.culturalsurvival.org/news/koef-partner-spotlight-union-de-medicos-yageceros-de-la-amazonia-colombiana[3]"
+    },
+    {
+      "id": 4,
+      "title": "https://yaogara.com/blog/yage-ayahuasca/4",
+      "url": "https://yaogara.com/blog/yage-ayahuasca/[4]"
+    },
+    {
+      "id": 5,
+      "title": "https://www.lucid.news/indigenous-healers-fundraise-to-combat-cultural-destruction/5",
+      "url": "https://www.lucid.news/indigenous-healers-fundraise-to-combat-cultural-destruction/[5]"
+    },
+    {
+      "id": 6,
+      "title": "https://delamazonas.com/en/rainforest-people/cofan/6",
+      "url": "https://delamazonas.com/en/rainforest-people/cofan/[6]"
+    },
+    {
+      "id": 7,
+      "title": "https://manuelacabrales.com/pages/inga7",
+      "url": "https://manuelacabrales.com/pages/inga[7]"
+    },
+    {
+      "id": 8,
+      "title": "8. Fernández Vargas, Wendy Katherine. 2023. A’ingae. Endangered Languages Archive. Handle: http://hdl.handle.net/2196/p0",
+      "url": "http://hdl.handle.net/2196/p09h4951-1611-8k1g-021g-g6e10121115d[1]."
+    }
+  ],
+  "shipibo-conibo-tradition": [
+    {
+      "id": 1,
+      "title": "1. Shipibo Tradition and Technology | La Medicina. https://la-medicina.com/shipibo-tradition/",
+      "url": "https://la-medicina.com/shipibo-tradition/"
+    },
+    {
+      "id": 2,
+      "title": "2. Shipibo-Conibo | Wikipedia. https://en.wikipedia.org/wiki/Shipibo-Conibo",
+      "url": "https://en.wikipedia.org/wiki/Shipibo-Conibo"
+    },
+    {
+      "id": 3,
+      "title": "3. Shipibo-Konibo of the Ucayali River | Tribal Trust Foundation. https://tribaltrustfoundation.org/collaborations/shipi",
+      "url": "https://tribaltrustfoundation.org/collaborations/shipibo-konibo/"
+    },
+    {
+      "id": 4,
+      "title": "4. Why We Must Listen to Shipibo-Conibo Leaders | ZombieMyco. https://zombiemyco.com/blogs/mushrooms/why-we-must-listen-",
+      "url": "https://zombiemyco.com/blogs/mushrooms/why-we-must-listen-to-shipibo-conibo-leaders-an-insight-into-ayahuasca-plant-medicines-and-indigenous-stewardship"
+    },
+    {
+      "id": 5,
+      "title": "5. Traditional Master Plant Dieta | Shipibo Rao, Temple of the Way of Light. https://templeofthewayoflight.org/retreats/",
+      "url": "https://templeofthewayoflight.org/retreats/plant-dietas-at-shipibo-rao/"
+    },
+    {
+      "id": 6,
+      "title": "6. Shipibo Family Tradition | Ayahuasca Foundation. https://www.ayahuascafoundation.org/information/ayahuasca-tradition/",
+      "url": "https://www.ayahuascafoundation.org/information/ayahuasca-tradition/shipibo-family-tradition/"
+    },
+    {
+      "id": 7,
+      "title": "7. The Shipibo Tribe of the Ucayali River | Aya Healing Retreats. https://ayahealingretreats.com/shipibo-tribe/",
+      "url": "https://ayahealingretreats.com/shipibo-tribe/"
+    },
+    {
+      "id": 8,
+      "title": "8. Shipibo Culture: Ayahuasca Tradition, Art, and Spiritual Healing | APL Journeys. https://www.apljourneys.com/shipibo-",
+      "url": "https://www.apljourneys.com/shipibo-culture"
+    },
+    {
+      "id": 9,
+      "title": "9. Shipibo People - The Masters of Ayahuasca Healing | Caya Shobo. https://cayashobo.com/shipibo-people/",
+      "url": "https://cayashobo.com/shipibo-people/"
+    },
+    {
+      "id": 10,
+      "title": "10. Shipibo-Konibo | Xapiri Ground. https://www.xapiriground.org/indigenous-heritage/shipibo-konibo",
+      "url": "https://www.xapiriground.org/indigenous-heritage/shipibo-konibo"
+    }
+  ],
+  "tukano-cosmology-yaje": [
+    {
+      "id": 1,
+      "title": "1. Cosmovisions Shop. The Divine Birth of Ayahuasca: Myths on the Visionary Vine. https://cosmovisions.shop/blogs/psyche",
+      "url": "https://cosmovisions.shop/blogs/psychedelic-plants/the-divine-birth-of-ayahuasca-myths-on-the-visionary-vine"
+    },
+    {
+      "id": 2,
+      "title": "2. ZA Studio. Yagé and the Tukano. https://www.za.studio/work-practice-project/yage-and-the-tukano",
+      "url": "https://www.za.studio/work-practice-project/yage-and-the-tukano"
+    },
+    {
+      "id": 3,
+      "title": "3. The Collector. Yuruparí: Jaguar Shamans of the Amazon Rainforest. https://www.thecollector.com/yurupari-jaguar-shaman",
+      "url": "https://www.thecollector.com/yurupari-jaguar-shamans-amazon-rainforest/"
+    },
+    {
+      "id": 4,
+      "title": "4. Reichel-Dolmatoff, G. 1971. Amazonian Cosmos: The Sexual and Religious Symbolism of the Tukano Indians. https://ayahu",
+      "url": "https://ayahuasca-timeline.kahpi.net/dolmatoff-amazonian-cosmos-tukano-yage/"
+    },
+    {
+      "id": 5,
+      "title": "5. eHRAF World Cultures. Eastern Tukanoan—Summary Culture ID: SQ19. https://ehrafworldcultures.yale.edu/cultures/sq19/su",
+      "url": "https://ehrafworldcultures.yale.edu/cultures/sq19/summary"
+    },
+    {
+      "id": 6,
+      "title": "6. Povos Indígenas no Brasil. Tukano. https://pib.socioambiental.org/en/Povo:Tukano",
+      "url": "https://pib.socioambiental.org/en/Povo:Tukano"
+    },
+    {
+      "id": 7,
+      "title": "7. Cultural Survival. Ayahuasca: Shamanism Shared Across Cultures. https://www.culturalsurvival.org/publications/cultura",
+      "url": "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/ayahuasca-shamanism-shared-across-cultures"
+    },
+    {
+      "id": 8,
+      "title": "8. Journal of Political Ecology. Article resource. https://journals.librarypublishing.arizona.edu/jpe/article/2245/galle",
+      "url": "https://journals.librarypublishing.arizona.edu/jpe/article/2245/galley/2454/view/"
     }
   ]
 }

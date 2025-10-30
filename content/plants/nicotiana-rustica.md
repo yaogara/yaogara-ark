@@ -1,26 +1,11 @@
 ---
-title: Nicotiana rustica (Mapacho Tobacco)
-aliases:
-  - Mapacho
-  - Mapacho Tobacco
-  - Aztec tobacco
-  - Wild tobacco
-  - Makhorka
-  - Rustica
-summary: 'High-alkaloid Amazonian tobacco central to Indigenous ritual practice, noted for potent nicotine content, diverse preparations, and ongoing biocultural significance.'
-tags:
-  - Nicotiana rustica
-  - Mapacho
-  - tobacco
-  - teacher plants
-  - ethnobotany
-  - Amazonia
-  - Andes
-  - phytochemistry
-  - shamanism
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Nicotiana rustica (Mapacho Tobacco)"
+aliases: ["Mapacho", "Mapacho Tobacco", "Aztec tobacco", "Wild tobacco", "Makhorka", "Rustica"]
+summary: "High-alkaloid Amazonian tobacco central to Indigenous ritual practice, noted for potent nicotine content, diverse preparations, and ongoing biocultural significance."
+tags: ["Nicotiana rustica", "Mapacho", "tobacco", "teacher plants", "ethnobotany", "Amazonia", "Andes", "phytochemistry", "shamanism"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the **Yaogará Ark**, a living archive of Amazonian teacher plants.*

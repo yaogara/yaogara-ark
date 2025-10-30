@@ -1,23 +1,11 @@
 ---
-title: Piper aduncum (Matico)
-aliases:
-  - Matico
-  - Spiked pepper
-summary: 'A widely distributed Amazonian Piperaceae shrub valued for topical antiseptic and wound-healing uses; rich in essential oils (notably dillapiole) with documented antimicrobial, anti-inflammatory, and insecticidal activities.'
-tags:
-  - Piper aduncum
-  - Matico
-  - Piperaceae
-  - ethnobotany
-  - Amazonia
-  - medicinal plants
-  - essential oils
-  - antimicrobial
-  - wound care
-  - traditional medicine
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Piper aduncum (Matico)"
+aliases: ["Matico", "Spiked pepper"]
+summary: "A widely distributed Amazonian Piperaceae shrub valued for topical antiseptic and wound-healing uses; rich in essential oils (notably dillapiole) with documented antimicrobial, anti-inflammatory, and insecticidal activities."
+tags: ["Piper aduncum", "Matico", "Piperaceae", "ethnobotany", "Amazonia", "medicinal plants", "essential oils", "antimicrobial", "wound care", "traditional medicine"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied materia medica.*

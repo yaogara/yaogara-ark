@@ -5,6 +5,7 @@ summary: "Ethnobotanical overview of ceremonial coca use in the Andes—its bota
 tags: ["Erythroxylum coca", "coca", "Andes", "Quechua", "Aymara", "teacher plants", "rituals", "divination", "Pachamama", "ayni", "ethnobotany"]
 date: 2025-10-30
 license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-30
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Andean and Amazonian teacher plants.*

@@ -1,21 +1,11 @@
 ---
-title: Banisteriopsis muricata (Ayahuasca Variant)
-aliases:
-  - Red Ayahuasca Vine
-  - Red Caapi
-  - Yagé
-  - Banisteriopsis muricata
-summary: 'A red-hued ayahuasca vine closely related to Banisteriopsis caapi, used in Western Amazonian pharmacologies; notable for β‑carboline content, ceremonial significance, and emerging conservation concerns.'
-tags:
-  - ayahuasca
-  - Banisteriopsis muricata
-  - teacher plants
-  - Malpighiaceae
-  - ethnobotany
-  - Amazonia
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Banisteriopsis muricata (Ayahuasca Variant)"
+aliases: ["Red Ayahuasca Vine", "Red Caapi", "Yagé", "Banisteriopsis muricata"]
+summary: "A red-hued ayahuasca vine closely related to Banisteriopsis caapi, used in Western Amazonian pharmacologies; notable for β‑carboline content, ceremonial significance, and emerging conservation concerns."
+tags: ["ayahuasca", "Banisteriopsis muricata", "teacher plants", "Malpighiaceae", "ethnobotany", "Amazonia"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

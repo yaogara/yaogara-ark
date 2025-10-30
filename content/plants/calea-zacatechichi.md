@@ -1,21 +1,11 @@
 ---
-title: Calea zacatechichi (Dream Herb)
-aliases:
-  - Dream Herb
-  - Calea ternifolia
-  - Zacatechichi
-summary: 'Oneirogenic shrub of the Asteraceae, traditionally employed by the Chontal of Oaxaca to induce clarifying dreams for divination and diagnosis; contemporary research highlights sesquiterpene lactones and germacranolides as candidate bioactives influencing sleep and dream phenomenology.'
-tags:
-  - Calea zacatechichi
-  - dream herb
-  - oneirogens
-  - Asteraceae
-  - ethnobotany
-  - Mesoamerica
-  - Mexico
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Calea zacatechichi (Dream Herb)"
+aliases: ["Dream Herb", "Calea ternifolia", "Zacatechichi"]
+summary: "Oneirogenic shrub of the Asteraceae, traditionally employed by the Chontal of Oaxaca to induce clarifying dreams for divination and diagnosis; contemporary research highlights sesquiterpene lactones and germacranolides as candidate bioactives influencing sleep and dream phenomenology."
+tags: ["Calea zacatechichi", "dream herb", "oneirogens", "Asteraceae", "ethnobotany", "Mesoamerica", "Mexico"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian and Mesoamerican teacher plants.*

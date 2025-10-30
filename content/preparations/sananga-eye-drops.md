@@ -5,6 +5,7 @@ summary: "Topical eye-drop medicine prepared from the roots and bark of Tabernae
 tags: ["sananga", "Tabernaemontana undulata", "Apocynaceae", "teacher plants", "ethnobotany", "Amazonia", "eye drops", "Yawanawá", "Huni Kuin", "Matsés"]
 date: 2025-10-30
 license: "CC BY-SA 4.0 – Yaogará Ark — a living ethnobotanical research archive"
+lastmod: 2025-10-30
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied practices.*

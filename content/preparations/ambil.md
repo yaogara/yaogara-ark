@@ -5,6 +5,7 @@ summary: "Ambil is a sacred Amazonian preparation made from Nicotiana rustica le
 tags: ["ambil", "tobacco", "Nicotiana rustica", "teacher plants", "ethnobotany", "Amazon", "Tukano", "Witoto", "preparations"]
 date: 2025-10-29
 license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-29
 ---
 
 ## Introduction

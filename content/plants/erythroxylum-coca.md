@@ -1,21 +1,11 @@
 ---
-title: Erythroxylum coca (Coca Leaf)
-aliases:
-  - Coca leaf
-  - Mama coca
-  - Amazonian coca (ipadu)
-  - Erythroxylon coca
-summary: 'Sacred Andean and Amazonian shrub whose leaves sustain endurance, ritual exchange, and healing; distinct in traditional use and chemistry from illicit derivatives.'
-tags:
-  - Erythroxylum coca
-  - coca
-  - teacher plants
-  - Andes
-  - stimulants
-  - ethnobotany
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Erythroxylum coca (Coca Leaf)"
+aliases: ["Coca leaf", "Mama coca", "Amazonian coca (ipadu)", "Erythroxylon coca"]
+summary: "Sacred Andean and Amazonian shrub whose leaves sustain endurance, ritual exchange, and healing; distinct in traditional use and chemistry from illicit derivatives."
+tags: ["Erythroxylum coca", "coca", "teacher plants", "Andes", "stimulants", "ethnobotany"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

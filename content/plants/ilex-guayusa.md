@@ -1,22 +1,11 @@
 ---
-title: Ilex guayusa (Guayusa Leaf)
-aliases:
-  - Guayusa
-  - Wayusa
-  - Ilex guayusa
-summary: 'Amazonian caffeinated holly central to dawn ritual teas, communal dreaming, and Indigenous agroforestry in the western Amazon.'
-tags:
-  - Ilex guayusa
-  - guayusa
-  - holly
-  - Amazon
-  - stimulants
-  - ethnobotany
-  - teacher plants
-  - agroforestry
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Ilex guayusa (Guayusa Leaf)"
+aliases: ["Guayusa", "Wayusa", "Ilex guayusa"]
+summary: "Amazonian caffeinated holly central to dawn ritual teas, communal dreaming, and Indigenous agroforestry in the western Amazon."
+tags: ["Ilex guayusa", "guayusa", "holly", "Amazon", "stimulants", "ethnobotany", "teacher plants", "agroforestry"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

@@ -1,23 +1,11 @@
 ---
-title: Turnera diffusa (Damiana)
-aliases:
-  - Damiana
-  - Turnera aphrodisiaca
-  - Oreganillo
-  - Yerba de la Pastora
-  - Mexican damiana
-summary: 'Aromatic shrub of Passifloraceae native to Mesoamerica and the Caribbean, long used as a vitality tonic and aphrodisiac; contemporary studies report flavonoid- and terpenoid-mediated neuropharmacology.'
-tags:
-  - Turnera diffusa
-  - damiana
-  - ethnobotany
-  - aphrodisiac
-  - Passifloraceae
-  - Mesoamerica
-  - phytochemistry
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Turnera diffusa (Damiana)"
+aliases: ["Damiana", "Turnera aphrodisiaca", "Oreganillo", "Yerba de la Pastora", "Mexican damiana"]
+summary: "Aromatic shrub of Passifloraceae native to Mesoamerica and the Caribbean, long used as a vitality tonic and aphrodisiac; contemporary studies report flavonoid- and terpenoid-mediated neuropharmacology."
+tags: ["Turnera diffusa", "damiana", "ethnobotany", "aphrodisiac", "Passifloraceae", "Mesoamerica", "phytochemistry"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian and pan-American teacher plants and allied materia medica.*

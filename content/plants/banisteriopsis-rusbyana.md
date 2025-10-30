@@ -1,25 +1,11 @@
 ---
-title: Banisteriopsis rusbyana (Tucunacá)
-aliases:
-  - Diplopterys cabrerana
-  - Tucunacá
-  - Chaliponga
-  - Chagropanga
-  - Chalipanga
-  - Rubyana yagé
-summary: 'Woody liana of western Amazonia whose leaves are a principal tryptamine-rich admixture to [[preparations/ayahuasca]]; known among Indigenous and mestizo practitioners as tucunacá, chaliponga, or chagropanga.'
-tags:
-  - ayahuasca
-  - Banisteriopsis rusbyana
-  - Diplopterys cabrerana
-  - teacher plants
-  - Malpighiaceae
-  - ethnobotany
-  - tryptamines
-  - Amazonia
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Banisteriopsis rusbyana (Tucunacá)"
+aliases: ["Diplopterys cabrerana", "Tucunacá", "Chaliponga", "Chagropanga", "Chalipanga", "Rubyana yagé"]
+summary: "Woody liana of western Amazonia whose leaves are a principal tryptamine-rich admixture to [[preparations/ayahuasca]]; known among Indigenous and mestizo practitioners as tucunacá, chaliponga, or chagropanga."
+tags: ["ayahuasca", "Banisteriopsis rusbyana", "Diplopterys cabrerana", "teacher plants", "Malpighiaceae", "ethnobotany", "tryptamines", "Amazonia"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

@@ -1,22 +1,11 @@
 ---
-title: Desmodium gangeticum (Bora Bora)
-aliases:
-  - Bora Bora
-  - Shalaparni
-  - Salaparni
-  - Desmodium gangeticum
-summary: 'A perennial Fabaceae shrub valued in Ayurveda and, through intercultural transmission, incorporated into Amazonian dieta protocols for hepatic support, antioxidant activity, and general restoration.'
-tags:
-  - ethnobotany
-  - Desmodium gangeticum
-  - hepatoprotective
-  - Amazonia
-  - Ayurveda
-  - teacher plants
-  - dieta
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Desmodium gangeticum (Bora Bora)"
+aliases: ["Bora Bora", "Shalaparni", "Salaparni", "Desmodium gangeticum"]
+summary: "A perennial Fabaceae shrub valued in Ayurveda and, through intercultural transmission, incorporated into Amazonian dieta protocols for hepatic support, antioxidant activity, and general restoration."
+tags: ["ethnobotany", "Desmodium gangeticum", "hepatoprotective", "Amazonia", "Ayurveda", "teacher plants", "dieta"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the **Yaogará Ark**, a living archive of Amazonian teacher plants.*

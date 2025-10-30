@@ -1,23 +1,11 @@
 ---
-title: Psychotria viridis (Chacruna Leaf)
-aliases:
-  - Chacruna
-  - Chacruna Leaf
-  - Chacrona
-  - Chaqruy
-  - Psychotria viridis
-summary: Amazonian Rubiaceae shrub whose DMT-rich leaves are a primary source of the visionary component in ayahuasca; central to Indigenous healing systems and contemporary ethnobotany.
-tags:
-  - ayahuasca
-  - Psychotria viridis
-  - teacher plants
-  - Rubiaceae
-  - DMT
-  - ethnobotany
-  - Amazonia
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Psychotria viridis (Chacruna Leaf)"
+aliases: ["Chacruna", "Chacruna Leaf", "Chacrona", "Chaqruy", "Psychotria viridis"]
+summary: "Amazonian Rubiaceae shrub whose DMT-rich leaves are a primary source of the visionary component in ayahuasca; central to Indigenous healing systems and contemporary ethnobotany."
+tags: ["ayahuasca", "Psychotria viridis", "teacher plants", "Rubiaceae", "DMT", "ethnobotany", "Amazonia"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

@@ -5,6 +5,7 @@ summary: "Structured periods of isolation, fasting, and engagement with teacher 
 tags: ["Asháninka", "dieta", "teacher plants", "ayahuasca", "ethnobotany", "Amazonia", "traditional medicine", "biocultural conservation"]
 date: 2025-10-30
 license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-30
 ---
 
 *This article is part of the Yaogará Ark, a living ethnobotanical research archive.*

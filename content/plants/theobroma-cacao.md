@@ -1,21 +1,11 @@
 ---
-title: Theobroma cacao (Cacao Tree)
-aliases:
-  - Cacao
-  - Cocoa
-  - Chocolate Tree
-summary: 'Amazonian tree revered as a heart-centered ceremonial food and keystone agroforestry species; synthesizes ethnobotanical history, phytochemistry, and conservation priorities.'
-tags:
-  - Theobroma cacao
-  - cacao
-  - teacher plants
-  - Amazonia
-  - ethnobotany
-  - Malvaceae
-  - ceremonial cacao
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Theobroma cacao (Cacao Tree)"
+aliases: ["Cacao", "Cocoa", "Chocolate Tree"]
+summary: "Amazonian tree revered as a heart-centered ceremonial food and keystone agroforestry species; synthesizes ethnobotanical history, phytochemistry, and conservation priorities."
+tags: ["Theobroma cacao", "cacao", "teacher plants", "Amazonia", "ethnobotany", "Malvaceae", "ceremonial cacao"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

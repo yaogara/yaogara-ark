@@ -1,24 +1,11 @@
 ---
-title: Anadenanthera peregrina (Yopo Tree)
-aliases:
-  - Yopo
-  - Cohoba
-  - Niopo
-  - Paricá
-  - Epená
-  - Yopa
-summary: 'A leguminous tree of northern South America and the Caribbean whose seeds contain bufotenine and DMT; primary source of yopo/cohoba snuff central to Indigenous ritual, healing, and social life.'
-tags:
-  - Anadenanthera peregrina
-  - yopo
-  - cohoba
-  - tryptamines
-  - ethnobotany
-  - teacher plants
-  - snuff traditions
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Anadenanthera peregrina (Yopo Tree)"
+aliases: ["Yopo", "Cohoba", "Niopo", "Paricá", "Epená", "Yopa"]
+summary: "A leguminous tree of northern South America and the Caribbean whose seeds contain bufotenine and DMT; primary source of yopo/cohoba snuff central to Indigenous ritual, healing, and social life."
+tags: ["Anadenanthera peregrina", "yopo", "cohoba", "tryptamines", "ethnobotany", "teacher plants", "snuff traditions"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied traditions.*

@@ -1,23 +1,11 @@
 ---
-title: Uncaria tomentosa (Cat’s Claw Vine)
-aliases:
-  - Cat’s Claw
-  - Cat’s Claw Vine
-  - uña de gato
-  - vilcacora
-  - Uncaria tomentosa
-summary: A woody Amazonian liana used across Indigenous and mestizo traditions for inflammatory conditions and immune support; rich in oxindole alkaloids with emerging but inconclusive pharmacological evidence.
-tags:
-  - Uncaria tomentosa
-  - uña de gato
-  - Amazonia
-  - Rubiaceae
-  - ethnomedicine
-  - anti-inflammatory
-  - immunomodulation
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Uncaria tomentosa (Cat’s Claw Vine)"
+aliases: ["Cat’s Claw", "Cat’s Claw Vine", "uña de gato", "vilcacora", "Uncaria tomentosa"]
+summary: "A woody Amazonian liana used across Indigenous and mestizo traditions for inflammatory conditions and immune support; rich in oxindole alkaloids with emerging but inconclusive pharmacological evidence."
+tags: ["Uncaria tomentosa", "uña de gato", "Amazonia", "Rubiaceae", "ethnomedicine", "anti-inflammatory", "immunomodulation"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and allied medicinal species.*

@@ -1,23 +1,11 @@
 ---
-title: Tabernaemontana sananho (Uchu Sanango)
-aliases:
-  - Uchu Sanango
-  - Sanango
-  - Sananga
-  - Sananga eye drops
-  - T. sananho
-summary: Amazonian Apocynaceae shrub foundational to sananga eye drops and strength-building dieta practices; rich in indole alkaloids and embedded in Indigenous healing traditions across the upper Amazon basin.
-tags:
-  - Tabernaemontana sananho
-  - sananga
-  - Uchu Sanango
-  - Apocynaceae
-  - teacher plants
-  - ethnobotany
-  - Amazonia
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Tabernaemontana sananho (Uchu Sanango)"
+aliases: ["Uchu Sanango", "Sanango", "Sananga", "Sananga eye drops", "T. sananho"]
+summary: "Amazonian Apocynaceae shrub foundational to sananga eye drops and strength-building dieta practices; rich in indole alkaloids and embedded in Indigenous healing traditions across the upper Amazon basin."
+tags: ["Tabernaemontana sananho", "sananga", "Uchu Sanango", "Apocynaceae", "teacher plants", "ethnobotany", "Amazonia"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

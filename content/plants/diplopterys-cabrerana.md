@@ -1,23 +1,11 @@
 ---
-title: Diplopterys cabrerana (Chaliponga Leaf)
-aliases:
-  - Chaliponga
-  - Chagropanga
-  - Oco-yagé
-  - Chaliponga Leaf
-  - Diplopterys Cabrerana
-summary: 'Amazonian Malpighiaceae vine whose leaves are a DMT-rich admixture in ayahuasca brews, especially in western Amazonian traditions of Ecuador and Colombia.'
-tags:
-  - ayahuasca
-  - Diplopterys cabrerana
-  - teacher plants
-  - ethnobotany
-  - Malpighiaceae
-  - chaliponga
-  - chagropanga
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Diplopterys cabrerana (Chaliponga Leaf)"
+aliases: ["Chaliponga", "Chagropanga", "Oco-yagé", "Chaliponga Leaf", "Diplopterys Cabrerana"]
+summary: "Amazonian Malpighiaceae vine whose leaves are a DMT-rich admixture in ayahuasca brews, especially in western Amazonian traditions of Ecuador and Colombia."
+tags: ["ayahuasca", "Diplopterys cabrerana", "teacher plants", "ethnobotany", "Malpighiaceae", "chaliponga", "chagropanga"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants.*

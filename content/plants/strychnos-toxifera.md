@@ -1,20 +1,11 @@
 ---
-title: Strychnos toxifera (Curare Vine)
-aliases:
-  - Curare Vine
-  - Woorari
-  - Strychnos toxifera Schomb.
-summary: Primary Strychnos source for Amazonian ‘pot curare’; a culturally significant liana whose quaternary alkaloids underlie neuromuscular blockade and informed the development of modern muscle relaxants.
-tags:
-  - curare
-  - Strychnos toxifera
-  - arrow poisons
-  - ethnobotany
-  - Amazonia
-  - phytochemistry
-date: '2025-10-27'
-license: CC BY-SA 4.0 – Yaogará Research Archive
-lastmod: '2025-10-28'
+title: "Strychnos toxifera (Curare Vine)"
+aliases: ["Curare Vine", "Woorari", "Strychnos toxifera Schomb."]
+summary: "Primary Strychnos source for Amazonian ‘pot curare’; a culturally significant liana whose quaternary alkaloids underlie neuromuscular blockade and informed the development of modern muscle relaxants."
+tags: ["curare", "Strychnos toxifera", "arrow poisons", "ethnobotany", "Amazonia", "phytochemistry"]
+date: 2025-10-27
+license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-28
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian ethnobotanical knowledge.*

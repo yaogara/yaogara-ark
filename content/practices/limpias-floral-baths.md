@@ -5,6 +5,7 @@ summary: "Multispecies cleansing rites that combine aromatic plants, floral wate
 tags: ["Amazonia", "limpias", "floral baths", "aromatic plants", "curanderismo", "ritual cleansing", "ethnobotany", "teacher plants", "ayahuasca"]
 date: 2025-10-30
 license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-30
 ---
 
 *This article is part of the Yaogará Ark, a living ethnobotanical research archive.*

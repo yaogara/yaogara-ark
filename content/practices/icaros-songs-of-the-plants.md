@@ -5,6 +5,7 @@ summary: "Healing songs central to Upper Amazonian plant medicine, understood as
 tags: ["icaros", "ayahuasca", "Shipibo-Konibo", "vegetalismo", "ethnomusicology", "teacher plants", "Amazonia"]
 date: 2025-10-30
 license: "CC BY-SA 4.0 – Yaogará Research Archive"
+lastmod: 2025-10-30
 ---
 
 *This article is part of the Yaogará Ark, a living archive of Amazonian teacher plants and ritual knowledge.*

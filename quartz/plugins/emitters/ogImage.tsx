@@ -12,6 +12,7 @@ import { BuildCtx } from "../../util/ctx"
 import { QuartzPluginData } from "../vfile"
 import fs from "node:fs/promises"
 import { styleText } from "util"
+import path from "path"
 
 const defaultOptions: SocialImageOptions = {
   colorScheme: "lightMode",
@@ -65,6 +66,26 @@ async function generateSocialImage(
   return sharp(Buffer.from(svg)).webp({ quality: 40 })
 }
 
+async function getFallbackFont() {
+  // Absolute path to the Inter fallback in public/static/fonts
+  const fontPath = path.join(process.cwd(), "public", "static", "fonts", "Inter-Regular.woff2")
+  const fs = await import("fs/promises")
+  try {
+    const data = await fs.readFile(fontPath)
+    return [
+      {
+        name: "Inter",
+        data,
+        weight: 400,
+        style: "normal"
+      }
+    ]
+  } catch (e) {
+    console.warn(`[OG Fallback Font] Could not load Inter-Regular.woff2 at ${fontPath}:`, e)
+    return []
+  }
+}
+
 async function processOgImage(
   ctx: BuildCtx,
   fileData: QuartzPluginData,
@@ -113,7 +134,10 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       const cfg = ctx.cfg.configuration
       const headerFont = cfg.theme.typography.header
       const bodyFont = cfg.theme.typography.body
-      const fonts = await getSatoriFonts(headerFont, bodyFont)
+      let fonts = await getSatoriFonts(headerFont, bodyFont)
+      if (!fonts || fonts.length === 0) {
+        fonts = await getFallbackFont()
+      }
 
       for (const [_tree, vfile] of content) {
         if (vfile.data.frontmatter?.socialImage !== undefined) continue
@@ -124,7 +148,10 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       const cfg = ctx.cfg.configuration
       const headerFont = cfg.theme.typography.header
       const bodyFont = cfg.theme.typography.body
-      const fonts = await getSatoriFonts(headerFont, bodyFont)
+      let fonts = await getSatoriFonts(headerFont, bodyFont)
+      if (!fonts || fonts.length === 0) {
+        fonts = await getFallbackFont()
+      }
 
       // find all slugs that changed or were added
       for (const changeEvent of changeEvents) {

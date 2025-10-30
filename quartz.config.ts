@@ -1,6 +1,10 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+export const Assets = {
+  cacheControl: "public, max-age=31536000, immutable",
+} as const
+
 /**
  * Quartz 4 Configuration
  *
@@ -30,8 +34,8 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
+          lightgray: "#dcdcdc",
+          gray: "#666666",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
           secondary: "#284b63",
@@ -41,8 +45,8 @@ const config: QuartzConfig = {
         },
         darkMode: {
           light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
+          lightgray: "#3f3f42",
+          gray: "#b0b0b0",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
           secondary: "#7b97aa",

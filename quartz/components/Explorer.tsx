@@ -81,6 +81,8 @@ export default ((userOpts?: Partial<Options>) => {
           class="explorer-toggle mobile-explorer hide-until-loaded"
           data-mobile={true}
           aria-controls={id}
+          aria-expanded={false}
+          aria-label={i18n(cfg.locale).components.explorer.title}
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -101,7 +103,9 @@ export default ((userOpts?: Partial<Options>) => {
           type="button"
           class="title-button explorer-toggle desktop-explorer"
           data-mobile={false}
+          aria-controls={id}
           aria-expanded={true}
+          aria-label={i18n(cfg.locale).components.explorer.title}
         >
           <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
           <svg
@@ -119,7 +123,7 @@ export default ((userOpts?: Partial<Options>) => {
             <polyline points="6 9 12 15 18 9"></polyline>
           </svg>
         </button>
-        <div id={id} class="explorer-content" aria-expanded={false} role="group">
+        <div id={id} class="explorer-content" role="group">
           <OverflowList class="explorer-ul" />
         </div>
         <template id="template-file">

@@ -7,7 +7,11 @@ import { classNames } from "../util/lang"
 
 const ReaderMode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
   return (
-    <button class={classNames(displayClass, "readermode")}>
+    <button
+      type="button"
+      class={classNames(displayClass, "readermode")}
+      aria-label={i18n(cfg.locale).components.readerMode.title}
+    >
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlnsXlink="http://www.w3.org/1999/xlink"
@@ -21,7 +25,6 @@ const ReaderMode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps
         width="64px"
         height="64px"
         viewBox="0 0 24 24"
-        aria-label={i18n(cfg.locale).components.readerMode.title}
       >
         <title>{i18n(cfg.locale).components.readerMode.title}</title>
         <g transform="translate(-1.8, -1.8) scale(1.15, 1.2)">

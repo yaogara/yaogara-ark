@@ -77,13 +77,13 @@ async function getFallbackFont() {
   const fs = await import("fs/promises")
   for (const fontPath of fontPaths) {
     try {
-      const data = await fs.readFile(fontPath)
+      const data = await fs.readFile(fontPath, { encoding: null })
       return [
         {
           name: "Inter",
           data,
-          weight: 400,
-          style: "normal"
+          weight: 400 as const,
+          style: 'normal' as const,
         }
       ]
     } catch (e) {

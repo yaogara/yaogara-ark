@@ -1,4 +1,36 @@
 {
+  "sacred-plant-reforestation-projects": [
+    {
+      "id": 1,
+      "title": "1. Coe, Michael A. 2019. \"Sustainability of Ayahuasca Harvesting in the Peruvian Amazon.\" McKenna Academy. https://mcken",
+      "url": "https://mckenna.academy/course/an-introduction-to-ethnobotany/"
+    },
+    {
+      "id": 2,
+      "title": "2. Amazon Frontlines 2022. \"How Indigenous youth are Safeguarding Amazon Plant Knowledge.\" https://amazonfrontlines.org/",
+      "url": "https://amazonfrontlines.org/chronicles/indigenous-youth-knowledge/"
+    },
+    {
+      "id": 3,
+      "title": "3. Berlowitz, I., et al. 2021. \"Amazonian Medicine and the Psychedelic Revival.\" Frontiers in Pharmacology, 12, 661001. ",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8210416/"
+    },
+    {
+      "id": 4,
+      "title": "4. EthnoPharm 2022. \"The Amazonian Plant Teacher.\" https://ethnopharm.com/the-amazonian-plant-teacher/",
+      "url": "https://ethnopharm.com/the-amazonian-plant-teacher/"
+    },
+    {
+      "id": 5,
+      "title": "5. Millard, Dale 2020. \"Ayahuasca and the Amazon.\" The Ethnobotanical Assembly. https://www.tea-assembly.com/issues/5/ay",
+      "url": "https://www.tea-assembly.com/issues/5/ayahuasca-and-the-amazon"
+    },
+    {
+      "id": 6,
+      "title": "6. Jauregui, X., Clavo, Z. 2011. “‘Plantas con madre’: plants that teach and guide in the shamanic initiation process in",
+      "url": "https://www.semanticscholar.org/paper/\"Plantas-con-madre\":-plants-that-teach-and-guide-in-Jauregui-Clavo/5cda18eded9974c788dd1d9b6b9abeb168666f0e"
+    }
+  ],
   "sustainable-vine-harvesting": [
     {
       "id": 1,

@@ -1937,6 +1937,48 @@
       "url": "https://ark.yaogara.org/plants/piper-methysticum"
     }
   ],
+  "piri-piri-plants": [
+    {
+      "id": 1,
+      "title": "1. GreenUnfolding. 2021. \"The Magic of Piripiri in Shipibo-Konibo culture.\" https://greenunfolding.com/the-magic-of-piri",
+      "url": "https://greenunfolding.com/the-magic-of-piripiri-in-shipibo-konibo-culture/"
+    },
+    {
+      "id": 2,
+      "title": "2. de J Horackova, K. et al. 2023. \"Ethnobotanical inventory of medicinal plants used by the Cashinahua people Huni Kuin",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10176740/"
+    },
+    {
+      "id": 3,
+      "title": "3. Plotkin, M.J. 2022. \"Amazonian medicinal plants, their lore and their science.\" Xapiri Ground Bulletin. https://www.x",
+      "url": "https://www.xapiriground.org/bulletin/amazonian-medicinal-plants-their-lore-and-their-science"
+    },
+    {
+      "id": 4,
+      "title": "4. Vael, L. 2015. Ethnobotanical study of the plant use in the natural buffer zone of Cordillera Azul National Park, Per",
+      "url": "https://libstore.ugent.be/fulltxt/RUG01/002/217/123/RUG01-002217123_2015_0001_AC.pdf"
+    },
+    {
+      "id": 5,
+      "title": "5. Londoño Sulkin, C.D. 2012. \"The Relation Between Ashaninka Amazonian Society and Their Gardens.\" Open Ukrainian Citat",
+      "url": "https://ouci.dntb.gov.ua/en/works/4y62o2pl/"
+    },
+    {
+      "id": 6,
+      "title": "6. Schultes, R.E. & Raffauf, R.F. 1990. The Healing Forest: Medicinal and Toxic Plants of the Northwest Amazonia. Portla",
+      "url": "https://archive.org/details/healingforestmed00schu"
+    },
+    {
+      "id": 7,
+      "title": "7. Shepard, G.H. 1998. \"Psychoactive Plants and Ethnopsychiatric Medicines of the Amazon: A Review.\" Yearbook for Ethnom",
+      "url": "https://www.researchgate.net/publication/303769459"
+    },
+    {
+      "id": 8,
+      "title": "8. Duke, J.A. 1994. Amazonian Ethnobotanical Dictionary. CRC Press. https://www.taylorfrancis.com/books/mono/10.1201/978",
+      "url": "https://www.taylorfrancis.com/books/mono/10.1201/9780203738986"
+    }
+  ],
   "plectranthus-barbatus": [
     {
       "id": 1,

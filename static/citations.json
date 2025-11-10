@@ -1,4 +1,71 @@
 {
+  "sustainable-vine-harvesting": [
+    {
+      "id": 1,
+      "title": "1. Plowman, T. 1979. The Amazonian plant teacher: Banisteriopsis caapi and related Malpighiaceae. Economic Botany, 332, ",
+      "url": "https://doi.org/10.1007/BF02859060"
+    },
+    {
+      "id": 2,
+      "title": "2. Schultes, R.E. 1972. An Amazonian hallucinogen and its use. Harvard Review. https://doi.org/10.2307/4146296",
+      "url": "https://doi.org/10.2307/4146296"
+    },
+    {
+      "id": 3,
+      "title": "3. Labate, B.C. & Cavnar, C. 2014. Ayahuasca Shamanism in the Amazon and Beyond. Oxford University Press. https://doi.or",
+      "url": "https://doi.org/10.1093/acprof:oso/9780199341184.001.0001"
+    },
+    {
+      "id": 4,
+      "title": "4. Franco, R. R., et al. 2011. “Plantas Con Madre”: Plants That Teach and Guide in the Shamanic Apprenticeship of Peruvi",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21295130/"
+    },
+    {
+      "id": 5,
+      "title": "5. Kuyper, M. 2020. The Biocultural Conservation of Ayahuasca and Chacruna. Plants, People, Planet, 22, 128–140. https:/",
+      "url": "https://doi.org/10.1002/ppp3.88"
+    },
+    {
+      "id": 6,
+      "title": "6. Riba, J., et al. 2003. Human pharmacology of ayahuasca: subjective and cardiovascular effects, monoamine metabolite e",
+      "url": "https://doi.org/10.1124/jpet.103.049882"
+    },
+    {
+      "id": 7,
+      "title": "7. Millard, D. 2020. Ayahuasca and the Amazon. The Ethnobotanical Assembly. https://www.tea-assembly.com/issues/5/ayahua",
+      "url": "https://www.tea-assembly.com/issues/5/ayahuasca-and-the-amazon"
+    },
+    {
+      "id": 8,
+      "title": "8. Schultes, R.E., Hofmann, A. 1992. Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers. Healing Arts ",
+      "url": "https://archive.org/details/plantsofthegods0schu"
+    },
+    {
+      "id": 9,
+      "title": "9. McKenna, D.J. 1984. Monoamine oxidase inhibitors in Amazonian hallucinogenic plants: ethnobotanical, phytochemical, a",
+      "url": "https://doi.org/10.1016/0378-8741(84"
+    },
+    {
+      "id": 10,
+      "title": "10. McKenna Academy. People and Plants: Ethnobotany in the 21st century. https://mckenna.academy/course/an-introduction-",
+      "url": "https://mckenna.academy/course/an-introduction-to-ethnobotany/"
+    },
+    {
+      "id": 11,
+      "title": "11. Science, Technology, & Human Values article context on ayahuasca networks. https://journals.sagepub.com/doi/10.1177/",
+      "url": "https://journals.sagepub.com/doi/10.1177/0306312720920362"
+    },
+    {
+      "id": 12,
+      "title": "14. Peabody Museum, Harvard University. Video: Amazonian Travels of Richard Evans Schultes. https://peabody.harvard.edu/",
+      "url": "https://peabody.harvard.edu/video-amazonian-travels-richard-evans-schultes"
+    },
+    {
+      "id": 13,
+      "title": "15. Ethnopharmacology blog. The Amazonian Plant Teacher. https://ethnopharm.com/the-amazonian-plant-teacher/",
+      "url": "https://ethnopharm.com/the-amazonian-plant-teacher/"
+    }
+  ],
   "anadenanthera-colubrina": [
     {
       "id": 1,

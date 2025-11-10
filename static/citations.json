@@ -98,6 +98,38 @@
       "url": "https://ethnopharm.com/the-amazonian-plant-teacher/"
     }
   ],
+  "ecological-zones-amazon": [
+    {
+      "id": 1,
+      "title": "1. Casa del Maestro Medicina 2023. “Plant Medicine Overview.”http://www.casadelmaestromedicina.com/plant-medicine-overvi",
+      "url": "http://www.casadelmaestromedicina.com/plant-medicine-overview"
+    },
+    {
+      "id": 2,
+      "title": "2. Chacruna 2023. “Healing and Knowledge with Amazonian Shamanic Diet.”https://chacruna.net/healing-knowledge-amazonian-",
+      "url": "https://chacruna.net/healing-knowledge-amazonian-shamanic-diet/"
+    },
+    {
+      "id": 3,
+      "title": "3. Cayashobo 2023. “Shipibo Master Plants – Ancient Wisdom Teachers of the Amazon.”https://cayashobo.com/master-plants/",
+      "url": "https://cayashobo.com/master-plants/"
+    },
+    {
+      "id": 4,
+      "title": "4. Wikipedia 2023. “Ayahuasca.”https://en.wikipedia.org/wiki/Ayahuasca",
+      "url": "https://en.wikipedia.org/wiki/Ayahuasca"
+    },
+    {
+      "id": 5,
+      "title": "5. PubMed 2021. “Teacher plants - Indigenous Peruvian-Amazonian dietary practices…”https://pubmed.ncbi.nlm.nih.gov/34933",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34933085/"
+    },
+    {
+      "id": 6,
+      "title": "6. El Mundo Mágico 2023. “Ayahuma, Traditional Amazonian Medicine and Ayahuasca.”https://www.elmundomagico.org/ayahuma-t",
+      "url": "https://www.elmundomagico.org/ayahuma-traditional-amazonian-medicine-and-ayahuasca/"
+    }
+  ],
   "anadenanthera-colubrina": [
     {
       "id": 1,

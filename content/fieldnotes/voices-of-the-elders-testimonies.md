@@ -82,6 +82,17 @@ From a research standpoint, respectful engagement entails transparent agreements
 
 ---
 
+## Related Articles
+
+- [[Prayer and Intention in Amazonian Ceremony]] details the ritual architectures echoed throughout these testimonies.
+- [[Myths of Plant Origin in Amazonia]] offers narrative counterparts to the oral histories shared by elders.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] situates the testimonies within current debates on intellectual sovereignty and consent.
+- [[Conservation Status of Amazonian Entheogenic Plants]] outlines ecological pressures that elders identify in their stewardship calls.
+- [[Sacred Plant Reforestation Projects (Ayahuasca and Chacruna)]] presents community strategies that respond to the replanting appeals voiced here.
+- [[Ayahuasca Overview]] provides introductory context for readers encountering these ceremonial testimonies for the first time.
+
+---
+
 ## References
 1. McKenna, D.J. (n.d.). People and Plants: Ethnobotany in the 21st Century. McKenna Academy. https://mckenna.academy/course/an-introduction-to-ethnobotany/
 2. Soldati, G.T., Alves, J.M., et al. (2011). "Plantas con madre": Plants That Teach and Guide in the Shamanic Initiation Process in East-Central Peru. Journal of Ethnopharmacology, 134(2), 739–753. https://pubmed.ncbi.nlm.nih.gov/21295130/

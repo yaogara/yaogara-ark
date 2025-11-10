@@ -107,6 +107,17 @@ Ethical accompaniment also means protecting ceremonial integrity. Lineage consen
 
 ---
 
+## Related Articles
+
+- [[Sacred Plant Reforestation Projects (Ayahuasca and Chacruna)]] showcases habitat-specific cultivation initiatives referenced throughout this field guide.
+- [[Sustainable Harvesting of Banisteriopsis caapi and Psychotria viridis]] provides detailed protocols for the rotational cutting and nursery strategies noted above.
+- [[Conservation Status of Amazonian Entheogenic Plants]] connects local ecological zones to regional conservation assessments and policy frameworks.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] expands on the governance mechanisms supporting habitat-specific stewardship.
+- [[Myths of Plant Origin in Amazonia]] gathers oral histories tied to the landscapes surveyed in this article.
+- [[Voices of the Elders: Oral Testimonies of Amazonian Teacher Plants]] amplifies community narratives that animate these ecological zones.
+
+---
+
 ## References
 1. [Casa del Maestro Medicina (2023). “Plant Medicine Overview.”](http://www.casadelmaestromedicina.com/plant-medicine-overview)  
 2. [Chacruna (2023). “Healing and Knowledge with Amazonian Shamanic Diet.”](https://chacruna.net/healing-knowledge-amazonian-shamanic-diet/)  

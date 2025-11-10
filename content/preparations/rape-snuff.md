@@ -117,6 +117,17 @@ These measures aim to sustain both the ecosystems that provide rapé’s constit
 
 ---
 
+## Related Articles
+
+- [[Rapeh and Mapacho Blends (Amazonian Sacred Snuff)]] dives into specific lineage formulations and complementary ash traditions referenced throughout this overview.
+- [[Prayer and Intention in Amazonian Ceremony]] situates rapé within the broader ritual architectures that govern its application and safeguarding.
+- [[Yawanawá Healing Path (Uni, Kambo, and Rapé)]] shares community perspectives on rapé governance, etiquette, and apprenticeship.
+- [[Huni Kuin (Kaxinawá) Nixi Pae Tradition]] provides comparative insight into how neighboring peoples incorporate rapé into visionary practice.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] outlines legal frameworks for protecting the intellectual property associated with rapé blends.
+- [[Conservation Status of Amazonian Entheogenic Plants]] addresses ecological pressures affecting core rapé species such as [[Nicotiana rustica]].
+
+---
+
 ## References
 1. Altar Origin. (n.d.). Rapé: The Sacred Snuff of the Amazon Rainforest. https://altarorigin.com/en-usa/blogs/blog/rape-the-sacred-snuff-of-the-amazon-rainforest  
 2. Herbal Dimensions. (n.d.). What is Rapè, the Jungle Snuff? https://www.herbaldimensions.com/blogs/news/what-is-rape  

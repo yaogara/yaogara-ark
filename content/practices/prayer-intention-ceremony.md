@@ -95,6 +95,17 @@ Psychoactive tourism and uneven power dynamics heighten the need for clear infor
 
 ---
 
+## Related Articles
+
+- [[Voices of the Elders: Oral Testimonies of Amazonian Teacher Plants]] gathers first-hand accounts of prayer-led ceremony from tradition bearers.
+- [[Myths of Plant Origin in Amazonia]] provides narrative context for the ceremonial invocations described here.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] outlines governance frameworks that protect the ritual authorship of prayers and icaros.
+- [[Ayahuasca Overview]] introduces new readers to the brew at the center of many intention-driven ceremonies.
+- [[Sacred Plant Reforestation Projects (Ayahuasca and Chacruna)]] documents stewardship efforts that sustain the plant allies invoked in prayer.
+- [[Sustainable Harvesting of Banisteriopsis caapi and Psychotria viridis]] offers sourcing guidelines aligned with the ethical commitments highlighted in this practice guide.
+
+---
+
 ## References
 1. "Plantas con madre": plants that teach and guide in the shamanic initiation process and apprenticeship of traditional medicine in Amazonian societies. https://pubmed.ncbi.nlm.nih.gov/21295130/
 2. Amazonian Medicine and the Psychedelic Revival. https://pmc.ncbi.nlm.nih.gov/articles/PMC8210416/

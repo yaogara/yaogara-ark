@@ -133,6 +133,11 @@ an open ethnobotanical repository documenting sacred plants and Indigenous ecolo
 **Citation:** Yaogará Research Initiative (2025). *Ayahuasca Overview*. Yaogará Ark Research Archive. https://ark.yaogara.org/summaries/ayahuasca-summary
 
 #### Related Reading
-- Explore more research soon.
+- [[Conservation Status of Amazonian Entheogenic Plants]] for a deep dive into the ecological threats and policy responses surrounding ayahuasca taxa.
+- [[Sacred Plant Reforestation Projects (Ayahuasca and Chacruna)]] documenting nursery and replanting initiatives that sustain ceremonial supply.
+- [[Sustainable Harvesting of Banisteriopsis caapi and Psychotria viridis]] outlining field-ready guidelines for responsible vine and leaf collection.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] synthesizing the legal and ethical frameworks that guard ceremonial sovereignty.
+- [[Ethics of Ayahuasca Tourism]] assessing how global demand influences local governance, safety, and ecological stewardship.
+- [[Myths of Plant Origin in Amazonia]] sharing the cosmological narratives that animate ayahuasca practice across the region.
 
 ---

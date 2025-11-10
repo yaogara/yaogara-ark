@@ -1,4 +1,46 @@
 {
+  "conservation-status-entheogenic-plants": [
+    {
+      "id": 1,
+      "title": "1. Frontiers in Conservation Science. \"Of shrub, cactus, vine and toad: psychedelic species of conservation concern.\" 20",
+      "url": "https://doi.org/10.3389/fcosc.2025.1569528"
+    },
+    {
+      "id": 2,
+      "title": "2. Science. \"Indigenizing conservation science for a sustainable Amazon.\" Science, 383:243, 2024. https://www.science.or",
+      "url": "https://www.science.org/doi/10.1126/science.adn5616"
+    },
+    {
+      "id": 3,
+      "title": "3. Amazon Watch. \"Endangered Amazonia: Illicit economies article.\" 2025. https://amazonwatch.org/assets/files/2025-11-en",
+      "url": "https://amazonwatch.org/assets/files/2025-11-endangered-amazonia-iIllicit-economies-article.pdf"
+    },
+    {
+      "id": 4,
+      "title": "4. WI-FRI. \"Ecosystem and Biodiversity of Amazonia.\" 2025. https://www.wifri.org/wp-content/uploads/2025/04/133763o.pdf",
+      "url": "https://www.wifri.org/wp-content/uploads/2025/04/133763o.pdf"
+    },
+    {
+      "id": 5,
+      "title": "5. EDF/Vital Signs. \"Deep inside the Amazon, Indigenous leaders are fighting to preserve rainforest and stabilize the cl",
+      "url": "https://vitalsigns.edf.org/photo-essay/deep-inside-amazon-indigenous-leaders-are-fighting-preserve-rainforest-and-stabilize"
+    },
+    {
+      "id": 6,
+      "title": "6. Chacruna Institute. \"Entheogen Stewardship Project—Protecting Sacred Plants and Indigenous Wisdom.\" 2025. https://mck",
+      "url": "https://mckenna.academy/mka-podcast/entheogen-stewardship-project-protecting-sacred-plants-and-indigenous-wisdom/"
+    },
+    {
+      "id": 7,
+      "title": "7. Brightman, M., Grotti, V.E., & Ulturgasheva, O. eds. Animism in Rainforest and Tundra: Personhood, Animals, Plants an",
+      "url": "https://www.berghahnbooks.com/title/BrightmanAnimism"
+    },
+    {
+      "id": 8,
+      "title": "8. Rainforest Expeditions. \"Gold of the Jungle: Medicinal Plants in the Amazon Rainforest.\" 2024. https://www.rainforest",
+      "url": "https://www.rainforestexpeditions.com/gold-of-the-jungle-medicinal-plants-in-the-amazon-rainforest/"
+    }
+  ],
   "sacred-plant-reforestation-projects": [
     {
       "id": 1,

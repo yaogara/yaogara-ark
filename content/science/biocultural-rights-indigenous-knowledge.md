@@ -86,6 +86,17 @@ Tourism and global wellness economies have intensified pressures on ritual proto
 
 ---
 
+## Related Articles
+
+- [[Conservation Status of Amazonian Entheogenic Plants]] connects legal frameworks to on-the-ground species assessments and policy interventions.
+- [[Sacred Plant Reforestation Projects (Ayahuasca and Chacruna)]] showcases nursery models that embed rights-based governance in everyday cultivation.
+- [[Sustainable Harvesting of Banisteriopsis caapi and Psychotria viridis]] presents practical stewardship practices aligned with the consent and benefit-sharing principles summarized here.
+- [[Ethics of Ayahuasca Tourism]] interrogates commercialization dynamics that biocultural rights advocates seek to regulate.
+- [[Myths of Plant Origin in Amazonia]] illuminates the cosmological narratives that inform Indigenous intellectual property claims.
+- [[Ayahuasca Overview]] offers accessible background for policy audiences new to the ceremonial systems underpinning these rights discourses.
+
+---
+
 ## References
 1. Jauregui X, Clavo Z, Jovel E, Bourdy G. (2011). “Plantas con madre”: plants that teach and guide in the shamanic initiation process in the East-Central Peruvian Amazon. Journal of Ethnopharmacology, 134(3):739–52. https://pubmed.ncbi.nlm.nih.gov/21295130/
 

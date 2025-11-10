@@ -116,6 +116,17 @@ Finally, education remains a key axis of sustainability. Intercultural training 
 
 ---
 
+## Related Articles
+
+- [[Sacred Plant Reforestation Projects (Ayahuasca and Chacruna)]] profiles nursery models that complement the in-forest harvesting protocols detailed above.
+- [[Conservation Status of Amazonian Entheogenic Plants]] links site-level management to basin-wide conservation challenges and policy debates.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] provides governance guidance for implementing the FPIC and benefit-sharing measures emphasized in this guide.
+- [[Ethics of Ayahuasca Tourism]] explores demand-side drivers that responsible harvesting plans must account for.
+- [[Myths of Plant Origin in Amazonia]] contextualizes why stewardship practices are inseparable from the narrative commitments of Indigenous lineages.
+- [[Ayahuasca Overview]] offers introductory background for practitioners who need to align technical harvesting with ceremonial expectations.
+
+---
+
 ## References
 1. Plowman, T. (1979). The Amazonian plant teacher: Banisteriopsis caapi and related Malpighiaceae. Economic Botany, 33(2), 125–128. https://doi.org/10.1007/BF02859060  
 2. Schultes, R.E. (1972). An Amazonian hallucinogen and its use. Harvard Review. https://doi.org/10.2307/4146296  

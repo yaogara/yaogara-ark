@@ -118,6 +118,17 @@ Ethical engagement:
 
 ---
 
+## Related Articles
+
+- [[Yawanawá Healing Path (Uni, Kambo, and Rapé)]] offers a Panoan counterpart that highlights shared ceremonial architectures and distinct governance approaches.
+- [[Conservation Status of Amazonian Entheogenic Plants]] provides regional context for the habitat pressures referenced by Huni Kuin leaders.
+- [[Sacred Plant Reforestation Projects (Ayahuasca and Chacruna)]] documents nursery and replanting efforts that complement Huni Kuin stewardship commitments.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] expands on the legal and ethical frameworks invoked in discussions of kene, huni meka, and ceremonial sovereignty.
+- [[Myths of Plant Origin in Amazonia]] gathers narrative traditions that resonate with Huni Kuin cosmology around nixi pae.
+- [[Ayahuasca Overview]] gives new readers foundational knowledge about the brew at the center of Huni Kuin practice.
+
+---
+
 ## References
 1. Planet Illustrated. "The Huni Kuin tribe and shamanism." https://www.planetillustrated.com/post/the-huni-kuin-tribe-and-shamanism  
 2. Healers of Civilization. "Kaxinawa Huni Kuin People, Acre, Brazil." http://kjepakaj.blogspot.com/p/events-in-amazon.html  

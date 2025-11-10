@@ -98,6 +98,19 @@ With rising non-Indigenous interest, conservation and ethics have become central
 
 Practically, responsible engagement entails slowing commodification pressures, centering community voices, and coupling any outward-facing offerings with reciprocal commitments—cultural, ecological, and economic. For researchers, collaboration frameworks that co-design questions and share outcomes with originating communities can mitigate extractive knowledge practices and foster trust. For facilitators, adherence to lineage instructions and ongoing consent processes helps protect both participants and traditions.
 
+---
+
+## Related Articles
+
+- [[Tabernaemontana undulata (Sanango Blanco)]] provides a botanical companion profile for the primary source species used in sananga drops.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] surveys governance frameworks that safeguard sananga lineages and ceremonial authority.
+- [[Prayer and Intention in Amazonian Ceremony]] details ritual architectures that accompany sananga application during dieta and healing work.
+- [[Voices of the Elders: Oral Testimonies of Amazonian Teacher Plants]] includes firsthand accounts that reference sananga’s role in apprenticeship.
+- [[Conservation Status of Amazonian Entheogenic Plants]] links individual plant stewardship to basin-wide habitat protection efforts.
+- [[Myths of Plant Origin in Amazonia]] illuminates the narrative obligations that underpin respectful engagement with sananga and other master plants.
+
+---
+
 ## References
 1. Altar Origin. Sananga: The Sacred Eye Drops of the Amazon.  
    https://altarorigin.com/en-usa/blogs/news/sananga-the-sacred-eye-drops-of-the-amazon

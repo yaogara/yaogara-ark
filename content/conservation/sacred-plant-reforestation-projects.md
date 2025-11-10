@@ -116,6 +116,17 @@ In sum, sacred plant reforestation is inseparable from ethical frameworks that a
 
 ---
 
+## Related Articles
+
+- [[Conservation Status of Amazonian Entheogenic Plants]] situates nursery initiatives within the larger landscape of species-level threat assessments and policy responses.
+- [[Sustainable Harvesting of Banisteriopsis caapi and Psychotria viridis]] outlines complementary in-forest management practices that reforestation projects often reinforce.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] delves into the governance frameworks that safeguard the community authority highlighted throughout this article.
+- [[Ethics of Ayahuasca Tourism]] examines demand dynamics that reforestation programs aim to balance through reciprocal partnerships.
+- [[Ayahuasca Overview]] provides new readers with a synthesis of ceremonial history and pharmacology underpinning why nurseries prioritize specific vine and leaf lineages.
+- [[Myths of Plant Origin in Amazonia]] traces the narrative obligations that motivate many of the replanting efforts described here.
+
+---
+
 ## References
 1. Coe, Michael A. (2019). "Sustainability of Ayahuasca Harvesting in the Peruvian Amazon." McKenna Academy. https://mckenna.academy/course/an-introduction-to-ethnobotany/  
 2. Amazon Frontlines (2022). "How Indigenous youth are Safeguarding Amazon Plant Knowledge." https://amazonfrontlines.org/chronicles/indigenous-youth-knowledge/  

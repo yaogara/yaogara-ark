@@ -96,6 +96,17 @@ In aggregate, the ethics of ayahuasca tourism hinge on who defines the terms of 
 
 ---
 
+## Related Articles
+
+- [[Conservation Status of Amazonian Entheogenic Plants]] details the ecological pressures that ethical tourism frameworks must account for when sourcing ceremonial plants.
+- [[Sacred Plant Reforestation Projects (Ayahuasca and Chacruna)]] highlights community-led cultivation strategies that responsible centers can support to offset demand.
+- [[Sustainable Harvesting of Banisteriopsis caapi and Psychotria viridis]] provides best practices for sourcing vines and leaves without degrading lineage stock.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] articulates the governance principles that should guide consent, reciprocity, and knowledge sharing in tourism partnerships.
+- [[Ayahuasca Overview]] offers contextual background on ceremonial pharmacology and history for readers evaluating retreat claims.
+- [[Myths of Plant Origin in Amazonia]] underscores the cosmological responsibilities entwined with ayahuasca practice, reinforcing why tourism should uphold narrative integrity.
+
+---
+
 ## References
 1. Thier, J. (2018). Ayahuasca Tourism in the Amazon. Sapiens.org. https://www.sapiens.org/culture/ayahuasca-tourism-amazon/
 2. Gearin, A. & Peluso, D. (2024). Ethical tensions among globalized ayahuasca shamanisms and the ordinary ethics of care. International Journal of Drug Policy, 122, 10753198. https://pmc.ncbi.nlm.nih.gov/articles/PMC10753198/

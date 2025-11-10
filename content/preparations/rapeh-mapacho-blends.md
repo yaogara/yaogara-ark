@@ -102,6 +102,17 @@ Cross-cultural education has also become a tool for preservation, including audi
 
 ---
 
+## Related Articles
+
+- [[Rapé (Sacred Tobacco Snuff)]] offers an in-depth overview of canonical preparation steps and stewardship considerations referenced throughout this piece.
+- [[Prayer and Intention in Amazonian Ceremony]] contextualizes how rapé administration is embedded within protective ritual frameworks.
+- [[Yawanawá Healing Path (Uni, Kambo, and Rapé)]] provides lineage-specific insight into the ceremonial etiquette guiding blend application.
+- [[Huni Kuin (Kaxinawá) Nixi Pae Tradition]] highlights related Panoan practices that inform regional rapé knowledge.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] elaborates on governance tools for protecting blend recipes and ceremonial protocols.
+- [[Conservation Status of Amazonian Entheogenic Plants]] examines ecological pressures on key tobacco and ash species central to these preparations.
+
+---
+
 ## References
 1. Katukina. "What is Rapé" https://katukina.com/doc/rape  
 2. Nature’s Pharmatropia. "Rapé | Hapé Therapeutic Potential" https://pharmatropia.com/rape-hape-therapeutic-potential/  

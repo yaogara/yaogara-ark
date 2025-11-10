@@ -116,6 +116,17 @@ Ultimately, honoring T. undulata as a teacher plant means keeping its ecological
 
 ---
 
+## Related Articles
+
+- [[Sananga (Eye Drops of the Forest)]] provides preparation details and ceremonial protocols that directly involve T. undulata extracts.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] outlines the governance tools communities use to protect sananga knowledge.
+- [[Conservation Status of Amazonian Entheogenic Plants]] connects species-level concerns to broader policy initiatives affecting sanango habitats.
+- [[Sustainable Harvesting of Banisteriopsis caapi and Psychotria viridis]] shares allied strategies for rotational cutting and nursery cultivation applicable to sananga stewardship.
+- [[Prayer and Intention in Amazonian Ceremony]] explores ritual architectures that accompany sananga application in dieta contexts.
+- [[Voices of the Elders: Oral Testimonies of Amazonian Teacher Plants]] amplifies elder perspectives on sananga and other master plants.
+
+---
+
 ## References
 All links verified as of November 10, 2025.
 

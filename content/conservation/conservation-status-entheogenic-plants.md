@@ -104,6 +104,17 @@ Given the gaps in IUCN assessments and the variability of local pressures, preca
 
 ---
 
+## Related Articles
+
+- [[Sacred Plant Reforestation Projects (Ayahuasca and Chacruna)]] documents how community-run nurseries buffer pressure on wild vines and leaves while strengthening ceremonial autonomy.
+- [[Sustainable Harvesting of Banisteriopsis caapi and Psychotria viridis]] expands on practical guidelines for cutting protocols, fallow rotations, and lineage stewardship referenced throughout this brief.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] explores the legal and ethical frameworks that underpin the community governance models highlighted in the conservation analysis above.
+- [[Ethics of Ayahuasca Tourism]] examines demand-side pressures that accelerate extraction and offers policy approaches that complement the protective strategies summarized here.
+- [[Myths of Plant Origin in Amazonia]] situates key taxa within Indigenous cosmologies, providing cultural context for why conservation strategies must honor narrative stewardship.
+- [[Ayahuasca Overview]] offers a broader primer on the brew’s history, pharmacology, and ceremonial roles for readers new to the subject matter synthesized in this report.
+
+---
+
 ## References
 1. Frontiers in Conservation Science. "Of shrub, cactus, vine and toad: psychedelic species of conservation concern." 2025. https://doi.org/10.3389/fcosc.2025.1569528
 

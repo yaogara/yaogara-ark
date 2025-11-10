@@ -87,6 +87,17 @@ Women’s leadership and the reactivation of apprenticeship pathways have been c
 
 ---
 
+## Related Articles
+
+- [[Huni Kuin (Kaxinawá) Nixi Pae Tradition]] presents a neighboring Panoan lineage whose ceremonial structures invite productive comparison.
+- [[Conservation Status of Amazonian Entheogenic Plants]] surveys the ecological pressures that inform the Yawanawá’s stewardship commitments.
+- [[Sacred Plant Reforestation Projects (Ayahuasca and Chacruna)]] highlights cultivation initiatives that parallel Yawanawá replanting efforts.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] elaborates on the governance principles underpinning Yawanawá consent and partnership protocols.
+- [[Prayer and Intention in Amazonian Ceremony]] explores ritual disciplines emphasized in kani nipoti teachings.
+- [[Ayahuasca Overview]] offers newcomers a primer on the brew central to Yawanawá uni practice.
+
+---
+
 ## References
 1. Hamaima. (2025). Meet the Yawanawa Tribe: Guardians of the Amazon's Spirit and Plants. https://hamaima.com/writing/2025/7/9/meet-the-yawanawa-tribe  
 2. Aniwa. Rapé Ceremony with Matsini - Yawanawa. https://digital.aniwa.co/courses/rape-ceremony-with-matsini  

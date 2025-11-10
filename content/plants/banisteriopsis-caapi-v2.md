@@ -117,6 +117,17 @@ These measures aim to sustain both the ecosystems that provide rapé’s constit
 
 ---
 
+## Related Articles
+
+- [[Rapé (Sacred Tobacco Snuff)]] offers a complementary preparation-focused perspective that deepens the stewardship guidelines summarized here.
+- [[Rapeh and Mapacho Blends (Amazonian Sacred Snuff)]] catalogues lineage-specific ash traditions linked to the materials discussed in this profile.
+- [[Prayer and Intention in Amazonian Ceremony]] situates rapé use within the protective ritual architectures emphasized by tradition bearers.
+- [[Yawanawá Healing Path (Uni, Kambo, and Rapé)]] shares community protocols that govern rapé ceremonies and training.
+- [[Huni Kuin (Kaxinawá) Nixi Pae Tradition]] provides comparative insight into how rapé integrates with neighboring ceremonial systems.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] outlines governance frameworks safeguarding the intellectual property of rapé-making lineages.
+
+---
+
 ## References
 1. Altar Origin. (n.d.). Rapé: The Sacred Snuff of the Amazon Rainforest. https://altarorigin.com/en-usa/blogs/blog/rape-the-sacred-snuff-of-the-amazon-rainforest  
 2. Herbal Dimensions. (n.d.). What is Rapè, the Jungle Snuff? https://www.herbaldimensions.com/blogs/news/what-is-rape  

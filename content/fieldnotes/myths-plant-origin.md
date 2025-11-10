@@ -118,6 +118,17 @@ Ethical engagement recognizes that myth is not folklore detached from practice; 
 
 ---
 
+## Related Articles
+
+- [[Conservation Status of Amazonian Entheogenic Plants]] builds on the stewardship imperatives discussed here by detailing current threat assessments and mitigation pathways for key mythic taxa.
+- [[Sacred Plant Reforestation Projects (Ayahuasca and Chacruna)]] profiles community nurseries that operationalize mythic obligations to replant and tend ayahuasca lineages.
+- [[Biocultural Rights and Indigenous Knowledge of Amazonian Teacher Plants]] examines the governance frameworks that protect the narrative sovereignty emphasized in these origin accounts.
+- [[Ayahuasca Overview]] offers a concise primer on the brew at the heart of many myths, linking cosmology to pharmacology and ceremonial practice.
+- [[Voices of the Elders: Oral Testimonies of Amazonian Teacher Plants]] captures oral histories that echo the mythic themes summarized in this article.
+- [[Prayer and Intention in Amazonian Ceremony]] expands on ritual disciplines that accompany the narrative teachings described above.
+
+---
+
 ## References
 1. Kapitari. (2024). “How Did Indigenous Tribes Discover Ayahuasca?” https://kapitari.com/myths-and-mysteries-how-did-indigenous-tribes-discover-ayahuasca/
 2. Rainforest Medicine. (2024). “A Glimpse into Dunduma (Yiyó'nuní) and Chikuru Piripiri (Watí'nuni)” https://rainforestmedicine.net/2024/08/24/a-glimpse-into-dunduma-yiyonuni-and-chikuru-piripiri-wati-nuni-chunduru-two-sacred-plants-of-the-upper-amazon-in-the-genus-cyperus/

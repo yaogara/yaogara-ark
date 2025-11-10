@@ -760,6 +760,58 @@
       "url": "https://ark.yaogara.org/plants/cissampelos-pareira"
     }
   ],
+  "copaifera-officinalis-copaiba": [
+    {
+      "id": 1,
+      "title": "1. Albuquerque KO et al. 2017, Brazilian Amazon Traditional Medicine and the Treatment of Difficult to Heal Leishmaniasi",
+      "url": "https://doi.org/10.1155/2017/8350320"
+    },
+    {
+      "id": 2,
+      "title": "2. Albuquerque KO et al. 2017, Brazilian Amazon Traditional Medicine..., PMC Article, https://pmc.ncbi.nlm.nih.gov/artic",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5282428/"
+    },
+    {
+      "id": 3,
+      "title": "3. Veiga Jr VF, Pinto AC. 2002, \"The Copaifera of the Americas: A Review on the Phytochemistry and Pharmacology,\" J Ethn",
+      "url": "https://doi.org/10.1016/S0378-8741(02"
+    },
+    {
+      "id": 4,
+      "title": "4. Maciel MAM et al. 2002, Ethnopharmacology, Phytochemistry and Biodiversity in Brazil: a Review, Phytochemistry Review",
+      "url": "https://doi.org/10.1023/A:1021927830984"
+    },
+    {
+      "id": 5,
+      "title": "5. Santos AO et al. 2008, \"Leishmanicidal Activity of Copaiba Oil: An Alternative for Cutaneous Leishmaniasis,\" Evid Bas",
+      "url": "https://doi.org/10.1093/ecam/nem108"
+    },
+    {
+      "id": 6,
+      "title": "6. Cascon V, Gilbert B. 2000, \"Volatile Compounds in Copaifera Oils,\" Phytochemistry, https://doi.org/10.1016/S0031-9422",
+      "url": "https://doi.org/10.1016/S0031-9422(99"
+    },
+    {
+      "id": 7,
+      "title": "7. Cavalcanti Neto AT et al. 2005, \"Comparative evaluation between copaiba oil-resin and chlorhexidine digluconate on wo",
+      "url": "https://repositorio.unesp.br/handle/11449/93430"
+    },
+    {
+      "id": 8,
+      "title": "8. Veiga VF Jr, Patitucci ML et al. 2001, \"Chemical composition and antimicrobial activity of Copaifera oil,\" J Ethnopha",
+      "url": "https://doi.org/10.1016/S0378-8741(02"
+    },
+    {
+      "id": 9,
+      "title": "9. Pinto AC 2008, \"Copaifera: from ethnomedicine to modern phytotherapy,\" Phytother Res, https://doi.org/10.1002/ptr.247",
+      "url": "https://doi.org/10.1002/ptr.2471"
+    },
+    {
+      "id": 10,
+      "title": "10. Center of the Workers of the Amazon CTA, 1996, Reported Amazonian Medicinal Plant Use https://www.amazonia.org.br/",
+      "url": "https://www.amazonia.org.br/"
+    }
+  ],
   "croton-lechleri-dragons-blood": [
     {
       "id": 1,

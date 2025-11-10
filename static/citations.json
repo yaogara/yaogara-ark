@@ -3105,6 +3105,48 @@
       "url": "https://ethnobiomed.biomedcentral.com/articles/10.1186/1746-4269-2-47"
     }
   ],
+  "ceremonial-diets-non-ayahuasca": [
+    {
+      "id": 1,
+      "title": "1. O’Shaughnessy, D.M., et al. 2021. Amazonian medicine and the psychedelic revival: Diagnosing and treating cultural an",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34149407/"
+    },
+    {
+      "id": 2,
+      "title": "2. Deep Earth Dreaming 2018. Plant Dieta: The Practice of Sacred Relating. https://deepearthdreaming.world/2018/06/27/pl",
+      "url": "https://deepearthdreaming.world/2018/06/27/plant-dieta-the-practice-of-sacred-relating/"
+    },
+    {
+      "id": 3,
+      "title": "3. Spirit of Peace. Master Plant Dietas: Ajo Sacha, Piñón Colorado. https://www.spirit-of-peace.net/master-plant-dietas",
+      "url": "https://www.spirit-of-peace.net/master-plant-dietas"
+    },
+    {
+      "id": 4,
+      "title": "4. Takiwasi Center. Traditional Plant Dieta: Teacher Plants. https://takiwasi.com/en/traditional-plant-dieta.php",
+      "url": "https://takiwasi.com/en/traditional-plant-dieta.php"
+    },
+    {
+      "id": 5,
+      "title": "5. Chacruna Institute. Healing and Knowledge with Amazonian Shamanic Diet. https://chacruna.net/healing-knowledge-amazon",
+      "url": "https://chacruna.net/healing-knowledge-amazonian-shamanic-diet/"
+    },
+    {
+      "id": 6,
+      "title": "6. Unlimited Sciences. Ayahuasca and the “La Dieta” Debate: Tradition Without Context. https://unlimitedsciences.org/aya",
+      "url": "https://unlimitedsciences.org/ayahuasca-and-the-la-dieta-debate-tradition-without-context/"
+    },
+    {
+      "id": 7,
+      "title": "7. Retreat Guru. Plant Diet 4 weeks. https://retreat.guru/events/1645-41/plant-diet-4-weeks",
+      "url": "https://retreat.guru/events/1645-41/plant-diet-4-weeks"
+    },
+    {
+      "id": 8,
+      "title": "8. Ecologia Peru Manu. En-Dieta and Ayahuasca with Nak in Manu Jungle. https://ecologiaperumanu.com/en-dieta-and-ayahuas",
+      "url": "https://ecologiaperumanu.com/en-dieta-and-ayahuasca-with-nak-in-manu-jungle-peru-t"
+    }
+  ],
   "ceremonial-timing-moon-cycles": [
     {
       "id": 1,

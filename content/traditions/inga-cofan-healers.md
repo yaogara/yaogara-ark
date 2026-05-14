@@ -64,7 +64,7 @@ Ethical engagement with yajé traditions requires respect for intellectual prope
 3. Cultural Survival. “Union de Médicos Yageceros de la Amazonía Colombiana (UMIYAC).” 
    https://www.culturalsurvival.org/news/koef-partner-spotlight-union-de-medicos-yageceros-de-la-amazonia-colombiana[3]
 4. Yaogará. “Yagé Ayahuasca: The Colombian Tradition.” 
-   https://yaogara.com/blog/yage-ayahuasca/[4]
+   https://caminoalsol.com/blog/yage-ayahuasca/[4]
 5. Lucid News. “Indigenous Healers Fundraise to Combat Cultural Destruction.” 
    https://www.lucid.news/indigenous-healers-fundraise-to-combat-cultural-destruction/[5]
 6. Rainforest People. “Cofán, an indigenous people between Colombia and Ecuador.” 

@@ -27,7 +27,7 @@ export default ((opts?: Options) => {
         <hr style="opacity:0.3; margin:1em 0;" />
         <p style="font-size:0.9em; opacity:0.8;">
           Maintained by{" "}
-          <a href="https://yaogara.com" target="_blank" rel="noopener">
+          <a href="https://caminoalsol.com" target="_blank" rel="noopener">
             Yaogará Natural Reserve
           </a>
         </p>

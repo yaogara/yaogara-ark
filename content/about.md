@@ -46,7 +46,7 @@ We encourage every visitor to engage with these teachings **ethically, respectfu
 
 ## 🌎 Related Projects
 
-Yaogará Ark is part of the wider **[Yaogará](https://yaogara.com)** ecosystem — a nature reserve and botanical center in the Colombian Andes dedicated to ecological regeneration and sacred plant preservation.  
+Yaogará Ark is part of the wider **[Yaogará](https://caminoalsol.com)** ecosystem — a nature reserve and botanical center in the Colombian Andes dedicated to ecological regeneration and sacred plant preservation.  
 Its field counterpart, **[Camino al Sol](https://caminoalsol.com)**, hosts experiential retreats and educational programs that connect people directly with these ancestral traditions.
 
 ---

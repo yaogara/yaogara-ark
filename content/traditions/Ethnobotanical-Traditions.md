@@ -120,7 +120,7 @@ The challenge lies in finding ways to honor, preserve, and learn from these trad
 This article is part of the **[Yaogará Ark Research Archive](https://ark.yaogara.org)** —
 an open ethnobotanical repository documenting sacred plants and Indigenous ecological knowledge of the Amazon.
 
-**Publisher:** [Yaogará Research Initiative](https://yaogara.com) — Fundación Camino al Sol
+**Publisher:** [Yaogará Research Initiative](https://caminoalsol.com) — Fundación Camino al Sol
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 **Citation:** Yaogará Research Initiative (2025). *Ethnobotanical Traditions*. Yaogará Ark Research Archive. https://ark.yaogara.org/traditions/ethnobotanical-traditions
 

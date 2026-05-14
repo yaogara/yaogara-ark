@@ -102,7 +102,7 @@ Risk management and participant care
 
 ## References
 1. “Resources.” The Nature Within. https://thenaturewithinus.com/resources/
-2. “Ayahuasca & Menstrual Cycle – Sacred Wisdom For Women.” Yaogará. https://yaogara.com/blog/embracing-the-wisdom-of-women/
+2. “Ayahuasca & Menstrual Cycle – Sacred Wisdom For Women.” Yaogará. https://caminoalsol.com/blog/embracing-the-wisdom-of-women/
 3. “Full Corn Moon Hapé Ritual | Sacred Amazonian Medicine for Clarity.” Awake Healer. https://www.awakehealer.com/blogs/blog/aligning-with-the-full-corn-moon-a-sacred-hape-ritual-for-clarity-and-renewal
 4. “Women and Ayahuasca.” Singing to the Plants. https://singingtotheplants.com/2008/02/women-and-ayahuasca/
 5. “Ayahuasca Ceremonies - Rythmia.” https://www.rythmia.com/ayahuasca-ceremonies
